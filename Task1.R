@@ -1,6 +1,8 @@
 require(rvest)
 require(magrittr)
 require(dplyr)
+#install.packages("dendextend")
+require(dendextend)
 
 getTable <- function(page)
 {
@@ -14,45 +16,49 @@ getTable <- function(page)
     select(-Brewer,-Rating)-> table
   return(table)
 }
-Test <- getTable(1)
 
 # Beer styles are in numbers encoded
 # Weizen/Weissbier - 1
 # American IPA - 2
 # German Pilsner (Pils) - 3
 # Irish Red Ale - 4
-
-getDataSet <- function(pages)
+getDataSet <- function(firstPg,lastPg)
 {
   dataComplete <- NULL
-  for (page in 1:pages) 
+  for (page in firstPg:lastPg) 
    {
      tempTable <- getTable(page)
      dataComplete <- rbind(dataComplete,tempTable)
-     dataComplete%>%
-       filter(Style=="Weizen/Weissbier"|Style=="American IPA"|Style=="German Pilsner (Pils)"|Style=="Irish Red Ale")%>%
-       mutate(Style = ifelse(.$Style == "Weizen/Weissbier",1,
-                             ifelse(.$Style == "American IPA",2,
-                                    ifelse(.$Style == "German Pilsner (Pils)",3,
-                                           ifelse(.$Style == "Irish Red Ale",4,NA)))))-> dataComplete
-     rownames(dataComplete)<- dataComplete$Name
-     dataComplete%>%
-       select(-Name)-> dataComplete
-     
-    }
+   }
+  dataComplete%>%
+    filter(Style=="Weizen/Weissbier"|Style=="American IPA"|Style=="German Pilsner (Pils)"|Style=="Irish Red Ale")%>%
+    mutate(Style = ifelse(.$Style == "Weizen/Weissbier",1,
+                          ifelse(.$Style == "American IPA",2,
+                                 ifelse(.$Style == "German Pilsner (Pils)",3,
+                                        ifelse(.$Style == "Irish Red Ale",4,NA)))))-> dataComplete
+  
   return(dataComplete)
 }
 
-brewerData <- getDataSet(1)
+brewData1 <- getDataSet(1,100)
+brewData2 <- getDataSet(101,200)
+brewData3 <- getDataSet(201,300)
+brewData <- rbind(brewData1,brewData2,brewData3)
+write.csv2(brewData, file = "brewData.csv")
+
+brewData <- read.csv2("brewData.csv")
+
+rownames(brewData)<- make.names(brewData$Name,unique = T)
+brewData%>%
+  select(-Name,-X)-> brewData
 
 # 1.a 
-
-PCAbrewer = prcomp(brewerData,scale = T)
+PCAbrew = prcomp(brewData,scale = T)
 #data gets scaled
-summary(PCAbrewer) #summary stats
-PCAbrewer$rotation #loadings
-biplot(PCAbrewer)
-screeplot(PCA,type="lines")
+summary(PCAbrew) #summary stats
+PCAbrew$rotation #loadings
+biplot(PCAbrew)
+screeplot(PCAbrew,type="lines")
 
 #
 # DISKUSSION!!!
@@ -63,13 +69,13 @@ screeplot(PCA,type="lines")
 
 # 1.b 
 
-kMeansBrewer <- kmeans(select(brewerData,-Style),4,nstart = 5)
+kMeansBrewer <- kmeans(select(brewData,-Style),4,nstart = 5)
 
 plot(newiris[c("Sepal.Length",
                "Sepal.Width")], col=kc$cluster)
 points(kc$centers[,c("Sepal.Length",
                      "Sepal.Width")], col=1:3, pch=8, cex=2)
-table(kMeansBrewer$cluster,brewerData$Style)
+table(kMeansBrewer$cluster,brewData$Style)
 
 #
 #
@@ -77,5 +83,15 @@ table(kMeansBrewer$cluster,brewerData$Style)
 #
 #
 
-# 1.c 
-
+# 1.c
+# Change style back to a factor variable
+newBrewData = brewData
+newBrewData$Style= NULL
+distances= dist(brewData)
+hc= hclust(distances)
+plot(hc)
+labels=cutree(hc,4)
+table(labels,brewData$Style)
+hc= as.dendrogram(hc)
+dend1 <-color_branches(hc, k = 3)
+plot(dend1)
