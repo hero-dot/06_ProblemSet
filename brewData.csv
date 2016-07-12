@@ -1,1649 +1,1651 @@
-"";"Name";"Style";"OG";"FG";"IBU";"ABV";"Color"
-"X3.Floyd.s.Zombie.Dust.Clone";"3 Floyd's Zombie Dust Clone";2;1,07;1,018;53;6,9;8
-"Cascade.IPA";"Cascade IPA";2;1,068;1,018;68;6,6;6
-"Hefe.IV";"Hefe IV";1;1,05;1,012;12;5;3
-"Citra.Black.IPA";"Citra Black IPA";2;1,062;1,017;43;6;33
-"Citra.Amarillo.IPA";"Citra/Amarillo IPA";2;1,059;1,01;68;6,4;6
-"House.Red.Ale";"House Red Ale";4;1,049;1,012;20;4,8;17
-"Love.You.Long.Time.IPA";"Love You Long Time IPA";2;1,05;1,013;43;4,9;8
-"Grapefruit.IPA";"Grapefruit IPA";2;1,062;1,015;50;6,1;10
-"All.Citra.Ale";"All Citra Ale";2;1,06;1,015;49;5,9;7
-"Springtime.Red.IPA";"Springtime Red IPA";2;1,066;1,016;70;6,4;14
-"German.Pilsner";"German Pilsner";3;1,046;1,012;36;4,5;2
-"Bells.Two.Hearted..BeerSmith.";"Bells Two Hearted (BeerSmith)";2;1,074;1,017;61;7,5;7
-"Citripa";"Citripa";2;1,064;1,016;67;6,2;8
-"Herms√.l...Red.Ranger";"Herms√∏l - Red Ranger";4;1,065;1,017;22;6,2;15
-"Golden.Magic.Hefeweizen";"Golden Magic Hefeweizen";1;1,051;1,013;14;5;2
-"Celtic.Sunrise.Irish.Red.Ale";"Celtic Sunrise Irish Red Ale";4;1,05;1,014;18;4,7;13
-"Irish.red";"Irish red";4;1,049;1,014;24;4,6;13
-"Citra.Single.Hop.IPA";"Citra Single Hop IPA";2;1,07;1,018;65;6,9;9
-"Lagunitas.IPA.clone";"Lagunitas IPA clone";2;1,074;1,019;58;7,3;9
-"Bronco.Orange.Hefeweizen.BIAB";"Bronco Orange Hefeweizen BIAB";1;1,05;1,012;15;5;3
-"Strawberry.Wheat";"Strawberry Wheat";1;1,052;1,013;10;5,1;3
-"X.2.Summer.SMaSH.IPA";"#2 Summer SMaSH IPA";2;1,069;1,017;53;6,8;6
-"Double.Dawg.Dare.IPA";"Double Dawg Dare IPA";2;1,062;1,017;66;5,9;6
-"Northern.Brewer.Dead.Ringer.IPA";"Northern Brewer Dead Ringer IPA";2;1,067;1,018;55;6,4;7
-"Hefeweizen";"Hefeweizen";1;1,051;1,013;13;5;3
-"Azacca.SMASH";"Azacca SMASH";2;1,073;1,017;67;7,3;6
-"Citra.Mosaic.Half.Hearted";"Citra Mosaic Half Hearted";2;1,06;1,014;54;6;7
-"Bismarck.Pils";"Bismarck Pils";3;1,049;1,012;40;4,8;2
-"Angel.IPA";"Angel IPA";2;1,064;1,014;56;6,5;7
-"Fresh.Hop.IPA";"Fresh Hop IPA";2;1,067;1,016;62;6,8;7
-"Session.Black.IPA";"Session Black IPA";2;1,048;1,013;42;4,6;37
-"L33T.1P4";"L33T 1P4";2;1,07;1,015;65;7,2;7
-"Irish.Red.2011";"Irish Red 2011";4;1,055;1,014;19;5,4;14
-"Denny.s.Rye.IPA";"Denny's Rye IPA";2;1,082;1,012;60;9,1;10
-"German.Pilsner.1";"German Pilsner";3;1,052;1,011;35;5,3;2
-"Zombie.Dust.IPA.Clone";"Zombie Dust IPA Clone";2;1,047;1,007;108;5,2;9
-"Dead.Ringer.IPA";"Dead Ringer IPA";2;1,064;1,015;64;6,4;7
-"Freshly.Squeezed.Nugs";"Freshly Squeezed Nugs";2;1,074;1,018;52;7,4;9
-"Outter.Limits.IPA";"Outter Limits IPA";2;1,068;1,018;41;6,6;11
-"Zombie.Ritual..Zombie.Dust.Clone..BIAB";"Zombie Ritual (Zombie Dust Clone) BIAB";2;1,062;1,016;63;6,1;8
-"Weihenstephaner.Hefe.Weissbier..1";"Weihenstephaner Hefe Weissbier #1";1;1,052;1,012;11;5,2;2
-"Irish.Red.Ale..Midwest.kit.";"Irish Red Ale (Midwest kit)";4;1,044;1,011;22;4,4;12
-"Hawaiian.Pale.Ale";"Hawaiian Pale Ale";2;1,059;1,014;59;6;9
-"Tafy.s.Rye.Pils";"Tafy's Rye Pils";3;1,047;1,011;30;4,8;3
-"Jamil.s.BYO.Irish.Red.Ale";"Jamil's BYO Irish Red Ale";4;1,052;1,014;25;5,1;15
-"Snoweizen";"Snoweizen";1;1,044;1,012;10;4,2;4
-"Ice.to.69.you";"Ice to 69 you";2;1,07;1,016;68;7;6
-"Lenticular";"Lenticular";2;1,058;1,008;61;6,5;6
-"Ziggy.Spacedust.IPA..a.smaller.Space.Dust.clone.";"Ziggy Spacedust IPA (a smaller Space Dust clone)";2;1,06;1,018;55;5,5;4
-"Summer.Shandy";"Summer Shandy";1;1,051;1,012;12;5,1;3
-"Single.Hop.IPA...Sorachi.Ace...Scaled";"Single Hop IPA - Sorachi Ace - Scaled";2;1,064;1,017;54;6,1;8
-"Ska.Modus.Hoperandi.Clone";"Ska Modus Hoperandi Clone";2;1,067;1,017;67;6,6;12
-"Single.Hop.Amarillo.IPA";"Single Hop Amarillo IPA";2;1,066;1,017;59;6,4;10
-"Nasty.Nate.s.Armadillo";"Nasty Nate's Armadillo";2;1,061;1,015;70;6;7
-"Hoppiness.is.an.IPA..Palmer.et.al.";"Hoppiness is an IPA (Palmer et al)";2;1,072;1,011;58;8,1;8
-"Chinook.IPA";"Chinook IPA";2;1,066;1,018;65;6,3;6
-"X1337.Zombie..Citra.Single.Hop.";"1337 Zombie (Citra Single Hop)";2;1,064;1,009;70;7,2;7
-"Aranycs√.pp";"Aranycs√∂pp";1;1,061;1,016;11;5,9;3
-"Raging.Red.Irish.Red.Ale";"Raging Red Irish Red Ale";4;1,06;1,014;25;6;15
-"Kilkenny.Irish.Red";"Kilkenny Irish Red";4;1,047;1,015;19;4,1;13
-"Sculpin.IPA.Clone";"Sculpin IPA Clone";2;1,072;1,018;73;7,1;9
-"Standard.Weissbier";"Standard Weissbier";1;1,043;1,011;23;4,1;3
-"Willamette.valley.wiesse";"Willamette valley wiesse";1;1,051;1,014;9;4,9;3
-"Irish.Spring.Break";"Irish Spring Break";4;1,048;1,014;25;4,6;10
-"Sailor.s.Delight";"Sailor's Delight";2;1,07;1,017;66;7;6
-"Columbus.IPA";"Columbus IPA";2;1,065;1,016;56;6,4;8
-"Chinook.Rye.IPA";"Chinook Rye IPA";2;1,075;1,011;68;8,4;10
-"Belgian.IPA";"Belgian IPA";2;1,069;1,017;70;6,8;6
-"Columbus.Single.Hop.IPA";"Columbus Single Hop IPA";2;1,074;1,011;65;8,3;6
-"Lagunitas.IPA.Clone";"Lagunitas IPA Clone";2;1,06;1,017;45;5,6;7
-"Hangover.Hold.em.IPA";"Hangover Hold'em IPA";2;1,065;1,013;48;6,8;7
-"Equinox.IPA.9.26.14";"Equinox IPA 9/26/14";2;1,057;1,012;60;5,9;8
-"Moran.s.IPA";"Moran's IPA";2;1,056;1,015;58;5,4;32
-"Irish.Red";"Irish Red";4;1,058;1,014;26;5,7;12
-"Oirish.Rad";"Oirish Rad";4;1,063;1,014;23;6,4;11
-"Fresh.Squeezed.IPA.Clone";"Fresh Squeezed IPA Clone";2;1,064;1,009;88;7,2;8
-"Northwest.Imperial.Red.Rye.Ale";"Northwest Imperial Red Rye Ale";4;1,083;1,022;37;8;14
-"Tongue.Tickler.Pilsner";"Tongue Tickler Pilsner";3;1,048;1,011;28;4,8;2
-"Biscuit.IPA";"Biscuit IPA";2;1,07;1,017;52;6,8;10
-"Summer.Pils";"Summer Pils";3;1,05;1,01;39;5,2;2
-"Nisqually.Pale";"Nisqually Pale";2;1,061;1,015;58;6;8
-"Draft.Day.IPA";"Draft Day IPA";2;1,074;1,017;60;7,4;13
-"MACC.IPA";"MACC IPA";2;1,071;1,015;41;7,4;6
-"Centennial.IPA";"Centennial IPA";2;1,07;1,015;65;7,1;9
-"Daniel.s.Extract.Hefeweizen";"Daniel's Extract Hefeweizen";1;1,05;1,013;13;4,9;3
-"Red.IPA";"Red IPA";2;1,065;1,015;66;6,6;13
-"Bell.s.Two.Hearted.Clone";"Bell's Two Hearted Clone";2;1,06;1,012;54;6,3;8
-"Cascade.of.Cascade";"Cascade of Cascade";2;1,057;1,012;58;5,9;7
-"Heafes.weizen";"Heafes-weizen";1;1,048;1,013;11;4,7;2
-"German.Pilsner.3";"German Pilsner#3";3;1,046;1,01;35;4,7;2
-"Single.Hop.IPA..Nelson.Sauvin.";"Single Hop IPA (Nelson Sauvin)";2;1,071;1,017;56;7,2;9
-"Irish.Red.Ale..MW.";"Irish Red Ale (MW)";4;1,049;1,013;26;4,7;12
-"Chinook.IPA.1";"Chinook IPA";2;1,057;1,014;45;5,7;7
-"Galaxy.IPA";"Galaxy IPA";2;1,071;1,018;63;6,9;8
-"B.s.Pils";"B's Pils";3;1,048;1,012;44;4,7;2
-"American.Red.Rye.IPA";"American Red Rye IPA";2;1,063;1,016;73;6,2;16
-"Kama.Citra.Session.IPA..NB.";"Kama Citra Session IPA (NB)";2;1,05;1,014;39;4,8;4
-"Jim.s.American.IPA";"Jim's American IPA";2;1,048;1,007;61;5,4;5
-"hefe";"hefe";1;1,053;1,013;15;5,2;6
-"Simple.Hefe";"Simple Hefe";1;1,058;1,015;5;5,6;3
-"K√.nigskrone.German.Pils";"K√∂nigskrone German Pils";3;1,049;1,013;33;4,7;2
-"Boylan.Hoptical";"Boylan Hoptical";2;1,055;1,013;44;5,5;11
-"duet.clone";"duet clone";2;1,07;1,016;52;7;4
-"Wolf";"Wolf";2;1,074;1,013;39;8;15
-"Red.Beard...Bitter.Red";"Red Beard - Bitter Red";4;1,049;1,014;29;4,6;13
-"A2ZIPA...";"A2ZIPA!!!";2;1,072;1,016;71;7,3;3
-"Ein.ma.Weisse";"Ein'ma Weisse";1;1,047;1,013;8;4,5;4
-"IPA";"IPA";2;1,065;1,011;48;7;9
-"Magnibrew.s.Hop..Hop..IPA";"Magnibrew's Hop! Hop! IPA";2;1,062;1,016;52;6,1;8
-"Nugget.Nectar.Clone";"Nugget Nectar Clone";2;1,069;1,01;108;7,7;6
-"Trick.or.Treat.Black.IPA";"Trick or Treat Black IPA";2;1,08;1,019;67;8;62
-"Red.Robyn.2";"Red Robyn 2";4;1,044;1,006;22;4,9;9
-"CYBI.Green.Flash.West.Coast.IPA";"CYBI Green Flash West Coast IPA";2;1,077;1,021;100;7,3;8
-"Ziggy.Spacedust.II";"Ziggy Spacedust II";2;1,064;1,019;58;5,9;4
-"Vic.Secret.IPA";"Vic Secret IPA";2;1,061;1,015;57;6,1;5
-"Jamil.s.Evil.Twin...ALL.GRAIN";"Jamil's Evil Twin - ALL GRAIN";2;1,065;1,017;69;6,2;16
-"Nelson.in.Vienna.SMaSH";"Nelson in Vienna SMaSH";2;1,054;1,013;44;5,4;7
-"Leine.s.Summer.Shandy.Clone";"Leine's Summer Shandy Clone";1;1,051;1,012;12;5,1;2
-"EMA.American.Pale...26L.batch.";"EMA American Pale  (26L batch)";2;1,059;1,009;41;6,6;7
-"Liquid.Alpha";"Liquid Alpha";2;1,065;1,015;48;6,6;6
-"German.IPA";"German IPA";2;1,058;1,015;48;5,7;10
-"Weihenstephan.Hefe.Weissbier";"Weihenstephan Hefe-Weissbier";1;1,048;1,012;14;4,7;3
-"Chanson.d.Hiver";"Chanson d'Hiver";2;1,065;1,016;51;6,4;6
-"SaraWeizen";"SaraWeizen";1;1,052;1,013;11;5,1;4
-"Hop.Burst.IPA";"Hop Burst IPA";2;1,065;1,015;56;6,5;7
-"Big.Enzyme.ER";"Big Enzyme ER";2;1,065;1,013;57;6,8;6
-"American.Rye.IPA";"American Rye IPA";2;1,064;1,015;50;6,4;7
-"Chicken.Dog.IPA";"Chicken Dog IPA";2;1,069;1,017;69;6,8;8
-"Cabin.Fever.Stovetop.APA";"Cabin Fever Stovetop APA";2;1,06;1,016;64;5,7;10
-"Duke.s.Fall.Retriever";"Duke's Fall Retriever";2;1,07;1,01;57;7,8;7
-"oktoberfest.hefe";"oktoberfest hefe";1;1,052;1,012;12;5,2;3
-"German.Hefeweizen";"German Hefeweizen";1;1,048;1,012;11;4,7;2
-"From.Hells.Heart";"From Hells Heart";2;1,062;1,013;70;6,5;8
-"Spaceman.IPA";"Spaceman IPA";2;1,069;1,01;51;7,8;6
-"Hoppy.Red..1";"Hoppy Red #1";2;1,071;1,017;62;7,1;15
-"Red.Classic";"Red Classic";4;1,045;1,013;19;4,2;13
-"Ruby..X..IPA.4.6.14";"Ruby 'X' IPA 4/6/14";2;1,059;1,012;48;6,1;8
-"NW.Rye.IPA";"NW Rye IPA";2;1,073;1,018;44;7,2;9
-"Basic.Bitch.IPA";"Basic Bitch IPA";2;1,072;1,016;56;7,4;6
-"Still.Bitches....Still.in.Space..3gal.";"Still Bitches... Still in Space (3gal)";2;1,063;1,016;61;6,2;6
-"Sierra.Nevada.Celebration.IPA";"Sierra Nevada Celebration IPA";2;1,074;1,011;67;8,3;10
-"Hop.Burst.IPA.1";"Hop Burst IPA";2;1,065;1,013;67;6,7;7
-"American.Copper.Ale..22";"American Copper Ale #22";2;1,069;1,01;58;7,8;14
-"B.day.Hop";"B-day Hop";2;1,066;1,015;67;6,7;12
-"Austin.Homebrew.Nelson.Sauvin.IPA";"Austin Homebrew Nelson Sauvin IPA";2;1,059;1,014;54;5,9;9
-"Hobbit.House.IPA";"Hobbit House IPA";2;1,061;1,011;69;6,6;6
-"GR.IPA";"GR IPA";2;1,064;1,017;50;6,2;9
-"Citra.Single.Hop";"Citra Single Hop";2;1,058;1,012;52;6,1;7
-"Transatlantic.IPA";"Transatlantic IPA";2;1,071;1,018;60;7;7
-"Hogan.s.Air.Raid.ag";"Hogan's Air Raid ag";2;1,065;1,015;65;6,6;6
-"Zombie.Dust.Partial.Mash.Clone.Part.II";"Zombie Dust Partial Mash Clone Part II";2;1,06;1,014;47;6;7
-"Harvest.Red..2015.";"Harvest Red (2015)";2;1,07;1,016;68;7;10
-"SMASH.German.Wheat";"SMASH German Wheat";1;1,052;1,013;10;5,1;4
-"Generic.IPA";"Generic IPA";2;1,068;1,018;44;6,6;10
-"Grapefruit.IPA.1";"Grapefruit IPA";2;1,072;1,018;50;7,1;6
-"IPAHHH.";"IPAHHH!";2;1,059;1,018;61;5,4;7
-"Missing.the.Freshness.....IPA";"Missing the Freshness.... IPA";2;1,058;1,014;65;5,8;12
-"Sierra.Nevada.Celebration.Ale.Clone";"Sierra Nevada Celebration Ale Clone";2;1,063;1,015;53;6,3;13
-"IPA.1";"IPA 1";2;1,073;1,017;57;7,2;6
-"MaracujIPA";"MaracujIPA";2;1,058;1,015;43;5,7;7
-"Heferator";"Heferator";1;1,05;1,013;11;4,8;6
-"Russian.River.Blind.Pig.DIY";"Russian River Blind Pig DIY";2;1,058;1,014;70;5,8;4
-"Pliny.Hop.CLone";"Pliny Hop CLone";2;1,086;1,02;159;8,6;5
-"Hoppy.Joe.Clone.from.Lervig..3";"Hoppy Joe Clone from Lervig #3";2;1,052;1,016;32;4,8;18
-"Grapefruit.Sculpin.Clone";"Grapefruit Sculpin Clone";2;1,069;1,014;74;7,2;4
-"Munich.Ale";"Munich Ale";2;1,083;1,024;46;7,7;6
-"White.IPA...Chainbreaker.White.IPA.Clone";"White IPA - Chainbreaker White IPA Clone";2;1,063;1,015;59;6,3;3
-"Rickard.s.Red.Clone";"Rickard's Red Clone";4;1,046;1,009;20;4,8;14
-"Quailhead.Pils";"Quailhead Pils";3;1,052;1,013;23;5;2
-"Grapefruit.Pulpin";"Grapefruit Pulpin";2;1,065;1,009;39;7,3;7
-"Irish.Red.Ale";"Irish Red Ale";4;1,06;1,017;28;5,6;17
-"Green.Hulk.IPA.aka.American.Revolution";"Green Hulk IPA aka American Revolution";2;1,068;1,021;193;6,2;6
-"Smithwicks.Clone";"Smithwicks Clone";4;1,062;1,017;26;5,9;13
-"Stepchild.Red.Ale";"Stepchild Red Ale";4;1,061;1,017;36;5,9;21
-"Munich.II.Citra.SMaSH";"Munich II/Citra SMaSH";2;1,069;1,017;81;6,8;12
-"all.day.ipa";"all day ipa";2;1,047;1,012;50;4,6;5
-"Darius.hefeweizen";"Darius hefeweizen";1;1,069;1,018;9;6,7;4
-"Citra.Pale.Ale";"Citra Pale Ale";2;1,067;1,02;110;6,2;10
-"Base.IPA..Centennial.";"Base IPA (Centennial)";2;1,065;1,01;51;7,2;7
-"r.ale";"r ale";2;1,068;1,016;54;6,8;7
-"Diamond.Not.04.29.13";"Diamond Not 04/29/13";2;1,073;1,018;44;7,3;12
-"Steiner.Experimental.A.IPA";"Steiner Experimental A IPA";2;1,065;1,015;47;6,5;7
-"IPA..1";"IPA #1";2;1,059;1,015;41;5,8;6
-"X1st.pils";"1st pils";3;1,05;1,013;25;4,9;3
-"Heikki.Lunta..go.away.";"Heikki Lunta (go away)";2;1,067;1,013;48;7;8
-"Slainte";"Slainte";4;1,045;1,013;24;4,2;16
-"X2013.February...Year.of.the.Snake.Irish.Red";"2013 February - Year of the Snake Irish Red";4;1,049;1,013;17;4,7;10
-"Yule.s.Red.Tide.Ale";"Yule's Red Tide Ale";4;1,049;1,011;20;4,9;12
-"Citra.SMaSH.IPA";"Citra SMaSH IPA";2;1,059;1,016;41;5,6;6
-"SHG.Citra";"SHG Citra";2;1,066;1,017;49;6,4;9
-"Hoppily.Ever.After";"Hoppily Ever After";1;1,052;1,013;12;5,1;3
-"Krazy.Kra√.sen.Hefeweizen";"Krazy Kra√ºsen Hefeweizen";1;1,048;1,012;14;4,6;3
-"X2014.Simple.Hefeweizen";"2014 Simple Hefeweizen";1;1,052;1,01;14;5,4;3
-"Corte.Brewing.and.The.Holy.Grail";"Corte Brewing and The Holy Grail";2;1,066;1,017;51;6,5;7
-"Calypso.IPA";"Calypso IPA";2;1,067;1,013;70;7;14
-"MicroFest.IPA";"MicroFest IPA";2;1,069;1,017;63;6,7;8
-"Ed.s.Red.V3";"Ed's Red V3";4;1,047;1,01;21;4,7;11
-"Singel.hoped.Polaris";"Singel hoped Polaris";2;1,062;1,014;67;6,3;6
-"Ken.s.Biergarten";"Ken's Biergarten";3;1,049;1,012;31;4,9;2
-"Hefe";"Hefe";1;1,052;1,014;8;5;3
-"CasMo.SMaSH";"CasMo SMaSH";2;1,068;1,017;49;6,7;6
-"Columbus.Solo";"Columbus Solo";2;1,056;1,014;48;5,6;8
-"Weihenstephaner.Hefeweissbier.Clone";"Weihenstephaner Hefeweissbier Clone";1;1,055;1,014;13;5,4;4
-"Eggy.s.Mosaic.Promise";"Eggy's Mosaic Promise";2;1,06;1,009;35;6,7;4
-"B.64.BIPA.20140217";"B-64 BIPA 20140217";2;1,068;1,01;89;7,6;39
-"X1.Gallon.IPA";"1 Gallon IPA";2;1,067;1,02;141;6,2;5
-"Oaty.Nonsense.II";"Oaty Nonsense II";2;1,063;1,016;0;6,2;6
-"Union.Jack.Clone";"Union Jack Clone";2;1,082;1,013;62;9;7
-"Zatec.Pils";"Zatec Pils";3;1,045;1,013;49;4,2;2
-"Citra.2.Row.Smash";"Citra 2-Row Smash";2;1,061;1,018;52;5,6;2
-"Fit.To.Be.Ty.d";"Fit To Be Ty'd";4;1,054;1,015;25;5,1;13
-"Fruit.Festival.IPA";"Fruit Festival IPA";2;1,064;1,016;72;6,3;8
-"Mosaic.SMaSH";"Mosaic SMaSH";2;1,063;1,016;55;6,2;5
-"Stone..Enjoy.By..clone";"Stone ""Enjoy By"" clone";2;1,085;1,014;92;9,2;4
-"Hop.Scare.IPA";"Hop Scare IPA";2;1,076;1,018;57;7,6;8
-"Zombie.Dirt";"Zombie Dirt";2;1,059;1,018;69;5,4;5
-"trickster";"trickster";2;1,054;1,014;87;5,3;7
-"Cascade.IPA.1";"Cascade IPA";2;1,068;1,01;66;7,6;7
-"West.coast.pils";"West coast pils";3;1,055;1,017;38;5,1;3
-"Session.IPA...Big.Little.Guy.All.Day..GF.";"Session IPA - Big Little Guy All Day (GF)";2;1,045;1,014;44;4,2;7
-"A.Pils";"A Pils";3;1,051;1,015;37;4,7;2
-"Pils.3GB";"Pils 3GB";3;1,046;1,009;34;4,8;1
-"Rye.Rye.Rocco";"Rye Rye Rocco";4;1,06;1,017;31;5,7;11
-"Citra.Marris.Otter.SMASH";"Citra Marris Otter SMASH";2;1,071;1,02;89;6,7;6
-"Captain.MACC";"Captain MACC";2;1,073;1,015;71;7,6;5
-"Zeus.Black.IPA";"Zeus Black IPA";2;1,061;1,009;48;6,9;32
-"Gold.as.Ice";"Gold as Ice";2;1,054;1,008;58;6;5
-"Piney.Falls.IPA";"Piney Falls IPA";2;1,065;1,009;48;7,3;9
-"Fall.Brown.IPA";"Fall Brown IPA";2;1,056;1,012;85;5,6;9
-"Dark.Grey.IPA..w..Earl.Grey.Tea.";"Dark Grey IPA (w. Earl Grey Tea)";2;1,069;1,01;66;7,7;28
-"American.Spruce.Ale";"American Spruce Ale";2;1,062;1,016;54;6;5
-"Ferocious.IPA";"Ferocious IPA";2;1,058;1,015;74;5,6;6
-"Millennium.Falcon";"Millennium Falcon";2;1,052;1,008;72;5,8;6
-"Summer.Ale.4.10.15";"Summer Ale 4/10/15";2;1,042;1,006;47;4,6;1
-"El.Dorado.IPA";"El Dorado IPA";2;1,068;1,014;131;7,2;8
-"All.American.IPA";"All American IPA";2;1,075;1,019;56;7,4;11
-"Anchor.Steam.IPA..Extract.";"Anchor Steam IPA (Extract)";2;1,075;1,022;50;6,9;15
-"The.BABIT.IPA..biab.";"The BABIT IPA (biab)";2;1,065;1,015;45;6,5;2
-"Kiwi.Express.IPA..NB.";"Kiwi Express IPA (NB)";2;1,06;1,009;49;6,8;3
-"Ace.of.Spades";"Ace of Spades";2;1,064;1,016;64;6,2;32
-"Pliny.the.Elder.Clone";"Pliny the Elder Clone";2;1,074;1,017;205;7,4;5
-"Session.IPA";"Session IPA";2;1,04;1,013;73;3,7;2
-"Union.Jackesk.IPA";"Union Jackesk IPA";2;1,065;1,018;77;6,2;9
-"Vermont.IPA";"Vermont IPA";2;1,066;1,018;45;6,3;5
-"Original.Punk.IPA.Clone";"Original Punk IPA Clone";2;1,053;1,013;42;5,2;4
-"Motsatt.kinn.IPA";"Motsatt kinn IPA";2;1,066;1,018;68;6,3;8
-"Hefeweizen.XII";"Hefeweizen XII";1;1,053;1,012;14;5,4;3
-"HTRB.Lavender.Mint.IPA";"HTRB Lavender Mint IPA";2;1,069;1,016;77;6,9;5
-"Outer.Spruce";"Outer Spruce";2;1,046;1,007;56;5,2;3
-"Stone.IPA.Clone";"Stone IPA Clone";2;1,071;1,016;81;7,2;4
-"Colorado..all.day..IPA";"Colorado ""all day"" IPA";2;1,067;1,017;49;6,5;14
-"Later.Skater.III";"Later Skater III";2;1,061;1,016;57;5,9;10
-"Honey.Amber.IPA.";"Honey Amber IPA*";2;1,068;1,016;70;6,8;10
-"Flea.Free.IPA";"Flea Free IPA";2;1,066;1,016;47;6,6;7
-"American.IPA";"American IPA";2;1,073;1,017;69;7,2;6
-"Sheffield.Series...Lagerboy";"Sheffield Series - Lagerboy";3;1,049;1,011;39;5;4
-"Zombie.Dust.Clone...1.Gallon";"Zombie Dust Clone - 1 Gallon";2;1,069;1,017;53;6,8;8
-"Octopus.lagopus..Phillips.Octofox.clone.";"Octopus lagopus (Phillips Octofox clone)";2;1,063;1,016;53;6,2;11
-"The.Defeated.Troll";"The Defeated Troll";3;1,046;1,011;35;4,6;2
-"Summer.2013.IPA";"Summer 2013 IPA";2;1,064;1,015;52;6,4;10
-"Little.Richie.Ale";"Little Richie Ale";2;1,057;1,017;50;5,3;10
-"Kellarb√.r.Ein..Hefeweizen.";"Kellarb√§r Ein (Hefeweizen)";1;1,052;1,013;12;5,1;3
-"Cuv√.e.35.C2IPA";"Cuv√©e 35 C2IPA";2;1,07;1,016;61;7,1;6
-"Red.Robyn";"Red Robyn";4;1,047;1,012;21;4,6;18
-"Christmas.IPA";"Christmas IPA";2;1,071;1,017;70;7,1;8
-"Warm.December";"Warm December";2;1,074;1,015;67;7,7;7
-"Red";"Red";2;1,069;1,017;62;6,8;14
-"Rapid.Fire.IPA";"Rapid Fire IPA";2;1,06;1,012;58;6,3;7
-"Shark.Juice.IPA";"Shark Juice IPA";2;1,058;1,015;61;5,7;7
-"Dead.Ringer.IPA.1";"Dead Ringer IPA";2;1,072;1,01;62;8;14
-"American.IPA_late.hop.add";"American IPA_late hop add";2;1,061;1,014;49;6,1;14
-"Iers.Rood";"Iers Rood";4;1,055;1,014;26;5,4;17
-"Bi√.re.de.Mila";"Bi√®re de Mila";2;1,063;1,015;53;6,3;12
-"Beast.Mode.IPA";"Beast Mode IPA";2;1,071;1,018;60;7;7
-"Hebeert.s.Full.Nelson.IPA";"Hebeert's Full Nelson IPA";2;1,071;1,018;52;6,9;11
-"X.22.‚...Rypa";"#22 ‚Äì Rypa";2;1,063;1,015;59;6,3;8
-"Plato";"Plato";2;1,06;1,014;44;6;9
-"Bell.s.2.Hearted.Citra";"Bell's 2 Hearted Citra";2;1,059;1,014;61;5,9;6
-"Corte.Kiwi.IPA";"Corte Kiwi IPA";2;1,074;1,017;66;7,5;6
-"The.Heff";"The Heff";1;1,051;1,013;14;4,9;5
-"Brett.Botch.Batch.IPA.v6";"Brett Botch Batch IPA v6";2;1,06;1,012;62;6,3;11
-"House.Standard.IPA";"House Standard IPA";2;1,067;1,012;50;7,2;7
-"Goodwheat";"Goodwheat";1;1,05;1,012;9;5;4
-"Underbite.IPA";"Underbite IPA";2;1,058;1,014;46;5,7;8
-"SMaSH.Series..Liquid.Nuggets";"SMaSH Series: Liquid Nuggets";2;1,07;1,016;68;7;6
-"First.Crack.AIPA";"First Crack AIPA";2;1,057;1,015;68;5,5;7
-"Beach.Dreamin";"Beach Dreamin";2;1,067;1,016;70;6,7;13
-"X.004...Dead.Ringer.IPA";"#004 - Dead Ringer IPA";2;1,073;1,018;52;7,2;10
-"I.Doehoe.";"I Doehoe!";2;1,062;1,016;52;6,1;10
-"Simcoe.IPA";"Simcoe IPA";2;1,067;1,017;64;6,6;6
-"CWAY.Gratitude.Attitude";"CWAY Gratitude Attitude";2;1,065;1,016;65;6,4;6
-"En.Amerikansk.Blek.√.l";"En Amerikansk Blek-√ñl";2;1,058;1,015;67;5,7;11
-"Single.Hop.Trials";"Single Hop Trials";2;1,062;1,016;67;6,1;8
-"Lovebite.Weissbier";"Lovebite Weissbier";1;1,046;1,012;12;4,5;3
-"Balls.to.the.wall";"Balls to the wall";2;1,065;1,014;103;6,6;9
-"Zombie.Dirt.1";"Zombie Dirt";2;1,068;1,021;68;6,2;7
-"Badger.Red.Irish.Ale";"Badger Red Irish Ale";4;1,055;1,016;26;5,1;15
-"Grapefruit.Hefeweizen";"Grapefruit Hefeweizen";1;1,057;1,013;23;5,7;3
-"Knife.Hand.IPA";"Knife Hand IPA";2;1,062;1,015;59;6,2;32
-"Squashed.Armadillo.Amarillo.Smash";"Squashed Armadillo Amarillo Smash";2;1,061;1,014;49;6,1;5
-"Blood.Orange.Heffe.2";"Blood Orange Heffe 2";1;1,05;1,012;17;5;4
-"SAM";"SAM";2;1,073;1,022;67;6,7;5
-"Heffe.Wizen";"Heffe Wizen";1;1,053;1,013;10;5,3;3
-"First.Run.Weizen";"First Run Weizen";1;1,021;1,006;29;1,9;2
-"The.Great.American.Incognitum";"The Great American Incognitum";2;1,067;1,02;67;6,1;10
-"Resin.IPA.not.session";"Resin IPA not session";2;1,067;1,016;92;6,7;5
-"Citra.Wheat.IPA";"Citra Wheat IPA";2;1,066;1,01;100;7,3;6
-"Fortune...Glory.stag.beetle";"Fortune & Glory stag beetle";2;1,049;1,013;48;4,7;8
-"Drake.s.IPA.Clone";"Drake's IPA Clone";2;1,082;1,012;38;9,2;9
-"Paesel.Pilsner";"Paesel Pilsner";3;1,049;1,015;39;4,5;4
-"Unita.s.Hop.Nosh";"Unita's Hop Nosh";2;1,051;1,007;72;5,8;10
-"India.Pale.Whale.of.a.Beer";"India Pale Whale of a Beer";2;1,067;1,017;76;6,6;15
-"cybi.Union.Jack";"cybi Union Jack";2;1,064;1,014;67;6,5;4
-"The.Big.Red.One";"The Big Red One";4;1,046;1,012;34;4,5;9
-"Hop.Drop.and.Roll.clone";"Hop Drop and Roll clone";2;1,072;1,01;84;8;7
-"West.Coast.IPA...11.Gal.....1";"West Coast IPA - 11 Gal. - #1";2;1,066;1,015;89;6,6;2
-"Black.Forest.Sorachi.IPA";"Black Forest Sorachi IPA";2;1,064;1,015;63;6,4;30
-"X.26...Chinook.Ale";"#26 - Chinook Ale";2;1,07;1,021;38;6,4;7
-"Glenview.Rye.IPA";"Glenview Rye IPA";2;1,062;1,009;60;7;11
-"Citra.IPA.8.23.15";"Citra IPA 8.23.15";2;1,059;1,014;76;6;8
-"RyePA";"RyePA";2;1,071;1,022;209;6,4;7
-"Irish.Red.1";"Irish Red";4;1,064;1,017;23;6,1;10
-"space.dust.clone..2";"space dust clone #2";2;1,076;1,019;75;7,5;5
-"Davids.Ranger.IPA";"Davids Ranger IPA";2;1,055;1,013;67;5,5;7
-"Red.Ale..Hodge.version.";"Red Ale (Hodge version)";4;1,055;1,015;23;5,3;12
-"X.7.Raspberry.IPA";"#7 Raspberry IPA";2;1,07;1,014;99;7,3;11
-"Trillium.Congress.Street.DDH.IPA.Extract";"Trillium Congress Street DDH IPA Extract";2;1,06;1,009;44;6,8;5
-"schneider.weisse.clone";"schneider weisse clone";1;1,046;1,011;7;4,6;6
-"Backyard.IPA.2.0";"Backyard IPA 2.0";2;1,055;1,015;157;5,2;7
-"New.IPA.S7";"New IPA S7";2;1,07;1,018;73;6,8;4
-"Hinky.Dink.India.Cream.Ale";"Hinky Dink India Cream Ale";2;1,058;1,014;47;5,7;5
-"Tight.Butthole";"Tight Butthole";2;1,073;1,011;87;8,2;31
-"Foxy.Pantz.Pils";"Foxy Pantz Pils";3;1,046;1,011;20;4,7;4
-"Dogfish.Head.60.Minute.IPA.Clone";"Dogfish Head 60 Minute IPA Clone";2;1,063;1,019;80;5,8;9
-"Schneider.Weisse.Clone";"Schneider Weisse Clone";1;1,053;1,014;22;5,1;8
-"German.Pils";"German Pils";3;1,052;1,01;43;5,4;2
-"pliney.ish";"pliney-ish";2;1,062;1,009;75;7;6
-"SoCo.Pennybacker.Double.IPA";"SoCo Pennybacker Double IPA";2;1,07;1,014;79;7,3;10
-"X2013.Memorial.Day.ipa";"2013 Memorial Day ipa";2;1,068;1,021;105;6,2;8
-"Lime.Shandy.Mark.1";"Lime Shandy Mark 1";1;1,052;1,012;16;5,1;2
-"Simcoe.Select.IPA..Midwest.kit.";"Simcoe Select IPA (Midwest kit)";2;1,053;1,013;75;5,2;13
-"Into.the.Unknown.IPA";"Into the Unknown IPA";2;1,061;1,015;118;6;10
-"Soweto.From.Here.IPA";"Soweto From Here IPA";2;1,062;1,009;54;6,9;40
-"Rob.s.IPA";"Rob's IPA";2;1,075;1,019;70;7,3;5
-"Lemon.Coriander.Weiss";"Lemon Coriander Weiss";1;1,057;1,014;12;5,6;3
-"Cactus.Bite";"Cactus Bite";2;1,067;1,01;93;7,5;5
-"Celebration.Bitches";"Celebration Bitches";2;1,071;1,018;87;7;9
-"G√.stens.Licht.Weiss";"G√ºstens Licht Weiss";1;1,053;1,013;9;5,2;3
-"Black.IPA";"Black IPA";2;1,054;1,008;51;6,1;33
-"Flying.Dog.Raging.Bitch.Clone";"Flying Dog Raging Bitch Clone";2;1,056;1,015;72;5,4;10
-"WIPA";"WIPA";2;1,063;1,014;61;6,4;3
-"Aviator.Hot.Rod.Red.Clone";"Aviator Hot Rod Red Clone";4;1,067;1,013;49;7;16
-"Hopped.the.Question";"Hopped the Question";2;1,062;1,012;45;6,5;5
-"BJ.s.Jeremiah.red.clone";"BJ's Jeremiah red clone";4;1,069;1,02;26;6,4;18
-"Boba.Brett..Sour.White.IPA.";"Boba Brett (Sour White IPA)";2;1,063;1,014;68;6,4;4
-"Hunkel";"Hunkel";1;1,047;1,012;13;4,6;11
-"WhiteyPA";"WhiteyPA";2;1,066;1,018;69;6,3;5
-"Simcoe.based.IPA";"Simcoe-based IPA";2;1,058;1,008;66;6,5;13
-"DFH.60.Minute.IPA.Clone";"DFH 60 Minute IPA Clone";2;1,067;1,02;56;6,2;4
-"Third.Party.Liability.IPA";"Third Party Liability IPA";2;1,075;1,014;75;8;5
-"Brewers.Best.IPA.with.Dry.Hop";"Brewers Best IPA with Dry Hop";2;1,063;1,017;83;6;10
-"Waimea.River";"Waimea River";2;1,063;1,019;57;5,8;6
-"X.27.‚...Slurm";"#27 ‚Äì Slurm";2;1,061;1,01;64;6,7;5
-"Congress";"Congress";2;1,066;1,011;73;7,3;5
-"Titan.IPA.Clone";"Titan IPA Clone";2;1,063;1,015;113;6,3;10
-"Northern.Brewer..Bavarian.Hefeweizen";"Northern Brewer: Bavarian Hefeweizen";1;1,055;1,015;15;5,2;3
-"Pinner..2.Session.IPA";"Pinner #2 Session IPA";2;1,05;1,013;81;4,9;3
-"Bosco.s.Irish.Red";"Bosco's Irish Red";4;1,055;1,014;27;5,4;20
-"X2.Poles..IPA..1";"2 Poles: IPA #1";2;1,063;1,012;67;6,6;3
-"Julius.Clone";"Julius Clone";2;1,063;1,014;33;6,3;5
-"County.Clare.Red.Ale";"County Clare Red Ale";4;1,074;1,025;27;6,5;17
-"Big.Daddy.IPA";"Big Daddy IPA";2;1,063;1,015;94;6,3;13
-"Fireside.IPA";"Fireside IPA";2;1,073;1,022;73;6,7;10
-"Ranger.IPA";"Ranger IPA";2;1,058;1,009;109;6,4;7
-"Yum.Yum.Hefe";"Yum Yum Hefe";1;1,053;1,013;8;5,2;4
-"Blackheart.IPA";"Blackheart IPA";2;1,071;1,017;61;7;34
-"Griffiths.IPA";"Griffiths IPA";2;1,066;1,016;53;6,5;16
-"RIPAblican";"RIPAblican";2;1,065;1,009;74;7,3;8
-"Citra.Black.IPA.clone";"Citra Black IPA clone";2;1,057;1,015;42;5,4;31
-"Pacific.Warrior.May.2015";"Pacific Warrior May 2015";2;1,06;1,009;65;6,7;11
-"Berndog.s.Fall.IPA";"Berndog's Fall IPA";2;1,087;1,026;70;8;8
-"Simple.Heffe.2";"Simple Heffe 2";1;1,053;1,014;15;5,1;4
-"Maris.Otter...Nelson.Sauvin.SMaSH";"Maris Otter / Nelson Sauvin SMaSH";2;1,07;1,01;47;7,8;6
-"Hoppily.Ever.After.1";"Hoppily Ever After";2;1,065;1,016;71;6,4;8
-"Day.Rate.Black.IPA";"Day Rate Black IPA";2;1,066;1,016;69;6,5;35
-"Sculpin.Clone";"Sculpin Clone";2;1,064;1,009;97;7,1;5
-"Ruination.Pale";"Ruination Pale";2;1,061;1,02;66;5,3;4
-"New.Zealand.IPA";"New Zealand IPA";2;1,063;1,015;107;6,3;6
-"Valhalla..double.ipa";"Valhalla, double ipa";2;1,081;1,02;78;7,9;7
-"Kiwi.Express";"Kiwi Express";2;1,067;1,019;70;6,4;9
-"Run.Down";"Run-Down";2;1,081;1,012;88;9,1;5
-"Falcon.Rye.IPA";"Falcon Rye IPA";2;1,058;1,008;50;6,5;12
-"Citrillo.7";"Citrillo 7";2;1,066;1,01;96;7,4;6
-"KatastIPA";"KatastIPA";2;1,066;1,016;101;6,5;9
-"American.IPA.v2";"American IPA v2";2;1,065;1,017;75;6,3;7
-"Unnamed.IPA..17.";"Unnamed IPA (17)";2;1,053;1,013;138;5,2;8
-"birthday.ipa";"birthday ipa";2;1,058;1,015;89;5,7;3
-"Stouts.Are.The.Best";"Stouts Are The Best";2;1,061;1,015;37;5,9;5
-"Blueberry.Oatmeal.IPA";"Blueberry Oatmeal IPA";2;1,053;1,013;81;5,3;4
-"Brian.Pilsner";"Brian Pilsner";3;1,051;1,013;23;5;2
-"Enkel.Mango.IPA";"Enkel Mango IPA";2;1,062;1,016;42;6,1;4
-"Light.Speed.IPA";"Light Speed IPA";2;1,07;1,017;86;6,9;7
-"MoreBeer.German.Hefeweizen";"MoreBeer German Hefeweizen";1;1,053;1,014;14;5,1;3
-"Wilson.IPA.III";"Wilson IPA III";2;1,058;1,005;70;6,9;10
-"fikePA";"fikePA";2;1,06;1,015;88;5,9;5
-"Juicy.IPA";"Juicy IPA";2;1,065;1,018;80;6,2;2
-"X0025.Bobbo.Beer";"0025 Bobbo Beer";2;1,059;1,015;178;5,8;2
-"Jaded.IPA";"Jaded IPA";2;1,065;1,009;55;7,2;6
-"Smashing.the.Mosaic";"Smashing the Mosaic";2;1,067;1,017;109;6,5;5
-"Blood.Orange.Mosaic.IPA";"Blood Orange Mosaic IPA";2;1,067;1,017;61;6,5;3
-"Iroquois";"Iroquois";2;1,065;1,009;72;7,3;8
-"Pisgah.Pale.Clone";"Pisgah Pale Clone";2;1,074;1,018;71;7,4;8
-"Russian.River.Pliny.the.Elder";"Russian River Pliny the Elder";2;1,074;1,017;186;7,4;5
-"Hogan.the.Coon.Dog";"Hogan the Coon Dog";2;1,06;1,011;61;6,3;3
-"Jefferson";"Jefferson";2;1,06;1,016;70;5,8;4
-"Citra.Black.IPA.1";"Citra Black IPA";2;1,071;1,015;64;7,4;41
-"EMA.American.Pale..26L.batch..v1.2";"EMA American Pale (26L batch) v1.2";2;1,059;1,009;101;6,6;7
-"Gueymano.s.Genesis.IPA";"Gueymano's Genesis IPA";2;1,067;1,016;117;6,8;7
-"Stuff..Em.Up.the.Guns";"Stuff 'Em Up the Guns";2;1,061;1,009;54;6,9;6
-"White.Dog.Wit.clone";"White Dog Wit clone";1;1,065;1,016;12;6,5;5
-"zombie.dust.clone";"zombie dust clone";2;1,051;1,016;82;4,6;9
-"X.2.14..BrewCrate.s.Resolution.Red";"[2/14] BrewCrate's Resolution Red";4;1,054;1,008;13;6;13
-"Maris.Motueka.Smash";"Maris Motueka Smash";2;1,054;1,014;50;5,3;4
-"Weissbier.Estiu.2014";"Weissbier Estiu 2014";1;1,052;1,013;9;5,1;2
-"Mosaic.Pale.Ale";"Mosaic Pale Ale";2;1,065;1,009;53;7,3;6
-"Bells.Two.Hearted.Clone";"Bells Two Hearted Clone";2;1,066;1,017;44;6,4;6
-"El.Dorado.IPA.1";"El Dorado IPA";2;1,063;1,012;61;6,7;6
-"Earl.Grey.IPA..Gunnamatta.inspired.";"Earl Grey IPA (Gunnamatta inspired)";2;1,066;1,016;52;6,6;8
-"Knot.Mine";"Knot Mine";2;1,07;1,018;40;6,9;9
-"IPA.2014..1";"IPA 2014 #1";2;1,065;1,01;57;7,2;7
-"IPA.Nima.2";"IPA Nima#2";2;1,066;1,015;68;6,6;10
-"Bush.Irish.Red";"Bush Irish Red";4;1,052;1,014;20;5,1;16
-"Rudeboy.Red.Ale";"Rudeboy Red Ale";4;1,051;1,014;24;4,9;18
-"German.Pils.1";"German Pils";3;1,048;1,012;41;4,8;3
-"Setoff.Summer.IPA";"Setoff Summer IPA";2;1,067;1,016;51;6,7;13
-"Silverberry.Pils";"Silverberry Pils";3;1,047;1,009;34;5;3
-"Cobb.s.IPA";"Cobb's IPA";2;1,06;1,018;59;5,6;10
-"Linwood.IPA";"Linwood IPA";2;1,063;1,016;56;6,2;9
-"American.IPA.v1";"American IPA v1";2;1,074;1,018;69;7,3;10
-"Christina.s.GF.Pale.Ale";"Christina's GF Pale Ale";2;1,061;1,014;61;6,1;7
-"West.by.Midwest.IPA";"West by Midwest IPA";2;1,062;1,015;60;6,2;7
-"Rocky.Island.Weiss.ass";"Rocky Island Weiss-ass";1;1,048;1,013;12;4,7;7
-"Turtle.Rye.IPA";"Turtle Rye IPA";2;1,063;1,014;58;6,5;8
-"Storm.of.the.Century";"Storm of the Century";2;1,071;1,018;64;6,9;7
-"Irish.Red.2";"Irish Red";4;1,049;1,013;23;4,7;12
-"Red.Duffer";"Red Duffer";4;1,045;1,013;27;4,2;13
-"Baby.Jake.Ale";"Baby Jake Ale";4;1,06;1,014;20;6;15
-"Ginger.Juggs.Irish.Red";"Ginger Juggs Irish Red";4;1,052;1,013;24;5,2;16
-"Kaiser.Franz";"Kaiser Franz";3;1,045;1,011;29;4,5;2
-"Micro.Pilsner";"Micro Pilsner";3;1,045;1,011;28;4,4;2
-"Vitamin.C";"Vitamin C";2;1,061;1,015;60;6;7
-"Dead.Ringer.IPA.2";"Dead Ringer IPA";2;1,067;1,017;55;6,6;7
-"Regular.Red";"Regular Red";4;1,056;1,013;22;5,7;16
-"X0.Day.IPA";"0-Day IPA";2;1,068;1,014;55;7,1;7
-"Infidel..2011.05.021.version.";"Infidel (2011-05-021 version)";2;1,067;1,016;58;6,7;9
-"A.Captain.s.IPA";"A Captain's IPA";2;1,065;1,016;59;6,3;8
-"Legacy.IPA";"Legacy IPA";2;1,071;1,018;62;6,9;6
-"Pilsner";"Pilsner";3;1,044;1,011;25;4,3;2
-"X.017.Seat.of.my.Pants.IPA";"#017 Seat of my Pants IPA";2;1,071;1,01;67;8;9
-"Bawlmer.Rye.IPA";"Bawlmer Rye IPA";2;1,063;1,016;59;6,2;7
-"Single.hop.single.grain.IPA";"Single-hop single-grain IPA";2;1,058;1,015;68;5,6;6
-"Bearwallow.IPA.I";"Bearwallow IPA I";2;1,062;1,011;66;6,7;9
-"Snoo.Snoo.IPA";"Snoo Snoo IPA";2;1,073;1,017;58;7,3;6
-"Brent.s.India.Pale";"Brent's India Pale";2;1,068;1,016;43;6,7;8
-"Chewalla.IPA";"Chewalla IPA";2;1,067;1,018;40;6,4;8
-"Golden.Cent.Amo.Ale";"Golden Cent-Amo Ale";2;1,063;1,016;59;6,2;7
-"Batch.79...Vintage.Hills.Celebration.IPA";"Batch 79 - Vintage Hills Celebration IPA";2;1,064;1,013;67;6,7;10
-"Why.d.You.Only.Call.Me.When.You.re.Rye";"Why'd You Only Call Me When You're Rye";2;1,058;1,014;70;5,8;7
-"Freedom.XPA";"Freedom XPA";2;1,062;1,015;48;6,2;7
-"Possum.Trot.Cent.Amo.Ale";"Possum Trot Cent-Amo Ale";2;1,064;1,016;46;6,3;6
-"Allen...Dave.s.Excellent.IPA";"Allen & Dave's Excellent IPA";2;1,064;1,015;67;6,3;9
-"Wedding.IPA";"Wedding IPA";2;1,063;1,017;68;6;7
-"Red.Ale.Brewer.s.Best";"Red Ale Brewer's Best";4;1,05;1,013;19;5;13
-"Single.Malt.IPA";"Single Malt IPA";2;1,057;1,015;48;5,5;6
-"Snuggles.Pils";"Snuggles Pils";3;1,048;1,012;34;4,7;2
-"Quotidian.IPA.version.2.10gal";"Quotidian IPA version 2 10gal";2;1,064;1,016;41;6,3;10
-"Red.Beard.Ale";"Red Beard Ale";4;1,047;1,013;23;4,5;14
-"Lost.in.Translation";"Lost in Translation";2;1,065;1,017;65;6,3;6
-"Celebration.Clone..2012.01.22.version.";"Celebration Clone (2012-01-22 version)";2;1,07;1,018;61;6,8;11
-"Accidental.Lie.in..May.16th.";"Accidental Lie-in (May 16th)";2;1,058;1,014;70;5,7;6
-"Bell.s.Two.Hearted.Ale.Clone";"Bell's Two-Hearted Ale Clone";2;1,07;1,01;67;7,9;7
-"Irish.Red.3";"Irish Red";4;1,054;1,014;18;5,2;14
-"German.Pilsner.2";"German Pilsner";3;1,05;1,012;43;5;2
-"Diamond.Not.10.06.13";"Diamond Not 10/06/13";2;1,06;1,014;49;6;10
-"Diamond.Not.IPA.9.28.14";"Diamond Not IPA 9/28/14";2;1,067;1,014;47;6,9;11
-"King.Brian.s.Poteen";"King Brian's Poteen";4;1,05;1,012;28;5,1;11
-"Mostly.All.Amarillo.IPA";"Mostly All Amarillo IPA";2;1,066;1,018;68;6,3;8
-"Danish.Lager";"Danish Lager";3;1,05;1,012;29;4,9;3
-"Big.Biff.Apricot.IPA";"Big Biff Apricot IPA";2;1,061;1,015;61;6;7
-"Funk.Citra";"Funk Citra";2;1,059;1,012;55;6,1;7
-"Hefeweisen.v1";"Hefeweisen v1";1;1,051;1,013;12;5;3
-"junior.brown.IPA";"junior brown IPA";2;1,07;1,017;49;6,9;12
-"Beach.Wheat";"Beach Wheat";1;1,051;1,014;15;4,8;2
-"One.Hot.Redhead";"One Hot Redhead";4;1,049;1,013;24;4,7;13
-"Prunches.Michale..1";"Prunches Michale #1";4;1,046;1,012;22;4,5;14
-"Alsea.IPA";"Alsea IPA";2;1,06;1,014;62;6;7
-"Glory.Hole";"Glory Hole";2;1,07;1,013;68;7,4;12
-"Midwest.Irish.Ale";"Midwest Irish Ale";4;1,049;1,012;20;4,8;12
-"Crazy.Squirrel.IPA";"Crazy Squirrel IPA";2;1,063;1,017;48;6;7
-"X51.weeks.IPA";"51 weeks IPA";2;1,065;1,015;66;6,5;6
-"Falconer.s.Flight.IPA";"Falconer's Flight IPA";2;1,063;1,017;53;6;7
-"ipah";"ipah";2;1,063;1,013;66;6,6;7
-"IPA.2";"IPA";2;1,061;1,015;49;6;10
-"Polar.Vortex.IPA";"Polar Vortex IPA";2;1,061;1,015;49;6,1;6
-"BS5.IPA.with.Simcoe";"BS5 IPA with Simcoe";2;1,069;1,016;60;6,9;9
-"Mosiac.iPa";"Mosiac iPa";2;1,066;1,016;64;6,6;11
-"Irish.Red.Ale..St..Patty.s.Day.2012.";"Irish Red Ale (St. Patty's Day 2012)";4;1,055;1,014;23;5,4;13
-"Keystone.American.IPA";"Keystone American IPA";2;1,057;1,013;69;5,8;6
-"Continuous.IPA";"Continuous IPA";2;1,07;1,01;53;7,8;9
-"West.by.Midwest.IPA.2";"West by Midwest IPA 2";2;1,06;1,016;53;5,8;7
-"Batch.1...NIPA";"Batch 1 - NIPA";2;1,057;1,013;53;5,7;7
-"Space.Conquistador";"Space Conquistador";2;1,06;1,016;60;5,7;10
-"Slice.of.the.Black..lighter.";"Slice of the Black (lighter)";2;1,069;1,016;51;7;14
-"Ahtanum.Golden.Ale";"Ahtanum Golden Ale";2;1,063;1,016;62;6,2;7
-"Pauls.Irish";"Pauls Irish";4;1,049;1,013;18;4,7;13
-"Drakes.1500.Clone";"Drakes 1500 Clone";2;1,056;1,013;59;5,6;9
-"X.2.FuggleNugget.IPA";"#2 FuggleNugget IPA";2;1,059;1,016;65;5,7;8
-"Citra.Session.IPA";"Citra Session IPA";2;1,057;1,016;46;5,4;7
-"Nugget.IPA";"Nugget IPA";2;1,068;1,018;68;6,6;6
-"Rock.IPA..Stone.IPA.Variant.";"Rock IPA (Stone IPA Variant)";2;1,07;1,017;48;6,9;8
-"Festivus.Ale";"Festivus Ale";2;1,07;1,017;65;7,1;11
-"smash";"smash";2;1,068;1,016;67;6,8;6
-"Hoppy.Medium.IPA";"Hoppy Medium IPA";2;1,068;1,017;55;6,7;7
-"Less.Bitter..2011.05.12.version.";"Less Bitter (2011-05-12 version)";2;1,064;1,016;59;6,3;6
-"Angelito¬.s.IPA.Cascade";"Angelito¬¥s IPA Cascade";2;1,071;1,01;52;7,9;10
-"Bombay.IPA.1b";"Bombay IPA 1b";2;1,06;1,015;54;6;7
-"Small.batch.Columbus.Pale";"Small-batch Columbus Pale";2;1,066;1,016;56;6,4;10
-"The.Annexation.of.Puerto.Rico.IPA";"The Annexation of Puerto Rico IPA";2;1,061;1,014;66;6,1;6
-"Fresh.Squeezed";"Fresh Squeezed";2;1,065;1,015;65;6,5;9
-"Passi√≥";"Passi√≥";1;1,049;1,012;13;4,8;4
-"Cascade.IPA.2";"Cascade IPA";2;1,073;1,013;66;7,9;8
-"X16x.10.35.Pilsner";"16x 10/35 Pilsner";3;1,05;1,01;30;5,2;2
-"R√.llimets√.n.Vaiettu.Salaisuus....hopburst...";"R√∂llimets√§n Vaiettu Salaisuus ~*~hopburst~*~";2;1,064;1,016;60;6,3;9
-"Mike.s.Smoked.Red";"Mike's Smoked Red";4;1,049;1,014;22;4,6;12
-"IPA.7.2015";"IPA 7/2015";2;1,074;1,017;43;7,4;6
-"Tyler.s.All.Grain.Irish.Red.Ale";"Tyler's All Grain Irish Red Ale";4;1,048;1,014;22;4,5;15
-"Heinekan.clone..adapted.from.Dave.Line.1978.";"Heinekan clone (adapted from Dave Line 1978)";3;1,046;1,012;29;4,5;2
-"Yep..All.Citra.Again..it.s.easy";"Yep, All Citra Again; it's easy";2;1,06;1,015;49;5,9;7
-"IPA.137";"IPA 137";2;1,073;1,011;66;8,2;7
-"Bass.Lake.Haze..n.Hops";"Bass Lake Haze 'n Hops";2;1,057;1,015;50;5,5;11
-"Hellbraun.Hefeweizen.v2";"Hellbraun Hefeweizen v2";1;1,05;1,013;12;4,9;5
-"Jeffy.the.heffe";"Jeffy the heffe";1;1,052;1,013;14;5;2
-"Wheat";"Wheat";1;1,05;1,014;14;4,8;5
-"Gylatic.Pils";"Gylatic-Pils";3;1,049;1,012;27;4,8;2
-"IPA.in.Shed";"IPA in Shed";2;1,07;1,01;47;7,8;7
-"Not.Another.IPA";"Not Another IPA";2;1,066;1,013;67;7;8
-"Bohemian.Rap.Sudy";"Bohemian Rap-Sudy";3;1,05;1,012;33;5;2
-"Regal.Beagle.IPA";"Regal Beagle IPA";2;1,06;1,015;63;5,9;6
-"Dead.Ringer.IPA..NB";"Dead Ringer IPA ?NB";2;1,071;1,018;51;6,9;7
-"Rapid.Fire.Wheat.Beer";"Rapid Fire Wheat Beer";1;1,044;1,011;11;4,3;3
-"Lost.Comet";"Lost Comet";2;1,061;1,015;51;5,9;7
-"Rye.RA";"Rye RA";2;1,064;1,015;58;6,5;13
-"X.Those.nutty.Pennocks..Ale";"""Those nutty Pennocks"" Ale";4;1,05;1,014;25;4,8;11
-"X.B1..M..IPA";"[B1] M+ IPA";2;1,069;1,016;48;6,9;7
-"Goosey.MacGooserton.Irish.Red.AG";"Goosey MacGooserton Irish Red AG";4;1,046;1,012;22;4,5;13
-"AG.Dead.Ringer";"AG Dead Ringer";2;1,072;1,01;67;8,1;7
-"Rhino.Fart.2";"Rhino Fart 2";2;1,062;1,015;49;6,2;11
-"Vipa";"Vipa";2;1,069;1,016;55;6,9;11
-"Six.and.Tangent";"Six and Tangent";2;1,061;1,011;60;6,5;7
-"Golden.Amo.Cas.Ale";"Golden Amo-Cas Ale";2;1,063;1,015;52;6,3;7
-"Irish.Red.Ale.1";"Irish Red Ale";4;1,049;1,011;21;5;10
-"Dampfbier";"Dampfbier";1;1,051;1,01;14;5,3;5
-"Zythos.IPA";"Zythos IPA";2;1,058;1,014;64;5,7;7
-"Red.on.Head";"Red on Head";2;1,059;1,015;66;5,8;13
-"TFC..2.1";"TFC #2.1";2;1,068;1,018;55;6,6;9
-"‡..‡...‡..‡..‡.≤.‡..‡..‡.≤‡..‡..";"‡§¶‡•ã ‡§¶‡§ø‡§≤ ‡§ï‡•ç‡§≤‡•ã‡§®";2;1,075;1,018;51;7,5;6
-"Got.to.use.up.this.Citra";"Got to use up this Citra";2;1,06;1,015;49;5,9;7
-"Big.Mistake.APA";"Big Mistake APA";2;1,064;1,014;60;6,5;12
-"Palisade.IPA";"Palisade IPA";2;1,063;1,017;60;6;7
-"Hefe.50..Split.Batch.";"Hefe 50 (Split Batch)";1;1,051;1,013;12;5;5
-"Zajebiste.piwo.Kuby.2.HopSaaza7";"Zajebiste piwo Kuby 2 HopSaaza7";1;1,047;1,012;12;4,6;3
-"Dublin.Red";"Dublin Red";4;1,053;1,014;23;5,1;12
-"The.Native";"The Native";4;1,052;1,012;23;5,2;13
-"R√.yslimoen.IPA.v3...batch..06";"R√∏yslimoen IPA v3 - batch #06";2;1,056;1,015;68;5,3;8
-"All.Hopped.Up.IPA";"All Hopped Up IPA";2;1,071;1,017;69;7,1;7
-"Hubschrauber";"Hubschrauber";1;1,052;1,014;11;5;3
-"X16x.10.30.Pilsner";"16x 10/30 Pilsner";3;1,05;1,01;26;5,2;2
-"Big.Smile.IPA";"Big Smile IPA";2;1,061;1,013;55;6,3;10
-"IPA.w..Marris.Otter";"IPA w/ Marris Otter";2;1,074;1,018;51;7,3;14
-"Mans.Red.Flower";"Mans Red Flower";2;1,064;1,015;40;6,4;9
-"Red.Ale";"Red Ale";4;1,05;1,012;20;5;13
-"IPA..1.1";"IPA #1";2;1,062;1,016;53;6,1;6
-"Leftover.IPA";"Leftover IPA";2;1,07;1,016;61;7;9
-"Hell.Bent.Pils...Kolsch.Yeast..2011.06.19.version.";"Hell-Bent Pils - Kolsch Yeast (2011-06-19 version)";3;1,05;1,013;40;4,8;2
-"Tron.s.Irish.Red.nr.1";"Tron's Irish Red nr 1";4;1,049;1,014;23;4,5;15
-"Tight.Lines.IPA..2011.04.29.version.";"Tight Lines IPA (2011-04-29 version)";2;1,068;1,018;69;6,6;6
-"Nugget.IPA.1";"Nugget IPA";2;1,059;1,015;68;5,8;8
-"Blind.Hawg";"Blind Hawg";2;1,061;1,014;55;6,1;6
-"Down.Under.IPA..O.Connor.s.";"Down Under IPA (O'Connor's)";2;1,057;1,014;59;5,6;7
-"Two.Hearted.Clone.Attempt";"Two Hearted Clone Attempt";2;1,062;1,016;51;6;6
-"Baby.Blues.Away.IPA";"Baby Blues Away IPA";2;1,064;1,016;57;6,3;7
-"Business.Time";"Business Time";2;1,068;1,017;59;6,7;12
-"Danya.s.Day.Off";"Danya's Day Off";2;1,059;1,014;61;5,9;6
-"East.Coast.IPA.with.Meyer.Lemon";"East Coast IPA with Meyer Lemon";2;1,066;1,017;56;6,5;7
-"BC13.Green.Tooth.IPA";"BC13 Green Tooth IPA";2;1,068;1,017;44;6,7;7
-"Tight.Lines.IPA";"Tight Lines IPA";2;1,068;1,018;69;6,6;6
-"Wedding.wheat";"Wedding wheat";1;1,051;1,014;15;4,8;2
-"Pacific.IPA";"Pacific IPA";2;1,064;1,015;48;6,4;7
-"San.Diego.IPA";"San Diego IPA";2;1,063;1,013;55;6,5;6
-"Fine.Mountain.Lilikoi.IPA";"Fine Mountain Lilikoi IPA";2;1,068;1,016;65;6,8;8
-"Height.Herup.Exalts.It.Irish.Ale";"Height Herup Exalts It Irish Ale";4;1,053;1,014;22;5,1;16
-"Cen.Am.Ale";"Cen-Am Ale";2;1,064;1,016;44;6,3;6
-"Red.Doug";"Red Doug";4;1,05;1,013;20;4,8;13
-"Easy.Hefe";"Easy Hefe";1;1,049;1,013;14;4,7;3
-"Possum.Trot.Replay.Cent.Amo.Ale";"Possum Trot Replay Cent-Amo Ale";2;1,064;1,016;45;6,3;6
-"American.IPA.1";"American IPA";2;1,069;1,018;40;6,6;8
-"Hopnormous.Double.IPA";"Hopnormous Double IPA";2;1,068;1,018;44;6,6;8
-"Dead.Ringer.IPA..BIAB...Small.Batch.";"Dead Ringer IPA (BIAB - Small Batch)";2;1,063;1,016;46;6,2;8
-"McNelis..Irish.Red";"McNelis' Irish Red";4;1,058;1,014;22;5,7;15
-"Mela.Red.Ale";"Mela-Red Ale";4;1,047;1,014;17;4,3;12
-"German.Pilsner..1";"German Pilsner #1";3;1,048;1,013;27;4,6;2
-"≈.ywiec";"≈ªywiec";3;1,048;1,013;30;4,6;3
-"March.IPA";"March IPA";2;1,062;1,016;69;6;10
-"Ruaidr√.";"Ruaidr√≠";4;1,052;1,013;27;5,1;14
-"El.Hefe";"El Hefe";1;1,052;1,013;14;5,1;2
-"DownUnder";"DownUnder";2;1,07;1,017;59;7,1;7
-"Pilsner.1";"Pilsner 1";3;1,05;1,013;36;4,8;2
-"Bear.With.Me.IPA";"Bear With Me IPA";2;1,069;1,015;57;7;7
-"MO.Amarillo.SMASH";"MO/Amarillo SMASH";2;1,061;1,015;56;6;6
-"ipa.1";"ipa 1";2;1,061;1,014;65;6,1;7
-"Siuslaw.IPA";"Siuslaw IPA";2;1,062;1,015;47;6,3;8
-"X5.G.Citra";"5 G Citra";2;1,063;1,016;43;6,2;9
-"VandalEyes.PA";"VandalEyes PA";2;1,07;1,017;53;6,9;8
-"Dead.Ringer.IPA.3";"Dead Ringer IPA";2;1,067;1,017;55;6,6;7
-"Dark.Side..Irish.Red.";"Dark Side (Irish Red)";4;1,044;1,012;21;4,2;17
-"Spankies.German.Pils";"Spankies German Pils";3;1,05;1,01;36;5,2;2
-"Weissbier..Spring.2011";"Weissbier, Spring 2011";1;1,051;1,012;12;5,1;6
-"Single.Malt.IPA.1";"Single Malt IPA";2;1,071;1,017;62;7,1;6
-"Roll.on.Columbia";"Roll on Columbia";2;1,064;1,017;63;6,2;12
-"Centennial.Delight";"Centennial Delight";2;1,066;1,016;52;6,6;7
-"Untitled.Weizen.Weissbier.162387";"Untitled Weizen/Weissbier 162387";1;1,052;1,013;12;5,1;5
-"first.brew";"first brew";2;1,061;1,017;57;5,9;9
-"TNT.s.Cascadian.Ale..2011.07.02.version.";"TNT's Cascadian Ale (2011-07-02 version)";2;1,065;1,016;43;6,4;7
-"X.PA";"!PA";2;1,072;1,018;60;7,1;11
-"Late.Night.IPA";"Late Night IPA";2;1,057;1,011;50;6;8
-"sorta.kinda.NB.Patersbier";"sorta kinda NB Patersbier";3;1,049;1,012;25;4,8;2
-"Brewers.Best..Red.Ale.Kit";"Brewers Best: Red Ale Kit";4;1,05;1,012;20;5;13
-"Half.hung.Red";"Half-hung Red";4;1,051;1,013;22;5;13
-"Red.Ale.1";"Red Ale";4;1,05;1,014;24;4,7;12
-"Big.Smile.IPA.1";"Big Smile IPA";2;1,061;1,013;55;6,3;10
-"Flying.Monkey...Smashbomb.Atomic.IPA.Clone";"Flying Monkey - Smashbomb Atomic IPA Clone";2;1,064;1,017;68;6,2;11
-"Explosive.IPA.Part.Deux";"Explosive IPA Part Deux";2;1,063;1,017;45;6;6
-"All.Citra.Again";"All Citra Again";2;1,06;1,015;49;5,9;7
-"American.IPA.2";"American IPA";2;1,067;1,017;41;6,5;8
-"X.53.IPA";"#53 IPA";2;1,063;1,012;63;6,7;7
-"Polaris";"Polaris";3;1,049;1,013;43;4,8;2
-"Vienna.IPA..mk.4";"Vienna IPA, mk.4";2;1,06;1,012;62;6,3;9
-"Fresh.NZAPA";"Fresh NZAPA";2;1,06;1,014;44;6;6
-"Brewer.s.Best.Red.Ale";"Brewer's Best Red Ale";4;1,052;1,012;25;5,1;13
-"Traditional.Hefe";"Traditional Hefe";1;1,051;1,013;12;5;3
-"Bridgeport.IPA";"Bridgeport IPA";2;1,058;1,016;46;5,5;7
-"Judges.Pick.IPA";"Judges Pick IPA";2;1,059;1,013;57;6;7
-"Bryan.s.Irish.Red";"Bryan's Irish Red";4;1,049;1,012;23;4,9;12
-"SMSH..Opal.";"SMSH (Opal)";3;1,048;1,012;31;4,8;2
-"Columbus.IPA.1";"Columbus IPA";2;1,063;1,015;48;6,3;6
-"Hefe.1";"Hefe";1;1,048;1,012;13;4,7;3
-"DTs.Debauchery.Irish.Ale";"DTs Debauchery Irish Ale";4;1,059;1,013;22;6;14
-"Fast.red";"Fast red";4;1,044;1,012;27;4,2;13
-"Carlsberg.Clone";"Carlsberg Clone";3;1,049;1,012;26;4,8;2
-"Melfstar.Red";"Melfstar Red";4;1,051;1,013;22;5;12
-"German.Pils.Wedding.Edition";"German Pils Wedding Edition";3;1,048;1,01;28;5;3
-"Forrest.IPA";"Forrest IPA";2;1,059;1,012;68;6,2;7
-"Zombie.Dust.Variant";"Zombie Dust Variant";2;1,06;1,014;68;6;9
-"Firecracker.Spicy.IPA";"Firecracker Spicy IPA";2;1,064;1,017;47;6,2;8
-"HGIPA";"HGIPA";2;1,063;1,013;57;6,5;8
-"Double.Cocked.Hefe";"Double Cocked Hefe";1;1,05;1,013;14;4,8;2
-"Pilsy";"Pilsy";3;1,047;1,012;26;4,6;3
-"BS5.IPA";"BS5 IPA";2;1,061;1,014;47;6,1;8
-"DanK.IPA.20.";"DanK IPA 20?";2;1,061;1,013;52;6,4;9
-"weizen";"weizen";1;1,05;1,012;13;5;3
-"Boulevard.Irish.Ale.Clone";"Boulevard Irish Ale Clone";4;1,053;1,011;22;5,5;16
-"Pierian.Spring";"Pierian Spring";1;1,052;1,013;10;5,1;3
-"Wedding.Weizen";"Wedding Weizen";1;1,048;1,013;10;4,7;2
-"Summer.Solstice.Pils";"Summer Solstice Pils";3;1,049;1,011;36;4,9;2
-"Clear.Day";"Clear Day";3;1,05;1,013;36;4,8;2
-"Inbred.Red";"Inbred Red";4;1,05;1,013;19;4,8;14
-"Zeus.on.the.Summit.with.a.Citra.Amarillo";"Zeus on the Summit with a Citra Amarillo";2;1,07;1,017;67;6,9;8
-"Golden.Citra.Ale";"Golden Citra Ale";2;1,063;1,016;58;6,2;7
-"Eire.Ay";"Eire-Ay";4;1,054;1,014;21;5,3;13
-"Infidel..2012.01.07.version.";"Infidel (2012-01-07 version)";2;1,067;1,016;57;6,7;9
-"American.IPA.3";"American IPA";2;1,06;1,016;65;5,8;11
-"Resolved.IPA";"Resolved IPA";2;1,065;1,016;62;6,4;8
-"MYIPA";"MYIPA";2;1,067;1,016;54;6,7;9
-"Weissbier..Nelson.Sauvin.Hopped.";"Weissbier (Nelson Sauvin Hopped)";1;1,05;1,013;13;4,9;3
-"Try.Try.Again";"Try Try Again";4;1,051;1,014;18;4,8;16
-"Cascade.IPA.3";"Cascade IPA";2;1,067;1,01;48;7,4;9
-"DelaHefeweizen";"DelaHefeweizen";1;1,05;1,012;11;5,1;3
-"Damberts.3.0.IPA..2011.07.07.version.";"Damberts 3.0 IPA (2011-07-07 version)";2;1,063;1,015;62;6,4;6
-"pelirrojo";"pelirrojo";4;1,053;1,013;24;5,2;15
-"Chinook.IPA.2";"Chinook IPA";2;1,068;1,018;69;6,6;6
-"Columbus.IPA.2";"Columbus IPA";2;1,068;1,018;68;6,6;6
-"Citra.Ale..OR.Water.";"Citra Ale (OR Water)";2;1,063;1,016;50;6,2;6
-"Midwest.Supplies..Irish.Red.Ale.Kit";"Midwest Supplies' Irish Red Ale Kit";4;1,049;1,01;25;5,1;12
-"Amarillo.Ale.with.Victory.Malt..2012.07.28.version.";"Amarillo Ale with Victory Malt (2012-07-28 version)";2;1,065;1,016;65;6,4;8
-"Amarillo.by.morning";"Amarillo by morning";2;1,061;1,016;66;5,9;9
-"Sam.Adam.Noble.Clone";"Sam Adam Noble Clone";3;1,047;1,011;38;4,7;2
-"The.Pils.that.Ills";"The Pils that Ills";3;1,049;1,011;36;5;2
-"Blazing.World.from.Modern.Times.beersmith.link";"Blazing World from Modern Times beersmith link";2;1,067;1,017;63;6,6;8
-"Pilsener";"Pilsener";3;1,05;1,013;35;4,8;2
-"Smokin.Red";"Smokin Red";4;1,059;1,012;26;6,1;15
-"Hopbiscus";"Hopbiscus";2;1,068;1,018;47;6,6;9
-"Cascade.IPA.4";"Cascade IPA";2;1,061;1,015;64;6;7
-"Magic.Elf";"Magic Elf";2;1,068;1,015;41;6,9;8
-"PentaBr√.l";"PentaBr√∂l";2;1,063;1,013;60;6,6;11
-"Modified.Midwest.Irish.Red";"Modified Midwest Irish Red";4;1,048;1,013;17;4,6;11
-"SorGood.IPA";"SorGood IPA";2;1,065;1,016;62;6,4;6
-"PALIPA";"PALIPA";2;1,062;1,015;58;6,2;12
-"Parents.in.Town";"Parents in Town";2;1,06;1,018;66;5,5;7
-"Midwest.s.Irish.Red.Ale";"Midwest's Irish Red Ale";4;1,049;1,012;23;4,8;12
-"The.Pink.Elephant";"The Pink Elephant";1;1,05;1,013;12;4,9;3
-"Raspberry.Pilsner";"Raspberry Pilsner";3;1,048;1,011;29;4,8;5
-"Penney.Pils";"Penney Pils";3;1,049;1,01;39;5,2;3
-"Citra.IPA";"Citra IPA";2;1,059;1,018;40;5,4;8
-"El.Hef.e";"El Hef'e";1;1,052;1,013;15;5,1;3
-"Midwest.Supplies..Irish.Red.Ale.Kit.1";"Midwest Supplies' Irish Red Ale Kit";4;1,049;1,013;25;4,7;12
-"Golden.Cent.Amo.Cas.Ale";"Golden Cent-Amo-Cas Ale";2;1,063;1,016;58;6,2;7
-"Too.Many.Pils";"Too Many Pils";3;1,047;1,012;40;4,7;2
-"X141...Irish.Red";"141 - Irish Red";4;1,049;1,013;27;4,7;18
-"Julie.and.Dan.Pale.Ale";"Julie and Dan Pale Ale";2;1,072;1,017;46;7,2;10
-"X62.Truck.Irish.Red.Ale";"62 Truck Irish Red Ale";4;1,049;1,013;21;4,7;12
-"hoppy.hour.hero";"hoppy hour hero";2;1,058;1,015;55;5,6;11
-"Rosy.Cheeks";"Rosy Cheeks";2;1,072;1,01;62;8,1;11
-"Modified.Two.Hearted.Clone";"Modified Two Hearted Clone";2;1,074;1,011;57;8,3;7
-"Spring.2011.IPA";"Spring 2011 IPA";2;1,068;1,017;52;6,7;7
-"Standard.IPA";"Standard IPA";2;1,066;1,016;59;6,6;6
-"X7th.Paramount.Brew";"7th Paramount Brew";2;1,063;1,016;63;6,2;8
-"Oaken.Fist.2015";"Oaken Fist 2015";2;1,062;1,016;48;6,1;11
-"R√.yslimoen.IPA...batch..01";"R√∏yslimoen IPA - batch #01";2;1,06;1,014;56;6;8
-"Green.Eyes";"Green Eyes";4;1,049;1,011;20;5;17
-"Joe.s.Irish.Red.Ale";"Joe's Irish Red Ale";4;1,058;1,012;27;6,1;15
-"IPA.4";"IPA";2;1,071;1,016;43;7,2;9
-"Ripley.s.Irish.Red";"Ripley's Irish Red";4;1,052;1,012;23;5,3;15
-"Amber.IPA";"Amber IPA";2;1,061;1,015;59;6;10
-"Bullcity.Hefe";"Bullcity Hefe";1;1,046;1,012;14;4,5;3
-"Fresh.Squeezed.IPA";"Fresh-Squeezed IPA";2;1,062;1,015;63;6;10
-"Noble.Pils";"Noble Pils";3;1,044;1,011;42;4,3;2
-"December.Cent.Amo.Ale";"December Cent-Amo Ale";2;1,064;1,016;58;6,3;6
-"Haller.Heffy";"Haller Heffy";1;1,047;1,012;15;4,6;5
-"Kornuit";"Kornuit";3;1,05;1,011;39;5,1;2
-"Captain‚..s.HofbrauÃ..Clone.II";"Captain‚Äôs HofbrauÃà Clone II";3;1,049;1,012;36;4,8;3
-"Pale.Mk..3";"Pale Mk. 3";2;1,057;1,011;45;6;12
-"Whitey";"Whitey";1;1,051;1,013;12;5;2
-"German.Pilsner..2";"German Pilsner #2";3;1,046;1,013;31;4,3;3
-"PrimaDonna.Pils";"PrimaDonna Pils";3;1,048;1,012;42;4,7;2
-"Poppy.s.Irish.Red";"Poppy's Irish Red";4;1,045;1,012;23;4,3;12
-"The.Shoe";"The Shoe";4;1,048;1,013;23;4,6;13
-"Amarillo.Ale.with.Victory.Malt";"Amarillo Ale with Victory Malt";2;1,065;1,016;65;6,4;8
-"SHMIPA";"SHMIPA";2;1,066;1,016;42;6,6;8
-"Binary.Pils";"Binary Pils";3;1,05;1,012;29;5;2
-"Ugly.Stick";"Ugly Stick";2;1,072;1,017;52;7,2;8
-"Szabad.S√≥lyom";"Szabad S√≥lyom";2;1,064;1,014;52;6,5;6
-"Itrus.Pale.Ale";"Itrus Pale Ale";2;1,065;1,016;62;6,3;8
-"Experimental.Irish";"Experimental Irish";4;1,049;1,013;19;4,7;12
-"Dual.Crystal.Citra.Ale";"Dual Crystal Citra Ale";2;1,064;1,016;50;6,3;6
-"Perfect.day.IPA";"Perfect day IPA";2;1,07;1,018;61;6,8;8
-"Weissbeier";"Weissbeier";1;1,05;1,013;13;4,9;3
-"IPAlone";"IPAlone";2;1,06;1,017;45;5,7;7
-"South.Coast.IPA";"South Coast IPA";2;1,059;1,011;62;6,3;6
-"Finger.Roll.IPA";"Finger Roll IPA";2;1,068;1,015;52;7;9
-"Jag.off.Jaggery.IPA";"Jag-off Jaggery IPA";2;1,06;1,014;67;6;11
-"Hoppy.Seconds..Citra.IPA.";"Hoppy Seconds (Citra IPA)";2;1,069;1,016;67;7;8
-"Juicy.Juice";"Juicy Juice";2;1,069;1,017;57;6,7;6
-"IPA.experiment.11.7.2015";"IPA experiment 11-7-2015";2;1,067;1,014;66;7;8
-"Eight.Ounce.IPA";"Eight Ounce IPA";2;1,067;1,015;55;6,8;7
-"Pine.Barrens.IPA";"Pine Barrens IPA";2;1,065;1,015;55;6,5;8
-"Citrus.IPA.2016";"Citrus IPA 2016";2;1,068;1,016;67;6,8;6
-"Late.Addition.IPA";"Late Addition IPA";2;1,057;1,014;69;5,6;8
-"Hop.to.conclusions";"Hop to conclusions";2;1,057;1,014;65;5,8;10
-"Ten4";"Ten4";2;1,063;1,015;55;6,3;6
-"Fat.Woody.s.Irish.Red";"Fat Woody's Irish Red";4;1,047;1,012;21;4,6;9
-"Naughty.Leprechaun";"Naughty Leprechaun";4;1,049;1,013;20;4,7;14
-"Rari.s.Amarillo.IPA..5g.";"Rari's Amarillo IPA (5g)";2;1,062;1,015;53;6,2;7
-"O.leary.s.No.touch.F.en.Red";"O'leary's No touch F'en Red";4;1,05;1,014;23;4,7;12
-"Rakau.Single.Hop.IPA..Group.Project.";"Rakau Single Hop IPA (Group Project)";2;1,063;1,016;45;6,1;6
-"Amarillo.Post.Road.IPA";"Amarillo Post Road IPA";2;1,065;1,016;69;6,4;14
-"Two.Hearts.Together.Ale";"Two Hearts Together Ale";2;1,056;1,014;58;5,5;7
-"Santiam.German.Pilsner";"Santiam German Pilsner";3;1,047;1,012;35;4,6;2
-"May.IPA";"May IPA";2;1,059;1,015;62;5,8;11
-"Cascade.IPA.5";"Cascade IPA";2;1,068;1,017;70;6,7;6
-"Small.Round.Oranges";"Small Round Oranges";2;1,058;1,014;57;5,8;6
-"Golden.Citra.Ale..Dedicated.to.Jim.and.Trish.";"Golden Citra Ale (Dedicated to Jim and Trish)";2;1,063;1,015;57;6,3;7
-"R.F..Hefe.II";"R.F. Hefe II";1;1,05;1,013;12;4,9;3
-"Misfit.Red";"Misfit Red";4;1,05;1,014;22;4,8;15
-"Firewater.IPA.5g";"Firewater IPA 5g";2;1,074;1,017;68;7,4;7
-"Killick.s.Almost.Single.Malt.India.Pale.Ale.v2";"Killick's Almost Single Malt India Pale Ale v2";2;1,072;1,017;54;7,2;6
-"Golden.Citra.Ale..2012.08.11.version.";"Golden Citra Ale (2012-08-11 version)";2;1,063;1,016;57;6,2;7
-"SHG.Columbus";"SHG Columbus";2;1,066;1,017;56;6,5;9
-"X5.Alive.Wheat";"5 Alive Wheat";1;1,05;1,013;13;4,8;3
-"La.Vie.Boheme";"La Vie Boheme";3;1,05;1,011;34;5;2
-"Juelstrup...Commonwealth.IPA.s";"Juelstrup - Commonwealth IPA's";2;1,066;1,018;63;6,3;8
-"London.Cent.Amo.Ale";"London Cent-Amo Ale";2;1,063;1,016;49;6,2;7
-"Citra.Simcorillo.IPA";"Citra Simcorillo IPA";2;1,071;1,018;63;7;8
-"Feral.Hop.Hog.Clone";"Feral Hop Hog Clone";2;1,058;1,013;45;5,8;6
-"Middle.Road.IPA";"Middle Road IPA";2;1,068;1,016;57;6,8;8
-"Less.Bitter";"Less Bitter";2;1,064;1,016;59;6,3;8
-"TNT.s.Cascadian.Ale";"TNT's Cascadian Ale";2;1,065;1,016;43;6,4;7
-"BRP007.red.ale.all.grain.starter.trial";"BRP007 red ale all-grain/starter trial";4;1,051;1,012;23;5,1;13
-"Ginger.Kid";"Ginger Kid";4;1,048;1,013;23;4,6;13
-"CritraAm.Ale";"CritraAm Ale";2;1,064;1,016;48;6,3;6
-"Alpha.Ale.1.0";"Alpha Ale 1.0";2;1,068;1,017;58;6,7;7
-"Ginger.Tart";"Ginger Tart";4;1,049;1,013;18;4,7;11
-"Simcoe.IPA.1";"Simcoe IPA";2;1,067;1,017;66;6,6;12
-"Citra.Amarillo.Centennial.IPA";"Citra Amarillo Centennial IPA";2;1,058;1,016;54;5,6;7
-"X.030..Golden.Bull";"(030) Golden Bull";2;1,069;1,011;60;7,5;7
-"meh..zombies";"meh, zombies";2;1,066;1,016;58;6,6;7
-"En.liten.weissbier";"En liten weissbier";1;1,047;1,011;12;4,8;2
-"Beerculese";"Beerculese";2;1,061;1,016;46;5,9;6
-"Magnum.Amarillo.IPA";"Magnum Amarillo IPA";2;1,063;1,015;64;6,3;10
-"Red.Mearle.Ale";"Red Mearle Ale";4;1,055;1,014;25;5,4;14
-"Brewer.s.Best.Red.Ale.1";"Brewer's Best Red Ale";4;1,051;1,013;23;5;13
-"Irish.Red..12";"Irish Red '12";4;1,049;1,013;25;4,7;12
-"ipa";"ipa";2;1,059;1,014;43;5,9;10
-"Draugr.IAPA";"Draugr IAPA";2;1,065;1,016;59;6,4;7
-"Irish.Red.4";"Irish Red";4;1,05;1,014;22;4,7;12
-"DK.s.Original.IPA..Hog.s.Neck.Brewing.";"DK's Original IPA (Hog's Neck Brewing)";2;1,069;1,013;54;7,4;9
-"Black.IPA.1";"Black IPA";2;1,063;1,016;69;6,2;11
-"Hasty.IPA..Oktoberfest.2012.";"Hasty IPA (Oktoberfest 2012)";2;1,061;1,015;59;6;10
-"TARDIS.IPA..Schlafly.TIPA.clone.";"TARDIS IPA (Schlafly TIPA clone)";2;1,07;1,018;84;6,8;5
-"Deschutes.Fresh.Squeezed.IPA.Clone";"Deschutes Fresh Squeezed IPA Clone";2;1,066;1,01;52;7,4;10
-"Happy.Trails.Ale";"Happy Trails Ale";2;1,066;1,017;61;6,5;20
-"X52..IPAIPAIPA";"52. IPAIPAIPA";2;1,066;1,009;52;7,3;7
-"Wuyang.IPA.1.1";"Wuyang IPA 1.1";2;1,062;1,015;58;6,1;4
-"Citramazing.";"Citramazing!";2;1,074;1,018;68;7,3;7
-"Russian.River.s.Blind.Pig.Clone";"Russian River's Blind Pig Clone";2;1,075;1,018;81;7,5;8
-"Singularity.Brett.IPA";"Singularity Brett IPA";2;1,062;1,008;65;7,1;7
-"Wuyang.v2.0";"Wuyang v2.0";2;1,062;1,016;53;6,1;4
-"Amarillo.Single.Hop.IPA";"Amarillo Single-Hop IPA";2;1,08;1,02;58;7,9;4
-"Marmalade.Skies";"Marmalade Skies";2;1,064;1,009;42;7,2;3
-"Prima.Pils";"Prima Pils";3;1,055;1,013;52;5,6;2
-"simcyl.nelsyl..galaxy";"simcyl-nelsyl- galaxy";2;1,067;1,016;72;6,7;6
-"Fine.Mountain.Black.IPA";"Fine Mountain Black IPA";2;1,066;1,016;48;6,6;31
-"X42.Gal.School.House.Pilsner";"42 Gal School House Pilsner";3;1,059;1,017;38;5,6;4
-"Bells.Almost.2.Hearted.Ale";"Bells Almost 2 Hearted Ale";2;1,064;1,016;60;6,3;5
-"Clockwork";"Clockwork";1;1,055;1,014;14;5,4;4
-"Half.Boards.IPA";"Half Boards IPA";2;1,066;1,01;77;7,4;6
-"Galaxi.Citra.IPA";"Galaxi Citra IPA";2;1,066;1,012;61;7,1;36
-"Chief.Financial.Dog";"Chief Financial Dog";2;1,061;1,016;28;5,9;3
-"Bull.Z.Bot.IPA.2";"Bull Z Bot IPA-2";2;1,068;1,016;67;6,7;3
-"Tipsy.Student...Nelson.IPA";"Tipsy Student - Nelson IPA";2;1,05;1,007;120;5,7;8
-"august.hyppo";"august hyppo";2;1,047;1,007;60;5,3;4
-"WCB.Apricot.IPA";"WCB Apricot IPA";2;1,058;1,015;77;5,6;7
-"LDA.Fly.West.IPA";"LDA Fly West IPA";2;1,055;1,008;81;6,1;6
-"SLO.Session.Ale";"SLO Session Ale";2;1,038;1,012;54;3,4;8
-"Hop.in.the.Dark.IPA";"Hop in the Dark IPA";2;1,076;1,023;78;7;29
-"Hubschrauber.Hefeweizen";"Hubschrauber Hefeweizen";1;1,081;1,021;14;7,9;4
-"Dark.wheat";"Dark wheat";1;1,057;1,015;12;5,6;7
-"Balduin.No.5";"Balduin No 5";2;1,062;1,009;54;6,9;9
-"Red.Chair.NWPA.1";"Red Chair NWPA 1";2;1,06;1,018;79;5,5;15
-"Simcoe.IPA.3";"Simcoe IPA";2;1,065;1,009;36;7,3;9
-"Smithwicks";"Smithwicks";4;1,067;1,017;25;6,5;13
-"Zombie.Dust.Partial.Mash.Clone";"Zombie Dust Partial Mash Clone";2;1,06;1,019;45;5,4;9
-"Curupira";"Curupira";4;1,057;1,017;25;5,2;16
-"Junebug";"Junebug";2;1,076;1,023;75;6,9;8
-"Berndog.s.Juniper.IPA";"Berndog's Juniper IPA";2;1,084;1,025;75;7,7;8
-"Spring.Fling.Hefeweizen...5.gal";"Spring Fling Hefeweizen - 5 gal";1;1,052;1,013;13;5,1;3
-"Hoppy.Red";"Hoppy Red";4;1,078;1,022;25;7,3;13
-"RJ3.Heifenweisen";"RJ3 Heifenweisen";1;1,055;1,014;12;5,4;4
-"Citra.Smash";"Citra Smash";2;1,058;1,008;51;6,5;2
-"Small.Black.Dog.IPA";"Small Black Dog IPA";2;1,049;1,007;51;5,5;44
-"Sweetwater.IPA.clone..8.";"Sweetwater IPA clone (8)";2;1,062;1,009;61;7;6
-"Tropipolis";"Tropipolis";2;1,063;1,009;43;7,1;3
-"TIPA";"TIPA";2;1,061;1,015;51;6;4
-"County.cork.red.ale";"County cork red ale";4;1,047;1,014;25;4,3;17
-"HIPAweizen";"HIPAweizen";2;1,064;1,017;18;6,2;3
-"northewest.indian.red.ale";"northewest indian red ale";2;1,071;1,022;55;6,4;12
-"Srobiles.Amarillus";"Srobiles Amarillus";2;1,075;1,018;67;7,6;5
-"Black.Citra.IPA";"Black Citra IPA";2;1,055;1,015;59;5,3;33
-"Perpetual.Clone";"Perpetual Clone";2;1,071;1,01;95;7,9;7
-"MONK.PARAKEET.REFUGE.IPA";"MONK PARAKEET REFUGE IPA";2;1,056;1,014;73;5,5;6
-"Me.So.Hoppy...24";"Me So Hoppy - 24";2;1,062;1,018;103;5,6;5
-"Kitchen.Sink.IPA";"Kitchen Sink IPA";2;1,064;1,014;91;6,6;10
-"Portland.Brew.001";"Portland Brew 001";2;1,062;1,019;47;5,7;10
-"Kallatorpet.IPA.2016.02.27";"Kallatorpet IPA 2016-02-27";2;1,057;1,008;46;6,4;7
-"Hopnivore...27";"Hopnivore - 27";2;1,074;1,019;116;7,3;5
-"Windy.City.Wheat..Anniversary.Edition.";"Windy City Wheat (Anniversary Edition)";1;1,054;1,014;14;5,3;3
-"Irish.Red.5";"Irish Red";4;1,057;1,016;37;5,5;12
-"Pliny.The.Elder";"Pliny The Elder";2;1,07;1,016;200;7;8
-"IPA.5";"IPA";2;1,059;1,016;81;5,6;7
-"Jeg.er.Egentlig.for.Tung.til.√..kunne.Fly.IPA";"Jeg er Egentlig for Tung til √• kunne Fly IPA";2;1,065;1,016;55;6,4;16
-"Experiment.314.Grapefruit.Red.Ale";"Experiment 314-Grapefruit Red Ale";4;1,064;1,018;51;6;12
-"Hopsecutioner";"Hopsecutioner";2;1,066;1,01;67;7,4;8
-"Aleu.Brew.IPA";"Aleu-Brew IPA";2;1,07;1,017;86;6,9;7
-"Sean.s.Secret.Summer.IPA";"Sean's Secret Summer IPA";2;1,084;1,02;61;8,4;10
-"Mankato.Strawberry.II";"Mankato Strawberry II";2;1,071;1,018;120;7;7
-"CMF.IPA";"CMF IPA";2;1,063;1,016;109;6,2;15
-"Munic.SMASH..homebrewco.";"Munic SMASH (homebrewco)";2;1,065;1,016;54;6,5;47
-"IPA.6";"IPA";2;1,076;1,018;51;7,6;10
-"The.Necropolis..Extract.Version.";"The Necropolis (Extract Version)";2;1,064;1,02;69;5,8;8
-"Belgian.IPA.1";"Belgian IPA";2;1,07;1,018;61;6,8;3
-"IPA.1.1";"IPA 1";2;1,053;1,012;53;5,3;5
-"Probably.Mosaic.IPA";"Probably Mosaic IPA";2;1,074;1,017;76;7,4;7
-"Northern.Brewer.Irish.Red.Ale.w..Specialty.Grains";"Northern Brewer Irish Red Ale w/ Specialty Grains";4;1,044;1,01;30;4,5;12
-"Black.IPA.v2.1";"Black IPA v2.1";2;1,059;1,018;51;5,4;20
-"Stone.IPA.Clone.1";"Stone IPA Clone";2;1,075;1,019;73;7,3;4
-"Rhyzomatic.IPA";"Rhyzomatic IPA";2;1,077;1,019;67;7,5;6
-"Cascadian.Dark.Ale";"Cascadian Dark Ale";2;1,063;1,009;60;7,1;29
-"QH.Pils";"QH Pils";3;1,052;1,013;23;5;2
-"Wide.Eye.PA.by.David.West";"Wide Eye-PA by David West";2;1,066;1,016;77;6,5;5
-"Bear.Down.IPA";"Bear Down IPA";2;1,068;1,014;135;7,2;12
-"Bluejay.IPA..2012.08.01.version.";"Bluejay IPA (2012-08-01 version)";2;1,065;1,016;45;6,4;4
-"Old.School.House.Pilsner";"Old School House Pilsner";3;1,05;1,014;53;4,8;4
-"Christmas.IPA.1";"Christmas IPA";2;1,056;1,008;49;6,3;6
-"Hefe.2";"Hefe";1;1,053;1,013;17;5,2;3
-"X2015.Wet.IPA";"2015 Wet IPA";2;1,068;1,016;69;6,8;3
-"Black.Citra.IPA.1";"Black Citra IPA";2;1,066;1,017;77;6,4;38
-"Jester.King.Wytchmaker.Clone..Ditto.";"Jester King Wytchmaker Clone (Ditto)";2;1,062;1,016;78;6,1;7
-"Black.IPA.2";"Black IPA";2;1,062;1,017;44;5,9;33
-"Figurehead.IPA";"Figurehead IPA";2;1,075;1,018;63;7,5;2
-"Conway.s.Irish.Ale.Clone";"Conway's Irish Ale Clone";4;1,062;1,017;22;5,8;12
-"The.Centinal";"The Centinal";2;1,073;1,015;117;7,6;5
-"All.Day.IPA.Clone";"All Day IPA Clone";2;1,049;1,012;45;4,9;5
-"Big.Fish";"Big Fish";2;1,079;1,019;74;7,9;10
-"Flying.Tortoise..from.ratebeer.com.";"Flying Tortoise (from ratebeer.com)";2;1,068;1,016;80;6,8;7
-"T√.kete.Hvit.IPA";"T√•kete Hvit IPA";2;1,065;1,009;64;7,3;4
-"Simcoe.IPA.2";"Simcoe IPA 2";2;1,067;1,02;37;6,2;4
-"X1st.Go..Nectar.Ale";"1st Go: Nectar Ale";2;1,052;1,012;146;5,2;10
-"Lucy.in.the.Sky.with.Dankness..Modus.Hoperandi.Clone.";"Lucy in the Sky with Dankness (Modus Hoperandi Clone)";2;1,069;1,017;75;6,8;13
-"X.30.DIPA";"#30 DIPA";2;1,083;1,025;201;7,6;8
-"Blackjack";"Blackjack";2;1,068;1,016;67;6,7;31
-"Can.t.Sett.er.Down";"Can't Sett'er Down";4;1,055;1,016;19;5,2;12
-"Three.Fathoms";"Three Fathoms";2;1,085;1,01;73;9,8;16
-"Black.Eye.Rye";"Black Eye Rye";2;1,077;1,015;46;8,1;32
-"HopBomb";"HopBomb";2;1,061;1,013;48;6,4;5
-"M.80.IPA.MoreBeer.Kit";"M-80 IPA MoreBeer Kit";2;1,072;1,019;73;6,9;5
-"Knights.of.Columbus.IPA";"Knights of Columbus IPA";2;1,067;1,017;102;6,6;7
-"Inglewood.IPA..Culver.City.Homebrewing.";"Inglewood IPA (Culver City Homebrewing)";2;1,072;1,017;78;7,1;8
-"Citra.IPA.1";"Citra IPA";2;1,061;1,009;53;6,9;3
-"Fields.of.Black.N..Rye";"Fields of Black N' Rye";2;1,063;1,013;66;6,6;25
-"Resolution.Rye.IPA";"Resolution Rye IPA";2;1,065;1,015;51;6,5;18
-"MLK.IPA";"MLK IPA";2;1,071;1,017;66;7,2;35
-"HITNOL";"HITNOL";2;1,075;1,02;64;7,3;6
-"Victor.IPA.Collaberation";"Victor IPA Collaberation";2;1,072;1,019;55;7;10
-"Juicy.IPA.1";"Juicy IPA";2;1,066;1,018;53;6,3;3
-"IPA..26A";"IPA #26A";2;1,072;1,015;69;7,5;6
-"Citra.Amarillo.ipa";"Citra Amarillo ipa";2;1,066;1,018;65;6,3;10
-"Svartediket.Black.IPA.Clone..7.fjell.";"Svartediket Black IPA Clone (7 fjell)";2;1,066;1,015;71;6,6;19
-"Grandma.s.Grapefruit.IPA";"Grandma's Grapefruit IPA";2;1,069;1,017;49;6,8;5
-"Pliny.the.toddler.No.sparge";"Pliny the toddler No sparge";2;1,038;1,011;52;3,5;1
-"Summer.Wheat";"Summer Wheat";1;1,055;1,013;12;5,5;3
-"Brewers.Best.India.Pale.Ale";"Brewers Best India Pale Ale";2;1,063;1,016;100;6,2;10
-"Luck.of.the.Fryrish";"Luck of the Fryrish";4;1,059;1,016;20;5,6;16
-"American.Apple.IPA";"American Apple IPA";2;1,066;1,01;68;7,3;7
-"IPA.7";"IPA";2;1,08;1,027;115;7;5
-"Filter.Buster...Tropical.edition";"Filter Buster - Tropical edition";2;1,076;1,016;42;7,8;3
-"Redheaded.Irishman.in.Space.w..Jalapenos";"Redheaded Irishman in Space w/ Jalapenos";4;1,07;1,02;98;6,5;16
-"Chinook.IPA.3";"Chinook IPA";2;1,061;1,015;39;6;6
-"Impatient.IPA";"Impatient IPA";2;1,077;1,023;63;7;11
-"NOMS";"NOMS";1;1,056;1,015;18;5,4;5
-"Poppy.Remembrance";"Poppy Remembrance";2;1,059;1,018;101;5,4;8
-"Punk.Afro.IPA";"Punk Afro IPA";2;1,054;1,008;45;6,1;32
-"Deep.Depths.IPA";"Deep Depths IPA";2;1,069;1,014;143;7,2;5
-"Midnight.Ryed.Clone";"Midnight Ryed Clone";2;1,072;1,017;75;7,2;34
-"X039...Fast.Tug..on.a.card.from.LHBS.";"039 - Fast Tug (on a card from LHBS)";2;1,077;1,02;91;7,4;10
-"Simorial.IPA";"Simorial IPA";2;1,05;1,011;60;5,1;7
-"IPA.8";"IPA";2;1,055;1,016;53;5;7
-"ChaiPA";"ChaiPA";2;1,073;1,018;48;7,1;7
-"DLK.OOH..Organic.IPA";"DLK OOH! Organic IPA";2;1,067;1,01;65;7,5;8
-"Guy.petite.blonde";"Guy petite blonde";2;1,085;1,013;46;9,5;5
-"West.Coast.Pale.Ale";"West Coast Pale Ale";2;1,058;1,014;63;5,8;9
-"Black.IPA..Northern.Brewer.";"Black IPA (Northern Brewer)";2;1,081;1,021;83;7,8;29
-"Summer.Shandy.1";"Summer Shandy";1;1,051;1,012;13;5,1;3
-"All.Day.IPA.Clone.1";"All Day IPA Clone";2;1,048;1,012;53;4,7;5
-"Valencia.Orange.Hefeweissen";"Valencia Orange Hefeweissen";1;1,044;1,011;12;4,3;4
-"Mosaic.IPA";"Mosaic IPA";2;1,063;1,014;64;6,4;7
-"Fresh.Squeezed.1";"Fresh Squeezed";2;1,06;1,012;67;6,2;9
-"Twin.Peaks.Kilt.Lifter";"Twin Peaks Kilt Lifter";4;1,06;1,014;27;6;15
-"Golden.Hop.Dam";"Golden Hop Dam";2;1,068;1,018;59;6,6;14
-"Colin.s.Youngin.s";"Colin's Youngin's";2;1,069;1,012;60;7,4;6
-"The.Simsner";"The Simsner";3;1,047;1,01;27;4,9;4
-"SN.Ruthless.Rye";"SN Ruthless Rye";2;1,067;1,012;50;7,2;13
-"Honey.Cascade";"Honey Cascade";2;1,063;1,016;68;6,2;7
-"Hoppiness.IPA";"Hoppiness IPA";2;1,073;1,017;65;7,4;6
-"Far.Darrig.Irish.Red.Ale";"Far Darrig Irish Red Ale";4;1,052;1,013;22;5,1;14
-"Amarillo.IPA";"Amarillo IPA";2;1,059;1,018;60;5,4;11
-"X.5.Brehm.House.IPA";"#5 Brehm House IPA";2;1,064;1,017;57;6,2;11
-"Nirvana..2012_10_02.";"Nirvana [2012_10_02]";2;1,064;1,017;69;6,2;9
-"Denny.Conn.s.RIPA";"Denny Conn's RIPA";2;1,069;1,017;56;6,9;9
-"drink.your.wheaties...part.2";"drink your wheaties - part 2";1;1,051;1,013;12;4,9;4
-"Winter.IPA.Dec.15";"Winter IPA Dec 15";2;1,058;1,012;61;6;11
-"Cluster.v3";"Cluster v3";2;1,068;1,018;69;6,6;10
-"X.6.Single.Hop.Nelson.Sauvin";"#6 Single Hop Nelson Sauvin";2;1,069;1,017;53;6,8;6
-"Dead.Ringer.IPA.4";"Dead Ringer IPA";2;1,064;1,013;55;6,8;6
-"Ranger.ish.Clone";"Ranger-ish Clone";2;1,058;1,013;69;6;10
-"NB.Permafrost.White.IPA";"NB Permafrost White IPA";2;1,064;1,015;57;6,4;6
-"Indochina.Pale.Ale..Session.version.";"Indochina Pale Ale (Session version)";2;1,062;1,017;60;5,9;12
-"Is.Simcoe.the.Way.to.Amarillo.APA";"Is Simcoe the Way to Amarillo APA";2;1,057;1,015;50;5,5;10
-"Winton.Razi";"Winton/Razi";1;1,048;1,011;13;4,8;3
-"X3cp2..1c";"3cp2 -1c";2;1,066;1,012;46;7,1;8
-"NORTHENDER.IPA.III";"NORTHENDER IPA III";2;1,068;1,018;62;6,6;10
-"Weiss.Men.Say";"Weiss Men Say";1;1,052;1,013;13;5,1;3
-"Racer.5.Clone";"Racer 5 Clone";2;1,059;1,015;53;5,7;6
-"Karma.s.a.Bitch.IPA";"Karma's a Bitch IPA";2;1,07;1,015;58;7,2;8
-"Krampus..Christmas.IPA.";"Krampus (Christmas IPA)";2;1,067;1,013;69;7,2;8
-"R..IPA2";"R: IPA2";2;1,062;1,014;47;6,3;11
-"Bridgeport.IPA.1";"Bridgeport IPA";2;1,056;1,014;62;5,5;8
-"Hearts.Squared.v2";"Hearts Squared v2";2;1,058;1,018;61;5,2;7
-"Aloysius.Amber.Rye..2012.08.05.version.";"Aloysius Amber Rye (2012-08-05 version)";2;1,064;1,016;50;6,3;10
-"ST..PAUL.S.EASTER.REIZEN.WEIZEN";"ST. PAUL'S EASTER REIZEN WEIZEN";1;1,051;1,013;14;5;5
-"Pamplemousse.IPA.take.1";"Pamplemousse IPA take 1";2;1,063;1,015;42;6,3;7
-"India.Wit.Ale..Group.Brew.";"India Wit Ale (Group Brew)";2;1,059;1,016;46;5,6;10
-"HIP.Ilaniwai.IPA";"HIP Ilaniwai IPA";2;1,056;1,015;56;5,4;9
-"Bachelor.s.Brew";"Bachelor's Brew";2;1,062;1,016;53;6;7
-"Ginger.IPA";"Ginger IPA";2;1,057;1,013;51;5,7;8
-"dead.ringer.ipa";"dead ringer ipa";2;1,072;1,018;61;7,1;10
-"Dogfish.Head.60.Minute.Clone";"Dogfish Head 60 Minute Clone";2;1,064;1,015;56;6,4;9
-"summer.hop";"summer hop";2;1,067;1,017;63;6,6;6
-"German.Pilsner.4";"German Pilsner";3;1,046;1,012;31;4,5;4
-"Red.Menace..MLK.day.edition";"Red Menace, MLK day edition";2;1,064;1,016;60;6,3;11
-"West.Coast.IPA";"West Coast IPA";2;1,06;1,014;61;6;7
-"Pumpkin.Rye.PA";"Pumpkin Rye PA";2;1,065;1,016;54;6,5;11
-"American.IPA.4";"American IPA";2;1,069;1,017;53;6,7;9
-"Delirium.s.Lost.IPA";"Delirium's Lost IPA";2;1,062;1,016;60;6;15
-"Bucketgame.Weiss";"Bucketgame Weiss";1;1,051;1,012;12;5,1;3
-"Birthday.IPA";"Birthday IPA";2;1,062;1,012;45;6,6;7
-"EPA";"EPA";2;1,06;1,016;61;5,8;14
-"Simcoe.IPA.4";"Simcoe IPA";2;1,066;1,018;69;6,3;14
-"Richard.s.Hefeweizen";"Richard's Hefeweizen";1;1,052;1,013;14;5,1;3
-"Ranger.IPA.Extract.Clone";"Ranger IPA Extract Clone";2;1,065;1,017;60;6,3;12
-"Triple.G.IPA";"Triple G IPA";2;1,057;1,015;68;5,5;9
-"Hefeweizen.1";"Hefeweizen";1;1,049;1,013;13;4,7;3
-"Inaugural.IPA";"Inaugural IPA";2;1,061;1,016;63;5,8;9
-"Freshly.Squeezed";"Freshly Squeezed";2;1,07;1,017;59;6,9;10
-"Hee.fee";"Hee-fee";1;1,05;1,013;13;4,9;5
-"Averagely.Perfect";"Averagely Perfect";2;1,062;1,014;59;6,4;7
-"Grape.a.weizen";"Grape-a-weizen";1;1,049;1,012;11;4,9;3
-"Judas.IPA..Draft.";"Judas IPA (Draft)";2;1,061;1,014;57;6,1;7
-"Birthday.Brewday";"Birthday Brewday";2;1,058;1,015;60;5,6;11
-"InspiRed";"InspiRed";4;1,048;1,012;25;4,7;14
-"Munich.I.Two.Hearted";"Munich I Two Hearted";2;1,067;1,018;61;6,5;7
-"Brewmeister.Lars..Hefeweizen";"Brewmeister Lars' Hefeweizen";1;1,05;1,013;12;4,8;2
-"Doctor.Hoda.s.American.IPA";"Doctor Hoda's American IPA";2;1,075;1,018;67;7,4;8
-"Gibson.IPA";"Gibson IPA";2;1,07;1,017;67;6,9;8
-"Har√.y";"Har√∏y";4;1,056;1,011;26;5,9;16
-"Molly.Beer";"Molly Beer";4;1,046;1,013;20;4,3;15
-"Rock.your.socks.off";"Rock your socks off";2;1,06;1,011;52;6,4;13
-"Big.Orange.IPA";"Big Orange IPA";2;1,073;1,017;51;7,3;8
-"Karma.Citra.II";"Karma Citra II";2;1,062;1,016;58;6,1;8
-"Palilalia.IPA";"Palilalia IPA";2;1,059;1,015;44;5,8;14
-"Heater.IPA";"Heater IPA";2;1,067;1,016;56;6,6;12
-"Hamina.s.Bananima";"Hamina's Bananima";1;1,048;1,012;14;4,7;5
-"Denny.s.Rye.IPA.1";"Denny's Rye IPA";2;1,065;1,018;59;6,3;10
-"Pap.s.Pils.SMaSH";"Pap's Pils SMaSH";3;1,049;1,013;30;4,7;2
-"Belgian.IPA.2";"Belgian IPA";2;1,062;1,017;43;5,9;8
-"MooBrew.Nugget.IPA.12.18.11";"MooBrew Nugget IPA 12/18/11";2;1,059;1,014;64;5,9;8
-"R√.yslimoen.Rug.IPA.BB30";"R√∏yslimoen Rug IPA BB30";2;1,061;1,014;66;6,1;8
-"X2016.Irish.Red.Ale";"2016 Irish Red Ale";4;1,051;1,014;27;4,9;17
-"Agave.Pale.Ale";"Agave Pale Ale";2;1,066;1,018;58;6,3;8
-"Freya.Red";"Freya Red";4;1,052;1,014;24;5;17
-"Simple.Summer.Hefeweizen";"Simple Summer Hefeweizen";1;1,047;1,011;10;4,7;5
-"Stoney.IPA";"Stoney IPA";2;1,072;1,011;66;8;6
-"SMaSH...Cascade...Vienna";"SMaSH - Cascade / Vienna";2;1,069;1,016;57;6,9;7
-"Training.wheels.IPA";"Training wheels IPA";2;1,06;1,014;54;6;11
-"India.Street.Pale.Ale";"India Street Pale Ale";2;1,066;1,015;68;6,8;9
-"The.Force";"The Force";2;1,056;1,017;62;5,2;10
-"Hopster..Yooper.s.DFH.60.min.clone.";"Hopster (Yooper's DFH 60 min clone)";2;1,071;1,014;68;7,5;9
-"Gemini.III";"Gemini III";2;1,06;1,012;57;6,3;14
-"X.5.Single.Hop.Chinook";"#5 Single Hop Chinook";2;1,069;1,017;67;6,8;6
-"Summer.IPA";"Summer IPA";2;1,06;1,016;63;5,8;9
-"Ditch.Pidgeon.IPA";"Ditch Pidgeon IPA";2;1,057;1,014;66;5,6;6
-"Hot.Mellon";"Hot Mellon";2;1,064;1,014;59;6,5;7
-"Incestuous.IPA";"Incestuous IPA";2;1,07;1,015;66;7,3;6
-"Husband.and.Weiss";"Husband and Weiss";1;1,051;1,013;11;5;4
-"X.114.Clone..2011.06.22.version.";"X-114 Clone (2011-06-22 version)";2;1,068;1,017;64;6,7;9
-"IPA.Hop.Experiment.Simcoe";"IPA Hop Experiment Simcoe";2;1,059;1,014;48;5,9;7
-"Zythos.IPA.1";"Zythos IPA";2;1,062;1,017;52;5,9;13
-"First.IPA";"First IPA";2;1,065;1,017;48;6,2;6
-"Penguin.Tamer.IPA";"Penguin Tamer IPA";2;1,058;1,014;48;5,8;8
-"Arbor.Harvest.Ale";"Arbor Harvest Ale";2;1,065;1,012;52;6,9;6
-"X60.Minute.II";"60 Minute II";2;1,068;1,016;55;6,8;9
-"Little.Ring.India.Pale.Ale";"Little Ring India Pale Ale";2;1,071;1,017;63;7,1;7
-"Citra20";"Citra20";2;1,058;1,013;59;6;9
-"Wild.Granny.IPA";"Wild Granny IPA";2;1,063;1,016;65;6,2;11
-"IPA.test..Chinook";"IPA test: Chinook";2;1,064;1,014;54;6,6;9
-"IPA.9";"IPA";2;1,064;1,017;63;6,2;11
-"X.19.Kaptein.Kaos";"#19 Kaptein Kaos";2;1,058;1,012;68;6;8
-"Do.it.for.Dale.3..The.Dalening";"Do it for Dale 3: The Dalening";2;1,058;1,014;54;5,7;9
-"Neptune.s.Wrath";"Neptune's Wrath";2;1,072;1,017;53;7,2;10
-"Harold.s.Heffeweizen";"Harold's Heffeweizen";1;1,05;1,014;8;4,8;3
-"Hansen.Blend.IPA";"Hansen Blend IPA";2;1,064;1,013;67;6,7;6
-"Otter.Ale";"Otter Ale";2;1,061;1,015;58;6;10
-"IPA.test..Challenger";"IPA test: Challenger";2;1,064;1,014;45;6,6;9
-"BFG.9000.Wheat.IPA";"BFG 9000 Wheat IPA";2;1,067;1,016;69;6,7;7
-"Dreaming.of.IPA";"Dreaming of IPA";2;1,062;1,016;55;6;9
-"AIPA";"AIPA";2;1,064;1,014;61;6,6;12
-"The.Seaward";"The Seaward";2;1,066;1,017;70;6,4;9
-"Thegarden.Pilsner";"Thegarden Pilsner";3;1,05;1,011;29;5;3
-"India.Wit.Ale..Group.Brew..1";"India Wit Ale (Group Brew)";2;1,065;1,016;47;6,4;9
-"Annoying.Sears.Salesman..A.S.S...IPA";"Annoying Sears Salesman (A.S.S.) IPA";2;1,066;1,017;63;6,4;8
-"IPA.3";"IPA#3";2;1,068;1,017;66;6,6;14
-"Special.Oak.Amber.Ale";"Special Oak Amber Ale";2;1,065;1,012;44;7;14
-"Orangutan";"Orangutan";2;1,068;1,017;69;6,7;12
-"Hefeweizen.trial.1";"Hefeweizen trial 1";1;1,046;1,011;15;4,5;3
-"Mr..Wobly.IPA..2011.08.9.version.";"Mr. Wobly IPA (2011-08-9 version)";2;1,068;1,018;65;6,6;11
-"pilsner";"pilsner";3;1,046;1,011;30;4,6;2
-"The.Hef";"The Hef";1;1,046;1,012;13;4,5;3
-"Hopsicle.White.IPA";"Hopsicle White IPA";2;1,071;1,016;51;7,3;6
-"Citra.IPA.2";"Citra IPA";2;1,071;1,017;45;7,1;6
-"In.Your.EyePA";"In Your EyePA";2;1,059;1,015;59;5,8;10
-"Dead.Ringer.Full.Boil";"Dead Ringer Full Boil";2;1,069;1,01;55;7,7;9
-"Amiadillo";"Amiadillo";2;1,062;1,016;66;6,1;7
-"Oatmeal.IPA.plus.simcoe";"Oatmeal IPA plus simcoe";2;1,066;1,016;65;6,6;6
-"Goodale.IPA";"Goodale IPA";2;1,069;1,017;58;6,8;12
-"Grain.Clean.Up";"Grain Clean Up";4;1,046;1,014;22;4,2;17
-"Rico.s.Switch.Hefe..Miami.Weisse..Gab.s.Bday.Beer";"Rico's Switch Hefe/ Miami Weisse/ Gab's Bday Beer";1;1,051;1,013;13;5;4
-"Wheat.Beer..1";"Wheat Beer #1";1;1,05;1,013;12;4,8;5
-"South.Street.IPA";"South Street IPA";2;1,068;1,018;63;6,6;6
-"Pilsner.1.0";"Pilsner 1.0";3;1,046;1,012;25;4,5;3
-"Hagges.40.√.rs.krise.IPA";"Hagges 40 √•rs krise IPA";2;1,058;1,015;48;5,7;7
-"Later.Skater.IV";"Later Skater IV";2;1,064;1,017;55;6,2;10
-"Columbus.Simcoe";"Columbus Simcoe";2;1,062;1,015;57;6,1;10
-"Citra.IPA.3";"Citra IPA";2;1,066;1,016;48;6,7;9
-"Recipe.created.2012.12.01.at.20.29.40.UTC";"Recipe created 2012-12-01 at 20:29:40 UTC";2;1,057;1,015;50;5,5;7
-"Temnor.Weizen";"Temnor Weizen";1;1,051;1,013;9;5;3
-"Glacier.one.hop.IPA";"Glacier one-hop IPA";2;1,06;1,015;46;5,9;10
-"F.Bomb";"F-Bomb";3;1,048;1,012;28;4,8;4
-"X.3.Pale.Ale";"#3 Pale Ale";2;1,062;1,016;47;6;7
-"Another.IPA";"Another IPA";2;1,067;1,016;51;6,7;9
-"Weizen.5.0...Elze";"Weizen 5.0 - Elze";1;1,05;1,014;11;4,8;3
-"Mango.Lemongrass.IPA";"Mango Lemongrass IPA";2;1,072;1,01;52;8;9
-"First.try";"First try";2;1,065;1,016;63;6,4;10
-"Fruity.Pils";"Fruity Pils";3;1,048;1,012;33;4,7;2
-"Summer.PIPA";"Summer PIPA";2;1,069;1,016;42;6,9;7
-"Rain.Delay.IPA";"Rain Delay IPA";2;1,064;1,014;51;6,5;7
-"Virgin.IPA";"Virgin IPA";2;1,061;1,015;64;6;8
-"Ska.Modus.Hoperandi";"Ska Modus Hoperandi";2;1,067;1,017;67;6,6;12
-"Countdown.IPA";"Countdown IPA";2;1,069;1,017;62;6,8;8
-"Hop.Snob.IPA";"Hop Snob IPA";2;1,07;1,017;49;6,9;9
-"Deutsches.Pilsener";"Deutsches Pilsener";3;1,049;1,012;36;4,8;3
-"Nick.s.IPA";"Nick's IPA";2;1,069;1,017;62;6,8;7
-"X.Merica.IPA";"'Merica IPA";2;1,065;1,015;69;6,5;10
-"Brrr.clone";"Brrr clone";2;1,067;1,018;56;6,4;13
-"Oh.my.damn..IPA";"Oh my damn! IPA";2;1,071;1,018;55;7;7
-"X.8.Weizen.II";"#8 Weizen II";1;1,052;1,013;11;5,1;4
-"Joppin..Jalapeno";"Joppin' Jalapeno";2;1,067;1,017;61;6,5;10
-"Sterling.s.Single.Hopped.IPA";"Sterling's Single Hopped IPA";2;1,072;1,018;69;7,1;11
-"Weihenstephan.s.Better.Looking.Brother";"Weihenstephan's Better Looking Brother";1;1,05;1,013;12;4,9;4
-"Top.of.the.Hill.India.Pale.Ale..Clone.";"Top of the Hill India Pale Ale (Clone)";2;1,057;1,014;47;5,6;8
-"Greek.Hop.Freak..2011.03.02.version.";"Greek Hop Freak (2011-03-02 version)";2;1,066;1,018;67;6,3;8
-"Onstuh";"Onstuh";2;1,065;1,013;49;6,8;11
-"Hefe.3";"Hefe";1;1,045;1,012;15;4,2;7
-"X.9.SoBoRo.IPA";"#9 SoBoRo IPA";2;1,071;1,016;62;7,2;7
-"Suds..Bee.So.Honey.IPA";"Suds' Bee So Honey IPA";2;1,067;1,017;57;6,5;6
-"Hoppy.Fat.Tire";"Hoppy Fat Tire";2;1,059;1,016;54;5,6;8
-"Pils.01.17.2011";"Pils 01-17-2011";3;1,049;1,013;41;4,7;3
-"Goodbye.Auckland";"Goodbye Auckland";2;1,064;1,015;57;6,4;11
-"X.quot.Aussie.quot..Hop.Beer";"&quot;Aussie&quot; Hop Beer";2;1,064;1,017;66;6,2;8
-"Fruit.Nuke";"Fruit Nuke";2;1,066;1,015;57;6,6;8
-"Brewers.Best.PSA.IPA";"Brewers Best PSA IPA";2;1,062;1,017;53;6;7
-"SMaSH...Galaxy";"SMaSH - Galaxy";2;1,066;1,015;61;6,6;8
-"Centennial.IPA.1";"Centennial IPA";2;1,068;1,016;47;6,8;7
-"HiLarryous..1";"HiLarryous #1";2;1,063;1,018;48;5,9;9
-"Session.IPA.1";"Session IPA";2;1,064;1,015;41;6,4;7
-"space.dust.inspired";"space dust inspired";2;1,071;1,017;63;7,1;6
-"Celebration..20101230.";"Celebration (20101230)";2;1,065;1,016;61;6,4;12
-"X2011.Irish.American.Red";"2011 Irish-American Red";4;1,045;1,012;23;4,3;11
-"This.ale.hopped.in.a.bottle...";"This ale hopped in a bottle...";2;1,056;1,015;69;5,4;11
-"Nugget.Munich.IPA";"Nugget Munich IPA";2;1,06;1,014;57;6;8
-"wei.zo.serious...smoked.";"wei-zo-serious - smoked!";1;1,049;1,012;15;4,8;3
-"Bell.s.Two.Hearted.Clone.1";"Bell's Two Hearted Clone";2;1,063;1,016;47;6,2;6
-"Pinky.and.the.Grain";"Pinky and the Grain";1;1,047;1,012;10;4,6;2
-"Mrs..Ryan.s.Hefeweizen";"Mrs. Ryan's Hefeweizen";1;1,052;1,013;13;5;4
-"Resurrection.Ale";"Resurrection Ale";1;1,052;1,013;14;5,1;3
-"Bavarian.Weizen..2012.02.26.version.";"Bavarian Weizen (2012-02-26 version)";1;1,05;1,013;13;4,8;4
-"Big.Red.IPA";"Big Red IPA";2;1,06;1,016;57;5,8;14
-"Brewday.IPA";"Brewday IPA";2;1,07;1,01;66;7,8;10
-"North.Side.IPA.III";"North Side IPA III";2;1,063;1,015;68;6,3;7
-"NBA.SMASH...Briess.Special.Roast";"NBA SMASH - Briess Special Roast";2;1,064;1,017;48;6,2;9
-"Pale.Wolf";"Pale Wolf";2;1,067;1,016;65;6,7;11
-"Newcastle.IPA.Citra";"Newcastle IPA Citra";2;1,066;1,016;70;6,6;7
-"Fresh.Squeezed.IPA..inspired.by.Deschutes.";"Fresh Squeezed IPA (inspired by Deschutes)";2;1,067;1,016;58;6,7;8
-"Smooth.Groove.APA..a.great.end.for.those.days.with.alot.going.on.";"Smooth Groove APA (a great end for those days with alot going on)";2;1,058;1,016;69;5,5;8
-"Strawberry.Wheat.1";"Strawberry Wheat";1;1,048;1,012;14;4,8;3
-"First.Try.IPA";"First Try IPA";2;1,058;1,012;64;6,1;14
-"Mango.Madness..2";"Mango Madness #2";2;1,057;1,015;49;5,5;8
-"El.Hefe.2.0";"El Hefe 2.0";1;1,052;1,013;14;5;3
-"Fresh.hop.IPA";"Fresh hop IPA";2;1,059;1,015;55;5,7;10
-"Wei.Not.Weizen";"Wei-Not Weizen";1;1,051;1,014;13;4,8;3
-"Galaxy.IPA_San.Diego.Super";"Galaxy IPA_San Diego Super";2;1,066;1,013;62;6,8;7
-"Jamil.s.Evil.Twin";"Jamil's Evil Twin";2;1,068;1,017;47;6,7;15
-"India.Purr.Ale";"India Purr Ale";2;1,067;1,016;67;6,7;10
-"Cucamonga.Peak.IPA";"Cucamonga Peak IPA";2;1,063;1,015;55;6,3;6
-"Gose.nummer.1";"Gose nummer 1";1;1,046;1,012;10;4,5;3
-"Square.Knot";"Square Knot";2;1,068;1,017;41;6,7;10
-"Kelly.the.RyePA";"Kelly the RyePA";2;1,069;1,016;60;6,9;6
-"Earl.Bender.Ale..9";"Earl Bender Ale #9";2;1,065;1,017;54;6,2;11
-"Red.RyePA";"Red RyePA";2;1,069;1,016;61;7;12
-"Test.Batch..5.IPA";"Test Batch #5 IPA";2;1,065;1,016;55;6,4;9
-"Hopsauce..2";"Hopsauce #2";2;1,071;1,017;43;7;11
-"Beast.of.the.East";"Beast of the East";2;1,072;1,016;68;7,4;6
-"Jamil.s.Evil.Twin.1";"Jamil's Evil Twin";2;1,068;1,017;47;6,7;15
-"Brygg..6.Weizen.3333";"Brygg #6 Weizen 3333";1;1,046;1,012;12;4,5;3
-"X20.minute.American.IPA";"20 minute American IPA";2;1,06;1,016;56;5,8;14
-"Space.Cowboy.II";"Space Cowboy II";2;1,066;1,018;62;6,3;8
-"All.Grain.IPA..2";"All-Grain IPA #2";2;1,059;1,015;52;5,8;7
-"RB.s.Amarillo.IPA";"RB's Amarillo IPA";2;1,068;1,017;50;6,7;11
-"Wild.IPA.SH.NS";"Wild IPA SH NS";2;1,069;1,016;56;7;8
-"Overdrive.Ale";"Overdrive Ale";2;1,066;1,018;61;6,3;7
-"X.41.Bright.Angel.Hefeweizen";"#41 Bright Angel Hefeweizen";1;1,049;1,012;12;4,8;3
-"SN.Celebration.Ale.Clone";"SN Celebration Ale Clone";2;1,069;1,01;65;7,7;12
-"X08M.Thrown.Together.IPA";"08M Thrown Together IPA";2;1,063;1,016;60;6,2;10
-"Untitled.Weizen.Weissbier.149086";"Untitled Weizen/Weissbier 149086";1;1,048;1,012;14;4,6;4
-"Pacific.Warrior";"Pacific Warrior";2;1,058;1,015;48;5,6;12
-"Solar.Flare.APA";"Solar Flare APA";2;1,057;1,015;62;5,5;6
-"The.Wife.Beer";"The Wife Beer";2;1,059;1,016;68;5,7;11
-"Hefeweizen.2";"Hefeweizen";1;1,05;1,013;12;4,8;2
-"Citrusipa";"Citrusipa";2;1,058;1,012;52;6;7
-"Commissioner.Gordon";"Commissioner Gordon";2;1,067;1,017;46;6,6;9
-"Hoppily.Ever.After.Pale.Ale";"Hoppily Ever After Pale Ale";2;1,056;1,014;57;5,5;6
-"Surefire.IPA";"Surefire IPA";2;1,061;1,013;66;6,2;11
-"Willy.Nilly";"Willy Nilly";2;1,065;1,018;58;6,2;6
-"Summit.IPA";"Summit IPA";2;1,06;1,014;57;6;14
-"Special.for.Crawfish.boil";"Special for Crawfish boil";2;1,057;1,015;49;5,5;6
-"Mike.s.5th.Anniversary.IPA";"Mike's 5th Anniversary IPA";2;1,067;1,016;56;6,7;6
-"IPA.VI";"IPA VI";2;1,069;1,017;56;6,8;9
-"Dirty.IPA..Year.Round.";"Dirty IPA (Year-Round)";2;1,058;1,017;42;5,4;8
-"Dingo.Drank.My.Baby";"Dingo Drank My Baby";2;1,071;1,018;59;7;11
-"Resurrection.Red";"Resurrection Red";4;1,045;1,011;26;4,5;12
-"Kangaroofie.IPA";"Kangaroofie IPA";2;1,072;1,018;57;7,1;11
-"MC.2.IPA..Magnum..Cascade..Citra.";"MC^2 IPA (Magnum, Cascade, Citra)";2;1,061;1,015;56;6,1;12
-"IPA.10";"IPA";2;1,057;1,013;59;5,8;7
-"Cascade.IPA.6";"Cascade IPA";2;1,071;1,018;61;7;7
-"All.Amarillo.IPA";"All-Amarillo IPA";2;1,063;1,015;66;6,4;11
-"Deadhead.IPA";"Deadhead IPA";2;1,072;1,015;56;7,5;14
-"Mile.High.Roo.Broo";"Mile High Roo Broo";2;1,059;1,011;66;6,3;8
-"Alpha.Wolf.Rye.IPA";"Alpha Wolf Rye IPA";2;1,062;1,015;65;6,2;9
-"Honey.Wheat";"Honey Wheat";1;1,046;1,011;9;4,5;7
-"The.Ipa";"The Ipa";2;1,069;1,014;69;7,2;6
-"Le.Magic.Weizen";"Le Magic Weizen";1;1,05;1,013;14;4,9;3
-"Belgian.Rye.IPA";"Belgian Rye IPA";2;1,07;1,017;65;6,9;12
-"X174th...Interurban.IPA.10.12.14";"174th & Interurban IPA 10/12/14";2;1,057;1,013;58;5,8;7
-"X1910.IPA";"1910 IPA";2;1,073;1,017;69;7,3;6
-"IPA.test..Cascade";"IPA test: Cascade";2;1,064;1,014;44;6,6;9
-"Deutschamerikaner.Wheat";"Deutschamerikaner Wheat";1;1,052;1,013;14;5,1;4
-"Irish.Migrant...Fresh.Off.the.Boat...Fresh.Hopped.Irish.Red.";"Irish Migrant - Fresh Off the Boat ( Fresh Hopped Irish Red)";4;1,047;1,013;25;4,4;13
-"Maddox.Fish.IPA";"Maddox Fish IPA";2;1,069;1,016;61;7;10
-"Fall.2015.IPA";"Fall 2015 IPA";2;1,07;1,016;52;7;13
-"My.Bell.s.Two.Hearted.Clone..2010.06.21.version...alt.";"My Bell's Two Hearted Clone (2010-06-21 version) [alt]";2;1,063;1,017;66;6;7
-"IRA";"IRA";4;1,056;1,013;25;5,7;11
-"Dank.Amber";"Dank Amber";2;1,071;1,018;64;7;14
-"Windbuche.Weissen";"Windbuche Weissen";1;1,05;1,012;9;5;8
-"BBGun";"BBGun";2;1,063;1,015;67;6,4;12
-"Schiller.s.IPA";"Schiller's IPA";2;1,057;1,014;50;5,6;9
-"Farmstead.Coffee.Porter";"Farmstead Coffee Porter";1;1,051;1,014;12;4,9;3
-"Untitled.American.IPA.153428";"Untitled American IPA 153428";2;1,06;1,015;55;5,9;11
-"My.Grolsch";"My Grolsch";3;1,05;1,012;28;4,9;4
-"Sunny.day.IPA";"Sunny day IPA";2;1,065;1,015;65;6,5;11
-"Citrus.weizen";"Citrus weizen";1;1,051;1,013;13;5;3
-"CCCP";"CCCP";2;1,067;1,017;63;6,6;15
-"Weissbier.Attempt..1";"Weissbier Attempt #1";1;1,052;1,013;13;5,1;3
-"Red.Alert";"Red Alert";4;1,047;1,011;26;4,6;12
-"MIPA";"MIPA";2;1,062;1,01;55;6,7;7
-"Centennial.IPA.2";"Centennial IPA";2;1,069;1,016;69;7;9
-"Hoptopolis";"Hoptopolis";2;1,071;1,017;56;7,1;12
-"Munich.Simcoe.SMaSH";"Munich Simcoe SMaSH";2;1,057;1,014;46;5,6;9
-"AHS.Greenbelt.IPA";"AHS Greenbelt IPA";2;1,07;1,018;56;6,8;10
-"yea";"yea";2;1,067;1,017;61;6,5;12
-"Neighbor.IPA";"Neighbor IPA";2;1,063;1,017;56;6,1;13
-"EYEPEEUH";"EYEPEEUH";2;1,057;1,014;67;5,6;7
-"IPA.Project...Northern.Brewer";"IPA Project - Northern Brewer";2;1,061;1,016;50;5,9;9
-"mind.over.manners";"mind over manners";2;1,073;1,015;48;7,6;8
-"Dead.Ringer";"Dead Ringer";2;1,069;1,017;64;6,8;9
-"PILS..Hallertau.";"PILS (Hallertau)";3;1,048;1,01;37;4,9;3
-"Pipeline.west.IPA";"Pipeline west IPA";2;1,062;1,014;65;6,2;7
-"Bel.IPA";"Bel-IPA";2;1,063;1,016;65;6,2;12
-"Willie.s.Triple.Six.2012";"Willie's Triple Six 2012";4;1,053;1,014;20;5,1;18
-"Village.Idiot";"Village Idiot";2;1,067;1,018;57;6,4;6
-"Galaxy.Lager";"Galaxy Lager";2;1,06;1,016;49;5,7;6
-"SimAmo.Ale";"SimAmo Ale";2;1,073;1,018;57;7,2;6
-"Copernicus.Red.Ale";"Copernicus Red Ale";2;1,062;1,014;52;6,2;15
-"Stormborn.IPA";"Stormborn IPA";2;1,062;1,017;67;5,9;6
-"X2013...3CPA.DME.PM.tweak..Munich10L.C10L.PM.";"2013 - 3CPA DME/PM tweak (Munich10L/C10L PM)";2;1,072;1,014;45;7,5;9
-"Fat.Guy.Holiday.Pale.Ale";"Fat Guy Holiday Pale Ale";2;1,07;1,017;59;6,9;6
-"TNT.s.Centennial.Ale";"TNT's Centennial Ale";2;1,064;1,017;61;6,2;7
-"AleTron";"AleTron";2;1,066;1,014;55;6,8;8
-"Ron.s.IPA..all.grain.";"Ron's IPA (all grain)";2;1,068;1,018;70;6,6;8
-"Spring.Red.IPA";"Spring Red IPA";2;1,068;1,017;68;6,6;12
-"Dead.Ringer.IPA.5";"Dead Ringer IPA";2;1,073;1,018;60;7,2;10
-"Match.Red";"Match Red";4;1,056;1,013;22;5,6;17
-"Amarillo.IPA.1";"Amarillo IPA";2;1,066;1,017;68;6,4;13
-"DanK.IPA.V";"DanK IPA V";2;1,065;1,016;52;6,4;6
-"Centennial.IPA.II";"Centennial IPA II";2;1,057;1,015;49;5,5;9
-"Hoppiness.is.an.IPA";"Hoppiness is an IPA";2;1,074;1,017;49;7,4;6
-"Ingrid.s.Brew";"Ingrid's Brew";1;1,048;1,013;12;4,6;3
-"Grapefruit.IPA.2";"Grapefruit IPA";2;1,072;1,016;62;7,4;6
-"Camosack.IPA";"Camosack IPA";2;1,068;1,017;64;6,6;6
-"First.Red.Ale.Try";"First Red Ale Try";4;1,047;1,011;26;4,8;11
-"Vermont.IPA.1";"Vermont IPA";2;1,068;1,015;57;7;7
-"Sinistral.Warrior";"Sinistral Warrior";2;1,073;1,018;66;7,2;11
-"Zombie.Dust.6";"Zombie Dust 6";2;1,072;1,018;48;7;8
-"X.5.Mosaic.IPA";"#5 Mosaic IPA";2;1,069;1,01;57;7,7;9
-"Cascade.IPA.7";"Cascade IPA";2;1,066;1,018;57;6,3;11
-"SMASH.2013";"SMASH 2013";1;1,052;1,013;9;5,1;4
-"potential.ipa";"potential ipa";2;1,059;1,014;68;5,9;9
-"X2.Hearted.IPA.Clone..Sicilianos.";"2 Hearted IPA Clone (Sicilianos)";2;1,065;1,018;59;6,2;7
-"McNulty.Hefe";"McNulty Hefe";1;1,045;1,012;12;4,4;3
-"CSB.Western.Hemisphere.Ale";"CSB Western Hemisphere Ale";2;1,071;1,018;67;7;11
-"Test.IPA";"Test IPA";2;1,063;1,012;54;6,6;7
-"Evil.Twin";"Evil Twin";2;1,071;1,018;48;6,9;15
-"All.Grain.IPA...California.Ale.Yeast";"All Grain IPA - California Ale Yeast";2;1,071;1,017;65;7,1;12
-"Blackberry.Red.Ale";"Blackberry Red Ale";4;1,052;1,013;22;5,1;14
-"Belgian.IPA.3";"Belgian IPA";2;1,066;1,016;53;6,5;7
-"ATK.IPA";"ATK IPA";2;1,069;1,017;69;6,8;8
-"Test.Batch..8b";"Test Batch #8b";2;1,067;1,018;56;6,5;9
-"X.Native.American.Pale.Ale";"*Native American Pale Ale";2;1,067;1,017;61;6,6;14
-"Steve.s.Pale.Ale";"Steve's Pale Ale";2;1,065;1,012;62;6,9;9
-"San.Gabriel.IPA";"San Gabriel IPA";2;1,061;1,014;62;6,2;12
-"Untitled.American.IPA";"Untitled American IPA";2;1,065;1,016;49;6,4;14
-"Chinook.IPA.4";"Chinook IPA";2;1,064;1,018;54;6;7
-"Mad.Dog.IPA";"Mad Dog IPA";2;1,069;1,017;69;6,8;8
-"Carapils.liberty.ale";"Carapils liberty ale";2;1,068;1,018;61;6,6;8
-"X004...Off.Leash.IPA";"004 - Off-Leash IPA";2;1,071;1,016;42;7,3;9
-"Limon.Heffe";"Limon Heffe";1;1,052;1,011;11;5,3;3
-"Pioneer.Ale";"Pioneer Ale";2;1,072;1,017;65;7,2;12
-"Lemon.SamuraIPA";"Lemon SamuraIPA";2;1,057;1,014;69;5,6;6
-"Kiwi.Express.1";"Kiwi Express";2;1,06;1,013;65;6,1;6
-"Mom...Pop.s.Grilltop.IPA";"Mom & Pop's Grilltop IPA";2;1,059;1,014;66;5,9;8
-"Session.Weizen";"Session Weizen";1;1,05;1,013;13;4,9;2
-"Late.Summer.IPA";"Late Summer IPA";2;1,071;1,01;63;7,9;12
-"Primhovda.Hefeweizen";"Primhovda Hefeweizen";1;1,049;1,013;12;4,7;2
-"Snap.Series.IV";"Snap Series IV";2;1,065;1,018;53;6,2;12
-"Mad.Dog.IPA.1";"Mad Dog IPA";2;1,069;1,017;69;6,8;8
-"Ahtanum.Simcoe.IPA";"Ahtanum Simcoe IPA";2;1,064;1,017;62;6,2;8
-"Flying.Dog.Raging.Bitch.Inspired";"Flying Dog Raging Bitch Inspired";2;1,058;1,015;49;5,6;10
-"DanK.IPA.the.13th";"DanK IPA the 13th";2;1,063;1,013;62;6,6;7
-"Dr.Ropata.s.Pale.Ale";"Dr Ropata's Pale Ale";2;1,059;1,018;60;5,4;7
-"Indy.Pale.Ale";"Indy Pale Ale";2;1,058;1,016;67;5,5;7
-"Adirondack.Chair.IPA";"Adirondack Chair IPA";2;1,059;1,012;57;6,1;9
-"Hankering.Hefeweizen";"Hankering Hefeweizen";1;1,046;1,014;15;4,2;4
-"Let.s.Get.Small...Amarillo";"Let's Get Small - Amarillo";2;1,062;1,015;66;6,2;6
-"iPA.One.Point.Oh";"iPA One Point Oh";2;1,067;1,017;49;6,6;7
-"Muddled.Tears.IPA";"Muddled Tears IPA";2;1,067;1,013;58;7;14
-"Rye.American.IPA";"Rye American IPA";2;1,062;1,012;52;6,6;6
-"Skulldozer.Pale.Ale";"Skulldozer Pale Ale";2;1,068;1,017;63;6,7;9
-"B√.rs.H√.kan.Real.APA";"B√§rs-H√•kan Real APA";2;1,075;1,01;61;8,4;9
-"Hop.Hog.Clone";"Hop Hog Clone";2;1,066;1,012;66;7;7
-"BE.Hop.Venom";"BE Hop Venom";2;1,073;1,011;61;8,2;8
-"Canadian.IPA";"Canadian IPA";2;1,063;1,016;67;6,2;8
-"Combat.Hopkido.IPA";"Combat Hopkido IPA";2;1,066;1,017;57;6,5;8
-"BMW.Wheat";"BMW Wheat";1;1,051;1,013;14;5;4
-"Topaz.IPA";"Topaz IPA";2;1,061;1,013;43;6,4;6
-"Wife.weizen..W1.";"Wife'weizen (W1)";1;1,052;1,013;13;5,1;3
-"Bearded.Nebula.IPA";"Bearded Nebula IPA";2;1,062;1,017;69;5,9;7
-"American.IPA..Citra.Cascade";"American IPA, Citra/Cascade";2;1,058;1,015;67;5,7;8
-"They.Call.Me.B.Weiss";"They Call Me B.Weiss";1;1,049;1,012;11;4,8;7
-"Weizen";"Weizen";1;1,051;1,013;13;5;2
-"IRA.1";"IRA";4;1,05;1,014;24;4,8;16
-"Citra.IPA.4";"Citra IPA";2;1,068;1,016;65;6,8;10
-"Lil.Slack.IPA";"Lil Slack IPA";2;1,064;1,015;57;6,5;6
-"Strong.Arm.IPA";"Strong Arm IPA";2;1,069;1,017;57;6,8;7
-"X.20.‚...Bedre.enn.pils.i.hvert.fall";"#20 ‚Äì Bedre enn pils i hvert fall";2;1,06;1,016;63;5,7;9
-"Pat.s.IPA";"Pat's IPA";2;1,067;1,017;64;6,6;8
-"Dat.stressy.AIPA";"Dat stressy AIPA";2;1,062;1,015;69;6,2;7
-"Session.IPA.2";"Session IPA";2;1,06;1,016;58;5,8;6
-"Last.Minute.IPA";"Last Minute IPA";2;1,069;1,017;66;6,8;8
-"Death..Blood.and.Taxes";"Death, Blood and Taxes";2;1,071;1,01;47;8;12
-"Why.PA";"Why-PA";2;1,067;1,013;58;7;6
-"West.Coast.Blaster";"West Coast Blaster";2;1,066;1,016;50;6,4;7
-"Trye.Alternate.2";"Trye Alternate 2";2;1,066;1,017;53;6,5;13
-"Little.Puff.Smoked.IPA";"Little Puff Smoked IPA";2;1,068;1,017;70;6,7;6
-"Blueberry.Hefe";"Blueberry Hefe";1;1,044;1,011;12;4,3;3
-"X2..Feayor";"2- Feayor";3;1,048;1,012;36;4,7;5
-"Hibiscus.Turtle";"Hibiscus Turtle";2;1,063;1,016;53;6,1;9
-"Hop.Solo..Mosaic.Single.Hop.IPA.";"Hop Solo (Mosaic Single Hop IPA)";2;1,061;1,014;62;6,2;10
-"CBS.American.IPA";"CBS American IPA";2;1,059;1,014;53;5,9;10
-"Bell.s.Two.Hearted.all.grain";"Bell's Two Hearted all grain";2;1,058;1,014;61;5,8;7
-"Honey.Rye.IPA";"Honey Rye IPA";2;1,066;1,017;54;6,4;10
-"Coconut.Curry.Hefeweisen";"Coconut Curry Hefeweisen";1;1,051;1,013;13;5,1;4
-"Belgian.IPA..10g.";"Belgian IPA (10g)";2;1,066;1,016;52;6,6;7
-"English.Amber.Ale";"English Amber Ale";4;1,05;1,013;20;4,7;11
-"CH.IPA.4...Mod.6";"CH IPA 4 - Mod 6";2;1,066;1,016;48;6,5;11
-"Sierra.Madre";"Sierra Madre";2;1,056;1,013;56;5,6;8
-"X06M..FF0000.Ale";"06M #FF0000 Ale";4;1,051;1,014;25;4,8;13
-"Downtown.IPA..2";"Downtown IPA #2";2;1,059;1,015;67;5,8;10
-"Gnarly.IPA";"Gnarly IPA";2;1,068;1,016;52;6,8;8
-"Mrod.IPA";"Mrod IPA";2;1,06;1,016;55;5,7;11
-"OtPA";"OtPA";2;1,069;1,017;49;6,7;12
-"Riki.Tiki.Simcoe.IPA";"Riki Tiki Simcoe IPA";2;1,06;1,016;62;5,8;8
-"Osama.IPA";"Osama IPA";2;1,059;1,014;63;5,9;9
-"West.Coast.Style.IPA";"West Coast Style IPA";2;1,061;1,016;47;5,9;7
-"Chinook.Citra.IPA...Lower.OG";"Chinook Citra IPA - Lower OG";2;1,061;1,012;50;6,5;8
-"Beauty.and.the.Yeast";"Beauty and the Yeast";1;1,051;1,013;12;5;3
-"LagerWanker";"LagerWanker";3;1,05;1,011;38;5;3
-"Quadruple.J.Red.IPA";"Quadruple J Red IPA";2;1,063;1,015;40;6,3;15
-"Cascade.Citra.IPA..2013.04.06.";"Cascade/Citra IPA (2013-04-06)";2;1,062;1,015;64;6,2;11
-"Irish.Red.Ale..2";"Irish Red Ale #2";4;1,055;1,014;20;5,4;17
-"Shadow.IPA";"Shadow IPA";2;1,064;1,017;68;6,1;14
-"Grapefruit.Summer.IPA";"Grapefruit Summer IPA";2;1,065;1,017;58;6,3;7
-"Dawg.Weiss";"Dawg Weiss";1;1,048;1,013;12;4,5;6
-"IPA.11";"IPA";2;1,071;1,018;56;6,9;9
-"Pinto.IPA";"Pinto IPA";2;1,066;1,017;64;6,4;8
-"Mrs.Velkyal.s.Session.Beer";"Mrs Velkyal's Session Beer";4;1,048;1,014;20;4,5;15
-"K.s.Mystery.Mix.IPA";"K's Mystery Mix IPA";2;1,058;1,015;43;5,7;6
-"JPR_RED";"JPR_RED";4;1,049;1,011;21;5;12
-"Hell.of.a.Day.IPA";"Hell of a Day IPA";2;1,065;1,014;63;6,7;9
-"Shiva.Kitty";"Shiva Kitty";2;1,059;1,015;51;5,8;8
-"The..C..Word.IPA";"The ""C"" Word IPA";2;1,073;1,015;63;7,6;12
-"Two.Hearted.Clone..2";"Two Hearted Clone #2";2;1,067;1,017;54;6,5;9
-"Hoppy.Hour";"Hoppy Hour";2;1,07;1,018;62;6,8;14
-"Snuggles.Hefe.V2..2010.08.06.version.";"Snuggles Hefe V2 (2010-08-06 version)";1;1,048;1,011;11;4,8;5
-"Karnowski";"Karnowski";2;1,065;1,016;50;6,4;6
-"Belma.SMaSH";"Belma SMaSH";2;1,058;1,014;68;5,8;6
-"Ogri.s.Alliance.2.IPA.January.3rd.2014";"Ogri's Alliance 2 IPA January 3rd 2014";2;1,072;1,01;65;8;7
-"Rupert.IPA";"Rupert IPA";2;1,072;1,017;52;7,1;13
-"Hefeweizen.I";"Hefeweizen I";1;1,052;1,012;11;5,2;3
-"Mosaic.IPA.1";"Mosaic IPA";2;1,06;1,013;58;6,1;10
-"Cloud.9.IPA";"Cloud 9 IPA";2;1,063;1,018;44;5,9;9
-"O..My.Soul";"O, My Soul";2;1,07;1,016;67;7;8
-"Misfit.Love";"Misfit Love";4;1,052;1,012;24;5,2;16
-"Double.IPL";"Double IPL";2;1,07;1,017;55;6,8;9
-"Rye.Centennial.IPA";"Rye Centennial IPA";2;1,07;1,017;59;6,9;8
-"Untitled.Irish.Red.Ale.153716";"Untitled Irish Red Ale 153716";4;1,045;1,012;21;4,3;14
-"wastafeson";"wastafeson";1;1,052;1,013;10;5,1;2
-"El.Hefe.1";"El Hefe";1;1,051;1,012;13;5,1;7
-"DBHB.Red.Sumo";"DBHB Red Sumo";4;1,051;1,012;23;5,1;15
-"Space.hoppin.";"Space hoppin'";2;1,073;1,011;61;8,1;13
-"Ruby.Mosaic";"Ruby Mosaic";2;1,063;1,016;50;6,1;6
-"Bee.Cave.Hefeweizen";"Bee Cave Hefeweizen";1;1,051;1,013;12;4,9;3
-"Bells.Two.Hearted";"Bells Two Hearted";2;1,067;1,013;46;7;6
-"Bells.Two.Hearted.Galaxy.DH";"Bells Two Hearted Galaxy DH";2;1,067;1,013;46;7;6
-"Dead.Ringer.IPA.6";"Dead Ringer IPA";2;1,072;1,018;60;7,1;10
-"Eidelweiss..BBS.";"Eidelweiss (BBS)";1;1,051;1,013;13;5;5
-"An.American.IPA.in.London";"An American IPA in London";2;1,068;1,017;65;6,6;9
-"X.114.Clone";"X-114 Clone";2;1,068;1,017;64;6,7;9
-"Half.Nelson";"Half Nelson";2;1,065;1,014;58;6,6;12
-"Watermelon.Weizenbier";"Watermelon Weizenbier";1;1,049;1,013;11;4,8;3
-"Deep.Red.Ale";"Deep Red Ale";2;1,056;1,013;44;5,6;11
-"Spapoop.IPA";"Spapoop IPA";2;1,068;1,018;57;6,6;8
-"Northern.Brewer.Dead.Ringer.IPA.1";"Northern Brewer Dead Ringer IPA";2;1,064;1,015;56;6,4;8
-"Citraholic";"Citraholic";2;1,061;1,016;61;6;7
-"Em.s.WIPA";"Em's WIPA";2;1,066;1,015;48;6,7;7
-"Hopricot.IPA";"Hopricot IPA";2;1,069;1,017;58;6,8;10
-"Mango.Madness.Pale.Ale";"Mango Madness Pale Ale";2;1,058;1,016;55;5,5;8
-"Mama.K.IPA";"Mama K IPA";2;1,069;1,017;61;6,8;10
-"Mad.Tom.IPA.Clone";"Mad Tom IPA Clone";2;1,069;1,017;60;6,8;9
-"Munich.IPA";"Munich IPA";2;1,056;1,014;57;5,5;8
-"RyePuh.";"RyePuh!";2;1,064;1,016;51;6,3;8
-"Father.s.Day.Ipa.II";"Father's Day Ipa II";2;1,068;1,017;66;6,7;7
-"Christmas.IPA...Lighter";"Christmas IPA - Lighter";2;1,065;1,015;46;6,5;7
-"Mango.Chipotle.IPA";"Mango Chipotle IPA";2;1,071;1,017;41;7,1;6
-"Single.Hop..Pearle.";"Single Hop (Pearle)";2;1,066;1,017;52;6,4;7
-"Neck.weeks";"Neck weeks";2;1,065;1,016;60;6,4;10
-"Blue.IPA";"Blue IPA";2;1,061;1,015;58;6;6
-"Mystery.Manor.Pale.Ale";"Mystery Manor Pale Ale";2;1,058;1,016;46;5,5;7
-"Spring.Weizen";"Spring Weizen";1;1,052;1,014;13;4,9;3
-"Brewtopia.IPA";"Brewtopia IPA";2;1,064;1,015;46;6,4;6
-"Founders.300esq";"Founders 300esq";2;1,066;1,017;68;6,4;6
-"Manini.IPA";"Manini IPA";2;1,069;1,014;69;7,2;6
-"Dead.Ringer.1";"Dead Ringer";2;1,064;1,017;58;6,2;8
-"RePete.ChrisZachNico.2.19.2012";"RePete-ChrisZachNico-2-19-2012";2;1,065;1,018;46;6,3;8
-"IPA.KISS";"IPA KISS";2;1,068;1,015;48;6,9;6
-"Longleaf.Hefe";"Longleaf Hefe";1;1,047;1,011;9;4,7;6
-"Columbus.IPA.3";"Columbus IPA";2;1,067;1,017;55;6,6;8
-"My.P.Eh";"My P Eh";2;1,067;1,017;64;6,6;11
-"Immortal.Clone";"Immortal Clone";2;1,066;1,017;48;6,4;8
-"Dog.Day.IPA";"Dog Day IPA";2;1,062;1,016;66;6,1;8
-"Standard.Hefe";"Standard Hefe";1;1,052;1,013;9;5;4
-"Conan.the.IPA";"Conan the IPA";2;1,067;1,017;68;6,6;6
-"Simple.IPA";"Simple IPA";2;1,07;1,018;60;6,9;9
-"NB.Dead.Ringer.IPA";"NB Dead Ringer IPA";2;1,063;1,016;62;6,2;9
-"Snuggles.Hefe.V2";"Snuggles Hefe V2";1;1,048;1,012;11;4,7;5
-"Order.60.Six";"Order 60 Six";2;1,057;1,014;60;5,6;9
-"Greenbelt.IPA";"Greenbelt IPA";2;1,073;1,017;66;7,2;9
-"BriDaddy.IPA";"BriDaddy IPA";2;1,067;1,017;51;6,5;8
-"HefeWheat";"HefeWheat";1;1,045;1,011;13;4,4;4
-"Falconer.s.flight.IPA";"Falconer's flight IPA";2;1,068;1,017;58;6,7;7
-"double.batch.Harpoon.IPA.clone..2012.08.14.version.";"double batch Harpoon IPA clone (2012-08-14 version)";2;1,069;1,018;43;6,7;9
-"IRA.2";"IRA";2;1,06;1,018;60;5,5;14
-"Single.Hop.Rakau.IPA.Test.2";"Single Hop Rakau IPA Test 2";2;1,071;1,014;62;7,4;10
-"Vermont.Hill...IPA";"Vermont Hill - IPA";2;1,07;1,014;66;7,3;7
-"Deadringer.IPA..NB.Kit.";"Deadringer IPA (NB Kit)";2;1,064;1,013;59;6,6;9
-"Schwifty.Ale";"Schwifty Ale";2;1,065;1,016;66;6,4;10
-"Averagely.Perfect.American.IPA";"Averagely Perfect American IPA";2;1,064;1,017;61;6,1;7
-"Yan.s.Sweet.Wheat.Celebration";"Yan's Sweet Wheat Celebration";1;1,048;1,013;13;4,5;3
-"Tubby.s.IPA..2012.02.20.version.";"Tubby's IPA (2012-02-20 version)";2;1,068;1,015;65;6,9;6
-"First.electric.ryepa";"First electric ryepa";2;1,059;1,015;52;5,8;9
-"Punch.You.in.the.IPA";"Punch You in the IPA";2;1,065;1,013;48;6,8;7
-"UBrew.APA";"UBrew APA";2;1,056;1,011;51;5,9;9
-"Raspberry.Wheat";"Raspberry Wheat";1;1,05;1,012;10;5;3
-"First.Pilsner";"First Pilsner";3;1,05;1,013;25;4,9;2
-"OEA";"OEA";2;1,057;1,014;45;5,6;7
-"Equinox.Simcoe";"Equinox Simcoe";2;1,071;1,014;70;7,4;8
-"Kibosh.weissbier";"Kibosh weissbier";1;1,05;1,012;12;5,1;3
-"Kepler.AG";"Kepler AG";1;1,046;1,012;8;4,5;2
-"Fiesta.Ale";"Fiesta Ale";2;1,072;1,017;60;7,2;11
-"Fogu";"Fogu";2;1,066;1,018;48;6,3;10
-"X.002..Almond.IPA";"(002) Almond IPA";2;1,07;1,018;60;6,9;12
-"X.029..Red.Beard.McBrewinagin";"(029) Red Beard McBrewinagin";4;1,052;1,014;21;4,9;15
-"Hammerface.IPA";"Hammerface IPA";2;1,068;1,016;61;6,8;7
-"TOTAL.BS.IPA";"TOTAL BS IPA";2;1,063;1,016;54;6,2;6
-"RyRyePA";"RyRyePA";2;1,069;1,017;51;6,8;11
-"TNT.IPA";"TNT IPA";2;1,065;1,017;65;6,3;8
-"Apthorp.Ale";"Apthorp Ale";2;1,063;1,016;44;6,2;9
-"Heavy.Rye";"Heavy Rye";2;1,065;1,012;46;7;11
-"Older.Not.Weisser";"Older Not Weisser";1;1,05;1,013;14;4,9;2
-"Appa.s.IPA";"Appa's IPA";2;1,073;1,011;69;8,2;8
-"Forty.Five.Minutes";"Forty Five Minutes";2;1,058;1,017;69;5,3;9
-"irish.red";"irish red";4;1,055;1,014;22;5,4;16
-"Ska.Loose.Interpretation";"Ska Loose Interpretation";2;1,074;1,017;66;7,4;8
-"Rusty.Pipes.Hopburst.Mark.2";"Rusty Pipes Hopburst Mark 2";2;1,066;1,017;67;6,4;13
-"My.First.beer";"My First beer";3;1,045;1,011;27;4,5;4
-"The.Hefenschweizer";"The Hefenschweizer";1;1,049;1,012;9;4,8;3
-"LUNCH";"LUNCH";2;1,069;1,016;67;6,9;6
-"Formiga.American.IPA...metric";"Formiga American IPA - metric";2;1,071;1,018;55;7;7
-"Hop.Rocket.IPA";"Hop Rocket IPA";2;1,064;1,016;42;6,3;6
-"Citracide";"Citracide";2;1,07;1,018;59;6,8;8
-"Study.In.Victory..1";"Study In Victory #1";2;1,066;1,016;53;6,5;9
-"Victory.Brew";"Victory Brew";2;1,067;1,018;56;6,4;9
-"SMash..Honey.malt";"SMash* Honey malt";2;1,065;1,018;48;6,3;7
-"Telegraph.IPA";"Telegraph IPA";2;1,069;1,016;67;6,9;7
-"Nugget.light";"Nugget light";2;1,062;1,015;45;6,1;6
-"Sierra.Nevada.Celebration";"Sierra Nevada Celebration";2;1,061;1,015;64;6;10
-"Kitchen.Sink.Hop.and.Rye";"Kitchen Sink Hop and Rye";2;1,07;1,014;51;7,3;12
-"Harvest.Hefeweizen";"Harvest Hefeweizen";1;1,049;1,013;14;4,7;4
-"Sticky.Fingers.IPA";"Sticky Fingers IPA";2;1,067;1,018;54;6,4;8
-"Commy.Bastard";"Commy Bastard";4;1,05;1,012;18;5,1;18
-"Lord.Kelvin.IPA";"Lord Kelvin IPA";2;1,059;1,015;47;5,8;14
-"Irish.Immigrant.Red.Ale";"Irish Immigrant Red Ale";4;1,052;1,014;25;5;10
-"Elgin.IPA";"Elgin IPA";2;1,066;1,016;59;6,5;8
-"X2014.chinook.half.batch";"2014 chinook half batch";2;1,063;1,012;50;6,7;7
-"Stormrand.IPA";"Stormrand IPA";2;1,057;1,015;43;5,5;12
-"chinook.ipa";"chinook ipa";2;1,065;1,016;66;6,4;9
-"Fresh.Squeezed.V2";"Fresh Squeezed V2";2;1,06;1,014;56;6,1;6
-"Simcoe.Darker.IPA";"Simcoe Darker IPA";2;1,067;1,017;53;6,6;12
-"Bell.s.Two.Hearted.Clone..2.Gallon.BIAB.";"Bell's Two-Hearted Clone (2-Gallon BIAB)";2;1,064;1,015;56;6,4;8
-"Sierra.Nevada.Style.IPA";"Sierra Nevada Style IPA";2;1,065;1,016;68;6,4;7
-"Czech.Pilsner";"Czech Pilsner";3;1,046;1,012;36;4,4;4
-"B.E.E.R";"B E E R";2;1,065;1,013;57;6,8;6
-"Lagunitas.IPA.Style";"Lagunitas IPA Style";2;1,059;1,018;59;5,4;7
-"IPA.1.0";"IPA 1.0";2;1,067;1,017;56;6,5;11
-"BRP010.standard.red.ale";"BRP010 standard red ale";4;1,056;1,013;25;5,6;12
-"X68CitraIPA";"68CitraIPA";2;1,072;1,01;64;8,1;13
-"whamber";"whamber";2;1,063;1,015;51;6,3;11
-"CIPA";"CIPA";2;1,068;1,016;62;6,8;14
-"Fruit.Bomb.IPA";"Fruit Bomb IPA";2;1,067;1,016;58;6,7;9
-"ABC.Brewing...Hop.Sanatorium";"ABC Brewing - Hop Sanatorium";2;1,061;1,014;55;6,1;7
-"Nelson.IPA";"Nelson IPA";2;1,065;1,016;48;6,4;7
-"Citra.ipa.1";"Citra ipa 1";2;1,07;1,016;48;7,1;10
-"J.B.IPA..Extract.";"J&B IPA (Extract)";2;1,063;1,016;67;6,1;12
-"Schneider.Weisse.Clone.3.Gallon";"Schneider Weisse Clone 3 Gallon";1;1,05;1,012;14;4,9;6
-"Nye.P.Eh";"Nye-P-Eh";2;1,067;1,018;46;6,4;9
-"Ipana";"Ipana";2;1,058;1,013;51;5,9;6
-"Ranting.Ricky.s.Rye";"Ranting Ricky's Rye";2;1,063;1,016;58;6,1;7
-"Rain.Delay.v2";"Rain Delay v2";2;1,065;1,013;45;6,8;7
-"The.Explorer";"The Explorer";2;1,057;1,014;58;5,7;6
-"two.hearted.clone";"two hearted clone";2;1,059;1,016;65;5,6;6
-"Hefe.4";"Hefe";3;1,046;1,011;26;4,5;4
-"Warrior.Single.Hop";"Warrior Single Hop";2;1,061;1,016;59;5,9;10
-"PEAK.IPA.CLONE..2011.11.23.version.";"PEAK IPA CLONE (2011-11-23 version)";2;1,064;1,017;58;6,2;9
-"Centra.IPA";"Centra IPA";2;1,056;1,011;52;5,9;7
-"Dead.Ringer.by.Frostbrewer";"Dead Ringer by Frostbrewer";2;1,068;1,017;66;6,7;10
-"All.Grain.Hefe";"All Grain Hefe";1;1,048;1,012;13;4,7;4
-"Revolutionary.Rebel.IPA";"Revolutionary Rebel IPA";2;1,066;1,018;47;6,3;6
-"CPA.IPA";"CPA IPA";2;1,064;1,016;65;6,3;7
-"User.error";"User error";1;1,051;1,013;13;5;5
-"Strong.Irish.Red..1.";"Strong Irish Red (1)";4;1,052;1,013;24;5,1;9
-"Franklin.IPA.2.0";"Franklin IPA 2.0";2;1,061;1,016;53;5,8;7
-"Summer.Hefe";"Summer Hefe";1;1,05;1,012;14;4,9;4
-"Ruthless.Aye";"Ruthless Aye";2;1,064;1,013;53;6,7;11
-"O.Leary.s.Cow";"O'Leary's Cow";4;1,05;1,014;27;4,7;13
-"Hefe.pils";"Hefe-pils";1;1,046;1,012;13;4,6;5
-"Better.than.Oscar.IPA";"Better than Oscar IPA";2;1,072;1,018;70;7,1;9
-"GOLDEN.WEIZEN";"GOLDEN WEIZEN";1;1,048;1,013;11;4,7;4
-"Mighty.Orange.IPA.2012.10.11";"Mighty Orange IPA 2012-10-11";2;1,056;1,015;69;5,4;9
-"Weiss.Weiss.Baby";"Weiss Weiss Baby";1;1,047;1,012;12;4,7;3
-"Smashbomb.IPA.Clone";"Smashbomb IPA Clone";2;1,056;1,015;53;5,4;12
-"Hefeweizen.3";"Hefeweizen";1;1,051;1,013;11;5;2
-"Heffn..A.2.0";"Heffn' A 2.0";1;1,052;1,012;10;5,2;4
-"X3.11.IPA";"3-11 IPA";2;1,065;1,018;66;6,2;7
-"Odds.and.Ends.IPA";"Odds and Ends IPA";2;1,071;1,01;56;7,9;11
-"Oktoberfest.IPA";"Oktoberfest IPA";2;1,069;1,017;62;6,8;11
-"Sierra.Nevada.Celebration.Clone";"Sierra Nevada Celebration Clone";2;1,063;1,017;66;6;9
-"Amarillo.Simco.Lagunitas.Yeast.IPA";"Amarillo/Simco Lagunitas Yeast IPA";2;1,061;1,015;57;6;6
-"wei.zo.serious.";"wei zo serious?";1;1,051;1,013;15;5;3
-"Midwest.Irish.Red.Kit";"Midwest Irish Red Kit";4;1,048;1,012;19;4,7;9
-"Belma.WIPA";"Belma WIPA";2;1,056;1,014;54;5,5;7
-"Gallon.IPA";"Gallon IPA";2;1,058;1,014;41;5,8;10
-"Half.Mash.IPA";"Half Mash IPA";2;1,07;1,018;56;6,8;8
-"PGB.IPA.2G";"PGB IPA 2G";2;1,059;1,015;49;5,8;6
-"Ghost.Fish.IPA";"Ghost Fish IPA";2;1,06;1,014;58;6;6
-"Untitled.American.IPA.156300";"Untitled American IPA 156300";2;1,073;1,017;60;7,2;10
-"AHS.Winter.IPA";"AHS Winter IPA";2;1,067;1,013;66;7;10
-"Grandpops.Broken.Coaster.IPA";"Grandpops Broken Coaster IPA";2;1,068;1,018;67;6,6;6
-"Initial.IPA";"Initial IPA";2;1,057;1,011;59;6;8
-"Lavender.IPA";"Lavender IPA";2;1,064;1,017;57;6;6
-"IIPA";"IIPA";2;1,063;1,017;68;6;8
-"Red.IPA.1";"Red IPA";2;1,068;1,017;67;6,7;15
-"IL.2.CO";"IL 2 CO";2;1,063;1,016;53;6,2;10
-"Fantasy.IPA";"Fantasy IPA";2;1,067;1,014;51;6,9;8
-"Green.Tea.IPA.Redux";"Green Tea IPA Redux";2;1,068;1,017;41;6,7;7
-"Whirlpool.Munich";"Whirlpool Munich";2;1,06;1,013;62;6,1;10
-"Wheat.heaven..extract.";"Wheat heaven (extract)";1;1,048;1,012;13;4,6;3
-"Red.Two.Hop.IPA";"Red Two Hop IPA";2;1,07;1,01;56;7,9;13
-"Nemesis.IPA..2012.03.10.version.";"Nemesis IPA (2012-03-10 version)";2;1,066;1,018;43;6,3;9
-"Peak.Banana";"Peak Banana";1;1,05;1,012;14;4,9;4
-"Red.Ale.2";"Red Ale";4;1,046;1,01;24;4,7;12
-"Custom.IPA";"Custom IPA";2;1,066;1,017;64;6,4;9
-"Bachelor.Party.IPA";"Bachelor Party IPA";2;1,057;1,014;57;5,6;9
-"AHS.Anniversary.IPA";"AHS Anniversary IPA";2;1,068;1,016;59;6,8;10
-"Daruis.with.Saaz.and.Perle";"Daruis with Saaz and Perle";2;1,06;1,014;53;5,9;7
-"Ragout.Pilsner.v1";"Ragout Pilsner v1";3;1,047;1,013;41;4,5;3
-"X2015.Red.IPA";"2015 Red IPA";2;1,065;1,017;53;6,3;15
-"Irish.Red.I";"Irish Red I";4;1,046;1,012;22;4,4;16
-"Irish.Red.6";"Irish Red";4;1,046;1,013;24;4,3;12
-"Summer.Rain.IPA";"Summer Rain IPA";2;1,057;1,017;59;5,2;6
-"Equilibrium.Ale.v1.1";"Equilibrium Ale v1.1";2;1,06;1,012;42;6,3;9
-"Sam.Adams.Latitude.48.IPA.Clone";"Sam Adams Latitude 48 IPA Clone";2;1,071;1,018;48;7;9
-"Dedicationman.IPA";"Dedicationman IPA";2;1,072;1,017;61;7,1;8
-"New.Edition.IPA.v2";"New Edition IPA v2";2;1,056;1,013;57;5,6;6
-"Darwin.s.Weizen";"Darwin's Weizen";1;1,05;1,013;10;4,8;3
-"X.089..Half.Santa.Left.This.For.Me";"(089) Half-Santa Left This For Me";2;1,061;1,012;68;6,4;6
-"Hops.Upside.Your.Head.BPA";"Hops Upside Your Head BPA";2;1,058;1,015;61;5,6;13
-"Falconer.s.IPA";"Falconer's IPA";2;1,07;1,015;64;7,2;9
-"AHS.karankawa.pale.ale";"AHS karankawa pale ale";2;1,057;1,014;56;5,6;8
-"White.Wizard";"White Wizard";1;1,047;1,012;10;4,6;3
-"Rico.s.METHod.IPA";"Rico's METHod IPA";2;1,065;1,016;63;6,3;7
-"Jamil.s.Evil.Twin.2";"Jamil's Evil Twin";2;1,062;1,016;42;6;14
-"AMERICAN.DORIPA";"AMERICAN DORIPA";2;1,073;1,017;57;7,3;9
-"Blood.Orange.Hefeweizen";"Blood Orange Hefeweizen";1;1,046;1,012;13;4,5;3
-"Unpaved.Road...Citra.IPA";"Unpaved Road - Citra IPA";2;1,064;1,015;60;6,4;6
-"Leenhonitas.IPA..2010.04.25.version.";"Leenhonitas IPA (2010-04-25 version)";2;1,064;1,017;55;6,2;12
-"Sharpe.Shooter.IPA";"Sharpe Shooter IPA";2;1,071;1,018;48;6,9;12
-"Somewhat.Sahti";"Somewhat Sahti";2;1,059;1,015;55;5,7;9
-"Dampfbier.1";"Dampfbier";1;1,048;1,013;15;4,6;5
-"X15.minute.American.IPA";"15 minute American IPA";2;1,057;1,015;55;5,5;14
-"Fakedra...Phaedra.Belgian.Rye.IPA.Clone";"Fakedra - Phaedra Belgian Rye IPA Clone";2;1,07;1,017;67;7;6
-"P.T.Red.Ale";"P&T Red Ale";4;1,056;1,014;21;5,5;16
-"Holy.Cow..IPA";"Holy Cow! IPA";2;1,067;1,016;61;6,7;9
-"Quick.Hefe..2011.07.24.version.";"Quick Hefe (2011-07-24 version)";1;1,047;1,011;14;4,7;3
-"Strong.Arm.IPA.1";"Strong Arm IPA";2;1,058;1,015;66;5,6;6
-"Ram.s.Offspring";"Ram's Offspring";2;1,058;1,014;61;5,7;10
-"Weiss.Guy";"Weiss Guy";1;1,051;1,013;10;5;4
-"Razzfeilds";"Razzfeilds";1;1,046;1,012;12;4,5;3
-"Bell.s.Roundhouse.Clone.SC.version";"Bell's Roundhouse Clone-SC version";2;1,065;1,017;56;6,3;12
-"Dan.s.Kiwi.Xmas.IPA";"Dan's Kiwi Xmas IPA";2;1,062;1,016;67;6;9
-"Mouthparty.IPA";"Mouthparty IPA";2;1,067;1,017;66;6,6;8
-"Simcoe.Smash..sorta.";"Simcoe Smash (sorta)";2;1,057;1,013;70;5,7;6
-"Hopworks.IPA.Clone";"Hopworks IPA Clone";2;1,056;1,015;63;5,4;6
-"Belgian.Ryiot";"Belgian Ryiot";2;1,071;1,016;62;7,2;10
-"ekstrakt";"ekstrakt";2;1,063;1,017;68;6;8
-"Ranjer.IPA.12.24.13";"Ranjer IPA 12/24/13";2;1,06;1,015;65;5,9;10
-"Hefe.IV...38.Special.";"Hefe IV (.38 Special)";1;1,05;1,012;11;5;2
-"Downtown.IPA";"Downtown IPA";2;1,06;1,015;55;5,9;11
-"Quench";"Quench";1;1,052;1,012;11;5,2;4
-"Hoppy.New.Beer";"Hoppy New Beer";2;1,058;1,014;62;5,7;9
-"Freckled.Ginger.Ale";"Freckled Ginger Ale";4;1,057;1,013;23;5,7;14
-"American.IPA.test";"American IPA test";2;1,061;1,015;64;6;8
-"Pod.City.IPA";"Pod City IPA";2;1,058;1,015;61;5,7;15
-"South.Side.Pale.Ale.v2.0";"South Side Pale Ale v2.0";2;1,056;1,012;52;5,9;6
+"";"Style";"OG";"FG";"IBU";"ABV";"Color"
+"X3.Floyd.s.Zombie.Dust.Clone";2;1,07;1,018;53;6,9;8
+"Cascade.IPA";2;1,068;1,018;68;6,6;6
+"Hefe.IV";1;1,05;1,012;12;5;3
+"Citra.Black.IPA";2;1,062;1,017;43;6;33
+"Citra.Amarillo.IPA";2;1,059;1,01;68;6,4;6
+"House.Red.Ale";4;1,049;1,012;20;4,8;17
+"Love.You.Long.Time.IPA";2;1,05;1,013;43;4,9;8
+"Grapefruit.IPA";2;1,062;1,015;50;6,1;10
+"All.Citra.Ale";2;1,06;1,015;49;5,9;7
+"Springtime.Red.IPA";2;1,066;1,016;70;6,4;14
+"German.Pilsner";3;1,046;1,012;36;4,5;2
+"Bells.Two.Hearted..BeerSmith.";2;1,074;1,017;61;7,5;7
+"Citripa";2;1,064;1,016;67;6,2;8
+"Herms√.l...Red.Ranger";4;1,065;1,017;22;6,2;15
+"Golden.Magic.Hefeweizen";1;1,051;1,013;14;5;2
+"Celtic.Sunrise.Irish.Red.Ale";4;1,05;1,014;18;4,7;13
+"Irish.red";4;1,049;1,014;24;4,6;13
+"Citra.Single.Hop.IPA";2;1,07;1,018;65;6,9;9
+"Lagunitas.IPA.clone";2;1,074;1,019;58;7,3;9
+"Bronco.Orange.Hefeweizen.BIAB";1;1,05;1,012;15;5;3
+"Strawberry.Wheat";1;1,052;1,013;10;5,1;3
+"Azacca.SMASH";2;1,073;1,017;67;7,3;6
+"Citra.Mosaic.Half.Hearted";2;1,06;1,014;54;6;7
+"Hefeweizen";1;1,051;1,013;13;5;3
+"Northern.Brewer.Dead.Ringer.IPA";2;1,067;1,018;55;6,4;7
+"Bismarck.Pils";3;1,049;1,012;40;4,8;2
+"Double.Dawg.Dare.IPA";2;1,062;1,017;66;5,9;6
+"X.2.Summer.SMaSH.IPA";2;1,069;1,017;53;6,8;6
+"Angel.IPA";2;1,064;1,014;56;6,5;7
+"Irish.Red.2011";4;1,055;1,014;19;5,4;14
+"Fresh.Hop.IPA";2;1,067;1,016;62;6,8;7
+"Session.Black.IPA";2;1,048;1,013;42;4,6;37
+"L33T.1P4";2;1,07;1,015;65;7,2;7
+"German.Pilsner.1";3;1,052;1,011;35;5,3;2
+"Zombie.Dust.IPA.Clone";2;1,047;1,007;108;5,2;9
+"Denny.s.Rye.IPA";2;1,082;1,012;60;9,1;10
+"Freshly.Squeezed.Nugs";2;1,074;1,018;52;7,4;9
+"Outter.Limits.IPA";2;1,068;1,018;41;6,6;11
+"Dead.Ringer.IPA";2;1,064;1,015;64;6,4;7
+"Ice.to.69.you";2;1,07;1,016;68;7;6
+"Snoweizen";1;1,044;1,012;10;4,2;4
+"Tafy.s.Rye.Pils";3;1,047;1,011;30;4,8;3
+"Hawaiian.Pale.Ale";2;1,059;1,014;59;6;9
+"Weihenstephaner.Hefe.Weissbier..1";1;1,052;1,012;11;5,2;2
+"Irish.Red.Ale..Midwest.kit.";4;1,044;1,011;22;4,4;12
+"Zombie.Ritual..Zombie.Dust.Clone..BIAB";2;1,062;1,016;63;6,1;8
+"Jamil.s.BYO.Irish.Red.Ale";4;1,052;1,014;25;5,1;15
+"Lenticular";2;1,058;1,008;61;6,5;6
+"Ziggy.Spacedust.IPA..a.smaller.Space.Dust.clone.";2;1,06;1,018;55;5,5;4
+"Hoppiness.is.an.IPA..Palmer.et.al.";2;1,072;1,011;58;8,1;8
+"Ska.Modus.Hoperandi.Clone";2;1,067;1,017;67;6,6;12
+"Single.Hop.Amarillo.IPA";2;1,066;1,017;59;6,4;10
+"Single.Hop.IPA...Sorachi.Ace...Scaled";2;1,064;1,017;54;6,1;8
+"Summer.Shandy";1;1,051;1,012;12;5,1;3
+"Nasty.Nate.s.Armadillo";2;1,061;1,015;70;6;7
+"Chinook.IPA";2;1,066;1,018;65;6,3;6
+"X1337.Zombie..Citra.Single.Hop.";2;1,064;1,009;70;7,2;7
+"Kilkenny.Irish.Red";4;1,047;1,015;19;4,1;13
+"Aranycs√.pp";1;1,061;1,016;11;5,9;3
+"Raging.Red.Irish.Red.Ale";4;1,06;1,014;25;6;15
+"Sculpin.IPA.Clone";2;1,072;1,018;73;7,1;9
+"Standard.Weissbier";1;1,043;1,011;23;4,1;3
+"Hangover.Hold.em.IPA";2;1,065;1,013;48;6,8;7
+"Lagunitas.IPA.Clone";2;1,06;1,017;45;5,6;7
+"Columbus.Single.Hop.IPA";2;1,074;1,011;65;8,3;6
+"Chinook.Rye.IPA";2;1,075;1,011;68;8,4;10
+"Willamette.valley.wiesse";1;1,051;1,014;9;4,9;3
+"Equinox.IPA.9.26.14";2;1,057;1,012;60;5,9;8
+"Columbus.IPA";2;1,065;1,016;56;6,4;8
+"Belgian.IPA";2;1,069;1,017;70;6,8;6
+"Sailor.s.Delight";2;1,07;1,017;66;7;6
+"Irish.Spring.Break";4;1,048;1,014;25;4,6;10
+"Fresh.Squeezed.IPA.Clone";2;1,064;1,009;88;7,2;8
+"Irish.Red";4;1,058;1,014;26;5,7;12
+"Northwest.Imperial.Red.Rye.Ale";4;1,083;1,022;37;8;14
+"Moran.s.IPA";2;1,056;1,015;58;5,4;32
+"Oirish.Rad";4;1,063;1,014;23;6,4;11
+"Nisqually.Pale";2;1,061;1,015;58;6;8
+"Draft.Day.IPA";2;1,074;1,017;60;7,4;13
+"MACC.IPA";2;1,071;1,015;41;7,4;6
+"Cascade.of.Cascade";2;1,057;1,012;58;5,9;7
+"Heafes.weizen";1;1,048;1,013;11;4,7;2
+"Red.IPA";2;1,065;1,015;66;6,6;13
+"Bell.s.Two.Hearted.Clone";2;1,06;1,012;54;6,3;8
+"Single.Hop.IPA..Nelson.Sauvin.";2;1,071;1,017;56;7,2;9
+"Tongue.Tickler.Pilsner";3;1,048;1,011;28;4,8;2
+"German.Pilsner.3";3;1,046;1,01;35;4,7;2
+"Summer.Pils";3;1,05;1,01;39;5,2;2
+"Irish.Red.Ale..MW.";4;1,049;1,013;26;4,7;12
+"Chinook.IPA.1";2;1,057;1,014;45;5,7;7
+"Biscuit.IPA";2;1,07;1,017;52;6,8;10
+"B.s.Pils";3;1,048;1,012;44;4,7;2
+"Galaxy.IPA";2;1,071;1,018;63;6,9;8
+"Centennial.IPA";2;1,07;1,015;65;7,1;9
+"Daniel.s.Extract.Hefeweizen";1;1,05;1,013;13;4,9;3
+"American.Red.Rye.IPA";2;1,063;1,016;73;6,2;16
+"Kama.Citra.Session.IPA..NB.";2;1,05;1,014;39;4,8;4
+"Jim.s.American.IPA";2;1,048;1,007;61;5,4;5
+"hefe";1;1,053;1,013;15;5,2;6
+"Boylan.Hoptical";2;1,055;1,013;44;5,5;11
+"Wolf";2;1,074;1,013;39;8;15
+"Red.Beard...Bitter.Red";4;1,049;1,014;29;4,6;13
+"duet.clone";2;1,07;1,016;52;7;4
+"A2ZIPA...";2;1,072;1,016;71;7,3;3
+"K√.nigskrone.German.Pils";3;1,049;1,013;33;4,7;2
+"Simple.Hefe";1;1,058;1,015;5;5,6;3
+"Ein.ma.Weisse";1;1,047;1,013;8;4,5;4
+"IPA";2;1,065;1,011;48;7;9
+"Magnibrew.s.Hop..Hop..IPA";2;1,062;1,016;52;6,1;8
+"Red.Robyn.2";4;1,044;1,006;22;4,9;9
+"Trick.or.Treat.Black.IPA";2;1,08;1,019;67;8;62
+"Nugget.Nectar.Clone";2;1,069;1,01;108;7,7;6
+"Jamil.s.Evil.Twin...ALL.GRAIN";2;1,065;1,017;69;6,2;16
+"Nelson.in.Vienna.SMaSH";2;1,054;1,013;44;5,4;7
+"CYBI.Green.Flash.West.Coast.IPA";2;1,077;1,021;100;7,3;8
+"Leine.s.Summer.Shandy.Clone";1;1,051;1,012;12;5,1;2
+"EMA.American.Pale...26L.batch.";2;1,059;1,009;41;6,6;7
+"SaraWeizen";1;1,052;1,013;11;5,1;4
+"Hop.Burst.IPA";2;1,065;1,015;56;6,5;7
+"American.Rye.IPA";2;1,064;1,015;50;6,4;7
+"Chicken.Dog.IPA";2;1,069;1,017;69;6,8;8
+"Duke.s.Fall.Retriever";2;1,07;1,01;57;7,8;7
+"oktoberfest.hefe";1;1,052;1,012;12;5,2;3
+"German.Hefeweizen";1;1,048;1,012;11;4,7;2
+"From.Hells.Heart";2;1,062;1,013;70;6,5;8
+"Spaceman.IPA";2;1,069;1,01;51;7,8;6
+"Hoppy.Red..1";2;1,071;1,017;62;7,1;15
+"Red.Classic";4;1,045;1,013;19;4,2;13
+"Ruby..X..IPA.4.6.14";2;1,059;1,012;48;6,1;8
+"NW.Rye.IPA";2;1,073;1,018;44;7,2;9
+"Basic.Bitch.IPA";2;1,072;1,016;56;7,4;6
+"Sierra.Nevada.Celebration.IPA";2;1,074;1,011;67;8,3;10
+"Hop.Burst.IPA.1";2;1,065;1,013;67;6,7;7
+"B.day.Hop";2;1,066;1,015;67;6,7;12
+"Hobbit.House.IPA";2;1,061;1,011;69;6,6;6
+"GR.IPA";2;1,064;1,017;50;6,2;9
+"Citra.Single.Hop";2;1,058;1,012;52;6,1;7
+"Transatlantic.IPA";2;1,071;1,018;60;7;7
+"Hogan.s.Air.Raid.ag";2;1,065;1,015;65;6,6;6
+"Zombie.Dust.Partial.Mash.Clone.Part.II";2;1,06;1,014;47;6;7
+"Harvest.Red..2015.";2;1,07;1,016;68;7;10
+"SMASH.German.Wheat";1;1,052;1,013;10;5,1;4
+"Generic.IPA";2;1,068;1,018;44;6,6;10
+"Grapefruit.IPA.1";2;1,072;1,018;50;7,1;6
+"IPAHHH.";2;1,059;1,018;61;5,4;7
+"Missing.the.Freshness.....IPA";2;1,058;1,014;65;5,8;12
+"Heferator";1;1,05;1,013;11;4,8;6
+"Sierra.Nevada.Celebration.Ale.Clone";2;1,063;1,015;53;6,3;13
+"IPA.1";2;1,073;1,017;57;7,2;6
+"MaracujIPA";2;1,058;1,015;43;5,7;7
+"Still.Bitches....Still.in.Space..3gal.";2;1,063;1,016;61;6,2;6
+"German.IPA";2;1,058;1,015;48;5,7;10
+"Liquid.Alpha";2;1,065;1,015;48;6,6;6
+"Weihenstephan.Hefe.Weissbier";1;1,048;1,012;14;4,7;3
+"Big.Enzyme.ER";2;1,065;1,013;57;6,8;6
+"Chanson.d.Hiver";2;1,065;1,016;51;6,4;6
+"American.Copper.Ale..22";2;1,069;1,01;58;7,8;14
+"Austin.Homebrew.Nelson.Sauvin.IPA";2;1,059;1,014;54;5,9;9
+"Cabin.Fever.Stovetop.APA";2;1,06;1,016;64;5,7;10
+"Russian.River.Blind.Pig.DIY";2;1,058;1,014;70;5,8;4
+"Pliny.Hop.CLone";2;1,086;1,02;159;8,6;5
+"Hoppy.Joe.Clone.from.Lervig..3";2;1,052;1,016;32;4,8;18
+"Grapefruit.Sculpin.Clone";2;1,069;1,014;74;7,2;4
+"Munich.Ale";2;1,083;1,024;46;7,7;6
+"White.IPA...Chainbreaker.White.IPA.Clone";2;1,063;1,015;59;6,3;3
+"Rickard.s.Red.Clone";4;1,046;1,009;20;4,8;14
+"Quailhead.Pils";3;1,052;1,013;23;5;2
+"Green.Hulk.IPA.aka.American.Revolution";2;1,068;1,021;193;6,2;6
+"Stepchild.Red.Ale";4;1,061;1,017;36;5,9;21
+"all.day.ipa";2;1,047;1,012;50;4,6;5
+"Darius.hefeweizen";1;1,069;1,018;9;6,7;4
+"Citra.Pale.Ale";2;1,067;1,02;110;6,2;10
+"Irish.Red.Ale";4;1,06;1,017;28;5,6;17
+"Smithwicks.Clone";4;1,062;1,017;26;5,9;13
+"Grapefruit.Pulpin";2;1,065;1,009;39;7,3;7
+"Munich.II.Citra.SMaSH";2;1,069;1,017;81;6,8;12
+"Base.IPA..Centennial.";2;1,065;1,01;51;7,2;7
+"Diamond.Not.04.29.13";2;1,073;1,018;44;7,3;12
+"Steiner.Experimental.A.IPA";2;1,065;1,015;47;6,5;7
+"IPA..1";2;1,059;1,015;41;5,8;6
+"X1st.pils";3;1,05;1,013;25;4,9;3
+"Heikki.Lunta..go.away.";2;1,067;1,013;48;7;8
+"Slainte";4;1,045;1,013;24;4,2;16
+"X2013.February...Year.of.the.Snake.Irish.Red";4;1,049;1,013;17;4,7;10
+"Yule.s.Red.Tide.Ale";4;1,049;1,011;20;4,9;12
+"Citra.SMaSH.IPA";2;1,059;1,016;41;5,6;6
+"SHG.Citra";2;1,066;1,017;49;6,4;9
+"Krazy.Kra√.sen.Hefeweizen";1;1,048;1,012;14;4,6;3
+"X2014.Simple.Hefeweizen";1;1,052;1,01;14;5,4;3
+"Corte.Brewing.and.The.Holy.Grail";2;1,066;1,017;51;6,5;7
+"Calypso.IPA";2;1,067;1,013;70;7;14
+"MicroFest.IPA";2;1,069;1,017;63;6,7;8
+"Ed.s.Red.V3";4;1,047;1,01;21;4,7;11
+"Ken.s.Biergarten";3;1,049;1,012;31;4,9;2
+"Columbus.Solo";2;1,056;1,014;48;5,6;8
+"Hoppily.Ever.After";1;1,052;1,013;12;5,1;3
+"Singel.hoped.Polaris";2;1,062;1,014;67;6,3;6
+"r.ale";2;1,068;1,016;54;6,8;7
+"CasMo.SMaSH";2;1,068;1,017;49;6,7;6
+"Hefe";1;1,052;1,014;8;5;3
+"Weihenstephaner.Hefeweissbier.Clone";1;1,055;1,014;13;5,4;4
+"Eggy.s.Mosaic.Promise";2;1,06;1,009;35;6,7;4
+"B.64.BIPA.20140217";2;1,068;1,01;89;7,6;39
+"Oaty.Nonsense.II";2;1,063;1,016;0;6,2;6
+"Union.Jack.Clone";2;1,082;1,013;62;9;7
+"Zatec.Pils";3;1,045;1,013;49;4,2;2
+"Citra.2.Row.Smash";2;1,061;1,018;52;5,6;2
+"Fruit.Festival.IPA";2;1,064;1,016;72;6,3;8
+"Mosaic.SMaSH";2;1,063;1,016;55;6,2;5
+"Stone..Enjoy.By..clone";2;1,085;1,014;92;9,2;4
+"Hop.Scare.IPA";2;1,076;1,018;57;7,6;8
+"Zombie.Dirt";2;1,059;1,018;69;5,4;5
+"trickster";2;1,054;1,014;87;5,3;7
+"Cascade.IPA.1";2;1,068;1,01;66;7,6;7
+"West.coast.pils";3;1,055;1,017;38;5,1;3
+"Session.IPA...Big.Little.Guy.All.Day..GF.";2;1,045;1,014;44;4,2;7
+"A.Pils";3;1,051;1,015;37;4,7;2
+"Pils.3GB";3;1,046;1,009;34;4,8;1
+"Rye.Rye.Rocco";4;1,06;1,017;31;5,7;11
+"Citra.Marris.Otter.SMASH";2;1,071;1,02;89;6,7;6
+"Captain.MACC";2;1,073;1,015;71;7,6;5
+"Zeus.Black.IPA";2;1,061;1,009;48;6,9;32
+"Gold.as.Ice";2;1,054;1,008;58;6;5
+"Piney.Falls.IPA";2;1,065;1,009;48;7,3;9
+"Dark.Grey.IPA..w..Earl.Grey.Tea.";2;1,069;1,01;66;7,7;28
+"American.Spruce.Ale";2;1,062;1,016;54;6;5
+"Millennium.Falcon";2;1,052;1,008;72;5,8;6
+"Summer.Ale.4.10.15";2;1,042;1,006;47;4,6;1
+"El.Dorado.IPA";2;1,068;1,014;131;7,2;8
+"All.American.IPA";2;1,075;1,019;56;7,4;11
+"The.BABIT.IPA..biab.";2;1,065;1,015;45;6,5;2
+"Kiwi.Express.IPA..NB.";2;1,06;1,009;49;6,8;3
+"Ace.of.Spades";2;1,064;1,016;64;6,2;32
+"Pliny.the.Elder.Clone";2;1,074;1,017;205;7,4;5
+"Session.IPA";2;1,04;1,013;73;3,7;2
+"Vermont.IPA";2;1,066;1,018;45;6,3;5
+"X1.Gallon.IPA";2;1,067;1,02;141;6,2;5
+"Union.Jackesk.IPA";2;1,065;1,018;77;6,2;9
+"Anchor.Steam.IPA..Extract.";2;1,075;1,022;50;6,9;15
+"Fit.To.Be.Ty.d";4;1,054;1,015;25;5,1;13
+"Ferocious.IPA";2;1,058;1,015;74;5,6;6
+"Fall.Brown.IPA";2;1,056;1,012;85;5,6;9
+"Motsatt.kinn.IPA";2;1,066;1,018;68;6,3;8
+"Hefeweizen.XII";1;1,053;1,012;14;5,4;3
+"HTRB.Lavender.Mint.IPA";2;1,069;1,016;77;6,9;5
+"Outer.Spruce";2;1,046;1,007;56;5,2;3
+"Original.Punk.IPA.Clone";2;1,053;1,013;42;5,2;4
+"Stone.IPA.Clone";2;1,071;1,016;81;7,2;4
+"Colorado..all.day..IPA";2;1,067;1,017;49;6,5;14
+"Later.Skater.III";2;1,061;1,016;57;5,9;10
+"Honey.Amber.IPA.";2;1,068;1,016;70;6,8;10
+"Flea.Free.IPA";2;1,066;1,016;47;6,6;7
+"American.IPA";2;1,073;1,017;69;7,2;6
+"Zombie.Dust.Clone...1.Gallon";2;1,069;1,017;53;6,8;8
+"Octopus.lagopus..Phillips.Octofox.clone.";2;1,063;1,016;53;6,2;11
+"The.Defeated.Troll";3;1,046;1,011;35;4,6;2
+"Little.Richie.Ale";2;1,057;1,017;50;5,3;10
+"Kellarb√.r.Ein..Hefeweizen.";1;1,052;1,013;12;5,1;3
+"Cuv√.e.35.C2IPA";2;1,07;1,016;61;7,1;6
+"Red.Robyn";4;1,047;1,012;21;4,6;18
+"Christmas.IPA";2;1,071;1,017;70;7,1;8
+"Warm.December";2;1,074;1,015;67;7,7;7
+"Red";2;1,069;1,017;62;6,8;14
+"Shark.Juice.IPA";2;1,058;1,015;61;5,7;7
+"Dead.Ringer.IPA.1";2;1,072;1,01;62;8;14
+"American.IPA_late.hop.add";2;1,061;1,014;49;6,1;14
+"Iers.Rood";4;1,055;1,014;26;5,4;17
+"Bi√.re.de.Mila";2;1,063;1,015;53;6,3;12
+"Beast.Mode.IPA";2;1,071;1,018;60;7;7
+"Hebeert.s.Full.Nelson.IPA";2;1,071;1,018;52;6,9;11
+"Bell.s.2.Hearted.Citra";2;1,059;1,014;61;5,9;6
+"Corte.Kiwi.IPA";2;1,074;1,017;66;7,5;6
+"The.Heff";1;1,051;1,013;14;4,9;5
+"Brett.Botch.Batch.IPA.v6";2;1,06;1,012;62;6,3;11
+"House.Standard.IPA";2;1,067;1,012;50;7,2;7
+"Goodwheat";1;1,05;1,012;9;5;4
+"Underbite.IPA";2;1,058;1,014;46;5,7;8
+"First.Crack.AIPA";2;1,057;1,015;68;5,5;7
+"En.Amerikansk.Blek.√.l";2;1,058;1,015;67;5,7;11
+"Single.Hop.Trials";2;1,062;1,016;67;6,1;8
+"X.004...Dead.Ringer.IPA";2;1,073;1,018;52;7,2;10
+"I.Doehoe.";2;1,062;1,016;52;6,1;10
+"Simcoe.IPA";2;1,067;1,017;64;6,6;6
+"CWAY.Gratitude.Attitude";2;1,065;1,016;65;6,4;6
+"Summer.2013.IPA";2;1,064;1,015;52;6,4;10
+"SMaSH.Series..Liquid.Nuggets";2;1,07;1,016;68;7;6
+"Rapid.Fire.IPA";2;1,06;1,012;58;6,3;7
+"Plato";2;1,06;1,014;44;6;9
+"Sheffield.Series...Lagerboy";3;1,049;1,011;39;5;4
+"X.22.‚...Rypa";2;1,063;1,015;59;6,3;8
+"Lovebite.Weissbier";1;1,046;1,012;12;4,5;3
+"Balls.to.the.wall";2;1,065;1,014;103;6,6;9
+"Zombie.Dirt.1";2;1,068;1,021;68;6,2;7
+"Grapefruit.Hefeweizen";1;1,057;1,013;23;5,7;3
+"Blood.Orange.Heffe.2";1;1,05;1,012;17;5;4
+"SAM";2;1,073;1,022;67;6,7;5
+"Heffe.Wizen";1;1,053;1,013;10;5,3;3
+"Citra.Wheat.IPA";2;1,066;1,01;100;7,3;6
+"Fortune...Glory.stag.beetle";2;1,049;1,013;48;4,7;8
+"Drake.s.IPA.Clone";2;1,082;1,012;38;9,2;9
+"Paesel.Pilsner";3;1,049;1,015;39;4,5;4
+"India.Pale.Whale.of.a.Beer";2;1,067;1,017;76;6,6;15
+"cybi.Union.Jack";2;1,064;1,014;67;6,5;4
+"The.Big.Red.One";4;1,046;1,012;34;4,5;9
+"Hop.Drop.and.Roll.clone";2;1,072;1,01;84;8;7
+"West.Coast.IPA...11.Gal.....1";2;1,066;1,015;89;6,6;2
+"Black.Forest.Sorachi.IPA";2;1,064;1,015;63;6,4;30
+"X.26...Chinook.Ale";2;1,07;1,021;38;6,4;7
+"Citra.IPA.8.23.15";2;1,059;1,014;76;6;8
+"RyePA";2;1,071;1,022;209;6,4;7
+"Irish.Red.1";4;1,064;1,017;23;6,1;10
+"space.dust.clone..2";2;1,076;1,019;75;7,5;5
+"Davids.Ranger.IPA";2;1,055;1,013;67;5,5;7
+"Trillium.Congress.Street.DDH.IPA.Extract";2;1,06;1,009;44;6,8;5
+"schneider.weisse.clone";1;1,046;1,011;7;4,6;6
+"Backyard.IPA.2.0";2;1,055;1,015;157;5,2;7
+"New.IPA.S7";2;1,07;1,018;73;6,8;4
+"Hinky.Dink.India.Cream.Ale";2;1,058;1,014;47;5,7;5
+"Tight.Butthole";2;1,073;1,011;87;8,2;31
+"Foxy.Pantz.Pils";3;1,046;1,011;20;4,7;4
+"Schneider.Weisse.Clone";1;1,053;1,014;22;5,1;8
+"German.Pils";3;1,052;1,01;43;5,4;2
+"pliney.ish";2;1,062;1,009;75;7;6
+"SoCo.Pennybacker.Double.IPA";2;1,07;1,014;79;7,3;10
+"X2013.Memorial.Day.ipa";2;1,068;1,021;105;6,2;8
+"Lime.Shandy.Mark.1";1;1,052;1,012;16;5,1;2
+"Into.the.Unknown.IPA";2;1,061;1,015;118;6;10
+"Soweto.From.Here.IPA";2;1,062;1,009;54;6,9;40
+"Lemon.Coriander.Weiss";1;1,057;1,014;12;5,6;3
+"Cactus.Bite";2;1,067;1,01;93;7,5;5
+"Celebration.Bitches";2;1,071;1,018;87;7;9
+"G√.stens.Licht.Weiss";1;1,053;1,013;9;5,2;3
+"Black.IPA";2;1,054;1,008;51;6,1;33
+"Flying.Dog.Raging.Bitch.Clone";2;1,056;1,015;72;5,4;10
+"WIPA";2;1,063;1,014;61;6,4;3
+"Aviator.Hot.Rod.Red.Clone";4;1,067;1,013;49;7;16
+"Hopped.the.Question";2;1,062;1,012;45;6,5;5
+"BJ.s.Jeremiah.red.clone";4;1,069;1,02;26;6,4;18
+"Boba.Brett..Sour.White.IPA.";2;1,063;1,014;68;6,4;4
+"WhiteyPA";2;1,066;1,018;69;6,3;5
+"Simcoe.based.IPA";2;1,058;1,008;66;6,5;13
+"Third.Party.Liability.IPA";2;1,075;1,014;75;8;5
+"Brewers.Best.IPA.with.Dry.Hop";2;1,063;1,017;83;6;10
+"Waimea.River";2;1,063;1,019;57;5,8;6
+"X.27.‚...Slurm";2;1,061;1,01;64;6,7;5
+"Congress";2;1,066;1,011;73;7,3;5
+"Titan.IPA.Clone";2;1,063;1,015;113;6,3;10
+"Northern.Brewer..Bavarian.Hefeweizen";1;1,055;1,015;15;5,2;3
+"Pinner..2.Session.IPA";2;1,05;1,013;81;4,9;3
+"Bosco.s.Irish.Red";4;1,055;1,014;27;5,4;20
+"X2.Poles..IPA..1";2;1,063;1,012;67;6,6;3
+"Julius.Clone";2;1,063;1,014;33;6,3;5
+"County.Clare.Red.Ale";4;1,074;1,025;27;6,5;17
+"Fireside.IPA";2;1,073;1,022;73;6,7;10
+"Yum.Yum.Hefe";1;1,053;1,013;8;5,2;4
+"Blackheart.IPA";2;1,071;1,017;61;7;34
+"Griffiths.IPA";2;1,066;1,016;53;6,5;16
+"RIPAblican";2;1,065;1,009;74;7,3;8
+"Citra.Black.IPA.clone";2;1,057;1,015;42;5,4;31
+"Pacific.Warrior.May.2015";2;1,06;1,009;65;6,7;11
+"Berndog.s.Fall.IPA";2;1,087;1,026;70;8;8
+"Simple.Heffe.2";1;1,053;1,014;15;5,1;4
+"Badger.Red.Irish.Ale";4;1,055;1,016;26;5,1;15
+"First.Run.Weizen";1;1,021;1,006;29;1,9;2
+"Rob.s.IPA";2;1,075;1,019;70;7,3;5
+"Red.Ale..Hodge.version.";4;1,055;1,015;23;5,3;12
+"Big.Daddy.IPA";2;1,063;1,015;94;6,3;13
+"Resin.IPA.not.session";2;1,067;1,016;92;6,7;5
+"X.7.Raspberry.IPA";2;1,07;1,014;99;7,3;11
+"Dogfish.Head.60.Minute.IPA.Clone";2;1,063;1,019;80;5,8;9
+"Ranger.IPA";2;1,058;1,009;109;6,4;7
+"Unita.s.Hop.Nosh";2;1,051;1,007;72;5,8;10
+"Glenview.Rye.IPA";2;1,062;1,009;60;7;11
+"Hunkel";1;1,047;1,012;13;4,6;11
+"Squashed.Armadillo.Amarillo.Smash";2;1,061;1,014;49;6,1;5
+"DFH.60.Minute.IPA.Clone";2;1,067;1,02;56;6,2;4
+"Simcoe.Select.IPA..Midwest.kit.";2;1,053;1,013;75;5,2;13
+"The.Great.American.Incognitum";2;1,067;1,02;67;6,1;10
+"Knife.Hand.IPA";2;1,062;1,015;59;6,2;32
+"Maris.Otter...Nelson.Sauvin.SMaSH";2;1,07;1,01;47;7,8;6
+"Sculpin.Clone";2;1,064;1,009;97;7,1;5
+"Ruination.Pale";2;1,061;1,02;66;5,3;4
+"New.Zealand.IPA";2;1,063;1,015;107;6,3;6
+"Valhalla..double.ipa";2;1,081;1,02;78;7,9;7
+"Run.Down";2;1,081;1,012;88;9,1;5
+"Falcon.Rye.IPA";2;1,058;1,008;50;6,5;12
+"Citrillo.7";2;1,066;1,01;96;7,4;6
+"American.IPA.v2";2;1,065;1,017;75;6,3;7
+"Unnamed.IPA..17.";2;1,053;1,013;138;5,2;8
+"birthday.ipa";2;1,058;1,015;89;5,7;3
+"Blueberry.Oatmeal.IPA";2;1,053;1,013;81;5,3;4
+"Brian.Pilsner";3;1,051;1,013;23;5;2
+"Wilson.IPA.III";2;1,058;1,005;70;6,9;10
+"fikePA";2;1,06;1,015;88;5,9;5
+"Juicy.IPA";2;1,065;1,018;80;6,2;2
+"X0025.Bobbo.Beer";2;1,059;1,015;178;5,8;2
+"Jaded.IPA";2;1,065;1,009;55;7,2;6
+"Smashing.the.Mosaic";2;1,067;1,017;109;6,5;5
+"Blood.Orange.Mosaic.IPA";2;1,067;1,017;61;6,5;3
+"Iroquois";2;1,065;1,009;72;7,3;8
+"Pisgah.Pale.Clone";2;1,074;1,018;71;7,4;8
+"Russian.River.Pliny.the.Elder";2;1,074;1,017;186;7,4;5
+"Hogan.the.Coon.Dog";2;1,06;1,011;61;6,3;3
+"Jefferson";2;1,06;1,016;70;5,8;4
+"EMA.American.Pale..26L.batch..v1.2";2;1,059;1,009;101;6,6;7
+"Gueymano.s.Genesis.IPA";2;1,067;1,016;117;6,8;7
+"Stuff..Em.Up.the.Guns";2;1,061;1,009;54;6,9;6
+"White.Dog.Wit.clone";1;1,065;1,016;12;6,5;5
+"zombie.dust.clone";2;1,051;1,016;82;4,6;9
+"Maris.Motueka.Smash";2;1,054;1,014;50;5,3;4
+"Mosaic.Pale.Ale";2;1,065;1,009;53;7,3;6
+"Light.Speed.IPA";2;1,07;1,017;86;6,9;7
+"Weissbier.Estiu.2014";1;1,052;1,013;9;5,1;2
+"Citra.Black.IPA.1";2;1,071;1,015;64;7,4;41
+"Kiwi.Express";2;1,067;1,019;70;6,4;9
+"Enkel.Mango.IPA";2;1,062;1,016;42;6,1;4
+"Hoppily.Ever.After.1";2;1,065;1,016;71;6,4;8
+"X.2.14..BrewCrate.s.Resolution.Red";4;1,054;1,008;13;6;13
+"Stouts.Are.The.Best";2;1,061;1,015;37;5,9;5
+"Day.Rate.Black.IPA";2;1,066;1,016;69;6,5;35
+"Ace.of.Spades...Black.IPA";2;1,069;1,016;62;6,9;35
+"MoreBeer.German.Hefeweizen";1;1,053;1,014;14;5,1;3
+"KatastIPA";2;1,066;1,016;101;6,5;9
+"Bells.Two.Hearted.Clone";2;1,066;1,017;44;6,4;6
+"El.Dorado.IPA.1";2;1,063;1,012;61;6,7;6
+"Earl.Grey.IPA..Gunnamatta.inspired.";2;1,066;1,016;52;6,6;8
+"Knot.Mine";2;1,07;1,018;40;6,9;9
+"IPA.2014..1";2;1,065;1,01;57;7,2;7
+"Bush.Irish.Red";4;1,052;1,014;20;5,1;16
+"Rudeboy.Red.Ale";4;1,051;1,014;24;4,9;18
+"German.Pils.1";3;1,048;1,012;41;4,8;3
+"Setoff.Summer.IPA";2;1,067;1,016;51;6,7;13
+"Silverberry.Pils";3;1,047;1,009;34;5;3
+"Cobb.s.IPA";2;1,06;1,018;59;5,6;10
+"Linwood.IPA";2;1,063;1,016;56;6,2;9
+"American.IPA.v1";2;1,074;1,018;69;7,3;10
+"Christina.s.GF.Pale.Ale";2;1,061;1,014;61;6,1;7
+"West.by.Midwest.IPA";2;1,062;1,015;60;6,2;7
+"Rocky.Island.Weiss.ass";1;1,048;1,013;12;4,7;7
+"Storm.of.the.Century";2;1,071;1,018;64;6,9;7
+"Irish.Red.2";4;1,049;1,013;23;4,7;12
+"Red.Duffer";4;1,045;1,013;27;4,2;13
+"Baby.Jake.Ale";4;1,06;1,014;20;6;15
+"Ginger.Juggs.Irish.Red";4;1,052;1,013;24;5,2;16
+"Kaiser.Franz";3;1,045;1,011;29;4,5;2
+"Micro.Pilsner";3;1,045;1,011;28;4,4;2
+"Vitamin.C";2;1,061;1,015;60;6;7
+"Regular.Red";4;1,056;1,013;22;5,7;16
+"X0.Day.IPA";2;1,068;1,014;55;7,1;7
+"Infidel..2011.05.021.version.";2;1,067;1,016;58;6,7;9
+"A.Captain.s.IPA";2;1,065;1,016;59;6,3;8
+"Legacy.IPA";2;1,071;1,018;62;6,9;6
+"Bawlmer.Rye.IPA";2;1,063;1,016;59;6,2;7
+"Single.hop.single.grain.IPA";2;1,058;1,015;68;5,6;6
+"Bearwallow.IPA.I";2;1,062;1,011;66;6,7;9
+"Snoo.Snoo.IPA";2;1,073;1,017;58;7,3;6
+"Brent.s.India.Pale";2;1,068;1,016;43;6,7;8
+"Golden.Cent.Amo.Ale";2;1,063;1,016;59;6,2;7
+"Batch.79...Vintage.Hills.Celebration.IPA";2;1,064;1,013;67;6,7;10
+"Why.d.You.Only.Call.Me.When.You.re.Rye";2;1,058;1,014;70;5,8;7
+"Freedom.XPA";2;1,062;1,015;48;6,2;7
+"Possum.Trot.Cent.Amo.Ale";2;1,064;1,016;46;6,3;6
+"Wedding.IPA";2;1,063;1,017;68;6;7
+"Red.Ale.Brewer.s.Best";4;1,05;1,013;19;5;13
+"Single.Malt.IPA";2;1,057;1,015;48;5,5;6
+"Snuggles.Pils";3;1,048;1,012;34;4,7;2
+"Quotidian.IPA.version.2.10gal";2;1,064;1,016;41;6,3;10
+"Red.Beard.Ale";4;1,047;1,013;23;4,5;14
+"Lost.in.Translation";2;1,065;1,017;65;6,3;6
+"Celebration.Clone..2012.01.22.version.";2;1,07;1,018;61;6,8;11
+"Accidental.Lie.in..May.16th.";2;1,058;1,014;70;5,7;6
+"Bell.s.Two.Hearted.Ale.Clone";2;1,07;1,01;67;7,9;7
+"Irish.Red.3";4;1,054;1,014;18;5,2;14
+"German.Pilsner.2";3;1,05;1,012;43;5;2
+"Diamond.Not.10.06.13";2;1,06;1,014;49;6;10
+"Mostly.All.Amarillo.IPA";2;1,066;1,018;68;6,3;8
+"Big.Biff.Apricot.IPA";2;1,061;1,015;61;6;7
+"Funk.Citra";2;1,059;1,012;55;6,1;7
+"Hefeweisen.v1";1;1,051;1,013;12;5;3
+"Beach.Wheat";1;1,051;1,014;15;4,8;2
+"Prunches.Michale..1";4;1,046;1,012;22;4,5;14
+"Glory.Hole";2;1,07;1,013;68;7,4;12
+"Midwest.Irish.Ale";4;1,049;1,012;20;4,8;12
+"Crazy.Squirrel.IPA";2;1,063;1,017;48;6;7
+"X51.weeks.IPA";2;1,065;1,015;66;6,5;6
+"Falconer.s.Flight.IPA";2;1,063;1,017;53;6;7
+"ipah";2;1,063;1,013;66;6,6;7
+"IPA.2";2;1,061;1,015;49;6;10
+"Polar.Vortex.IPA";2;1,061;1,015;49;6,1;6
+"BS5.IPA.with.Simcoe";2;1,069;1,016;60;6,9;9
+"Mosiac.iPa";2;1,066;1,016;64;6,6;11
+"Irish.Red.Ale..St..Patty.s.Day.2012.";4;1,055;1,014;23;5,4;13
+"Keystone.American.IPA";2;1,057;1,013;69;5,8;6
+"West.by.Midwest.IPA.2";2;1,06;1,016;53;5,8;7
+"Space.Conquistador";2;1,06;1,016;60;5,7;10
+"Slice.of.the.Black..lighter.";2;1,069;1,016;51;7;14
+"Pauls.Irish";4;1,049;1,013;18;4,7;13
+"Drakes.1500.Clone";2;1,056;1,013;59;5,6;9
+"Citra.Session.IPA";2;1,057;1,016;46;5,4;7
+"Nugget.IPA";2;1,068;1,018;68;6,6;6
+"Festivus.Ale";2;1,07;1,017;65;7,1;11
+"Hoppy.Medium.IPA";2;1,068;1,017;55;6,7;7
+"Less.Bitter..2011.05.12.version.";2;1,064;1,016;59;6,3;6
+"Bombay.IPA.1b";2;1,06;1,015;54;6;7
+"Small.batch.Columbus.Pale";2;1,066;1,016;56;6,4;10
+"The.Annexation.of.Puerto.Rico.IPA";2;1,061;1,014;66;6,1;6
+"Fresh.Squeezed";2;1,065;1,015;65;6,5;9
+"Passi√≥";1;1,049;1,012;13;4,8;4
+"R√.llimets√.n.Vaiettu.Salaisuus....hopburst...";2;1,064;1,016;60;6,3;9
+"Mike.s.Smoked.Red";4;1,049;1,014;22;4,6;12
+"IPA.7.2015";2;1,074;1,017;43;7,4;6
+"Tyler.s.All.Grain.Irish.Red.Ale";4;1,048;1,014;22;4,5;15
+"Yep..All.Citra.Again..it.s.easy";2;1,06;1,015;49;5,9;7
+"IPA.137";2;1,073;1,011;66;8,2;7
+"Bass.Lake.Haze..n.Hops";2;1,057;1,015;50;5,5;11
+"Hellbraun.Hefeweizen.v2";1;1,05;1,013;12;4,9;5
+"Jeffy.the.heffe";1;1,052;1,013;14;5;2
+"Wheat";1;1,05;1,014;14;4,8;5
+"Gylatic.Pils";3;1,049;1,012;27;4,8;2
+"IPA.in.Shed";2;1,07;1,01;47;7,8;7
+"Not.Another.IPA";2;1,066;1,013;67;7;8
+"Bohemian.Rap.Sudy";3;1,05;1,012;33;5;2
+"Regal.Beagle.IPA";2;1,06;1,015;63;5,9;6
+"Dead.Ringer.IPA..NB";2;1,071;1,018;51;6,9;7
+"Lost.Comet";2;1,061;1,015;51;5,9;7
+"Goosey.MacGooserton.Irish.Red.AG";4;1,046;1,012;22;4,5;13
+"AG.Dead.Ringer";2;1,072;1,01;67;8,1;7
+"Rhino.Fart.2";2;1,062;1,015;49;6,2;11
+"Vipa";2;1,069;1,016;55;6,9;11
+"Six.and.Tangent";2;1,061;1,011;60;6,5;7
+"Golden.Amo.Cas.Ale";2;1,063;1,015;52;6,3;7
+"Irish.Red.Ale.1";4;1,049;1,011;21;5;10
+"Zythos.IPA";2;1,058;1,014;64;5,7;7
+"Red.on.Head";2;1,059;1,015;66;5,8;13
+"TFC..2.1";2;1,068;1,018;55;6,6;9
+"Got.to.use.up.this.Citra";2;1,06;1,015;49;5,9;7
+"Palisade.IPA";2;1,063;1,017;60;6;7
+"Hefe.50..Split.Batch.";1;1,051;1,013;12;5;5
+"Zajebiste.piwo.Kuby.2.HopSaaza7";1;1,047;1,012;12;4,6;3
+"The.Native";4;1,052;1,012;23;5,2;13
+"R√.yslimoen.IPA.v3...batch..06";2;1,056;1,015;68;5,3;8
+"All.Hopped.Up.IPA";2;1,071;1,017;69;7,1;7
+"Hubschrauber";1;1,052;1,014;11;5;3
+"X16x.10.30.Pilsner";3;1,05;1,01;26;5,2;2
+"Mans.Red.Flower";2;1,064;1,015;40;6,4;9
+"Red.Ale";4;1,05;1,012;20;5;13
+"IPA..1.1";2;1,062;1,016;53;6,1;6
+"Leftover.IPA";2;1,07;1,016;61;7;9
+"Hell.Bent.Pils...Kolsch.Yeast..2011.06.19.version.";3;1,05;1,013;40;4,8;2
+"Tron.s.Irish.Red.nr.1";4;1,049;1,014;23;4,5;15
+"Tight.Lines.IPA..2011.04.29.version.";2;1,068;1,018;69;6,6;6
+"Blind.Hawg";2;1,061;1,014;55;6,1;6
+"Down.Under.IPA..O.Connor.s.";2;1,057;1,014;59;5,6;7
+"Two.Hearted.Clone.Attempt";2;1,062;1,016;51;6;6
+"Baby.Blues.Away.IPA";2;1,064;1,016;57;6,3;7
+"Danya.s.Day.Off";2;1,059;1,014;61;5,9;6
+"East.Coast.IPA.with.Meyer.Lemon";2;1,066;1,017;56;6,5;7
+"BC13.Green.Tooth.IPA";2;1,068;1,017;44;6,7;7
+"Tight.Lines.IPA";2;1,068;1,018;69;6,6;6
+"Wedding.wheat";1;1,051;1,014;15;4,8;2
+"Pacific.IPA";2;1,064;1,015;48;6,4;7
+"San.Diego.IPA";2;1,063;1,013;55;6,5;6
+"Fine.Mountain.Lilikoi.IPA";2;1,068;1,016;65;6,8;8
+"Height.Herup.Exalts.It.Irish.Ale";4;1,053;1,014;22;5,1;16
+"Cen.Am.Ale";2;1,064;1,016;44;6,3;6
+"Easy.Hefe";1;1,049;1,013;14;4,7;3
+"Possum.Trot.Replay.Cent.Amo.Ale";2;1,064;1,016;45;6,3;6
+"American.IPA.1";2;1,069;1,018;40;6,6;8
+"Hopnormous.Double.IPA";2;1,068;1,018;44;6,6;8
+"Dead.Ringer.IPA..BIAB...Small.Batch.";2;1,063;1,016;46;6,2;8
+"McNelis..Irish.Red";4;1,058;1,014;22;5,7;15
+"Mela.Red.Ale";4;1,047;1,014;17;4,3;12
+"German.Pilsner..1";3;1,048;1,013;27;4,6;2
+"≈.ywiec";3;1,048;1,013;30;4,6;3
+"March.IPA";2;1,062;1,016;69;6;10
+"Ruaidr√.";4;1,052;1,013;27;5,1;14
+"DownUnder";2;1,07;1,017;59;7,1;7
+"MO.Amarillo.SMASH";2;1,061;1,015;56;6;6
+"ipa.1";2;1,061;1,014;65;6,1;7
+"Siuslaw.IPA";2;1,062;1,015;47;6,3;8
+"VandalEyes.PA";2;1,07;1,017;53;6,9;8
+"Dead.Ringer.IPA.2";2;1,067;1,017;55;6,6;7
+"Spankies.German.Pils";3;1,05;1,01;36;5,2;2
+"Single.Malt.IPA.1";2;1,071;1,017;62;7,1;6
+"Roll.on.Columbia";2;1,064;1,017;63;6,2;12
+"Centennial.Delight";2;1,066;1,016;52;6,6;7
+"Untitled.Weizen.Weissbier.162387";1;1,052;1,013;12;5,1;5
+"Late.Night.IPA";2;1,057;1,011;50;6;8
+"sorta.kinda.NB.Patersbier";3;1,049;1,012;25;4,8;2
+"Brewers.Best..Red.Ale.Kit";4;1,05;1,012;20;5;13
+"Half.hung.Red";4;1,051;1,013;22;5;13
+"Red.Ale.1";4;1,05;1,014;24;4,7;12
+"Flying.Monkey...Smashbomb.Atomic.IPA.Clone";2;1,064;1,017;68;6,2;11
+"All.Citra.Again";2;1,06;1,015;49;5,9;7
+"X.53.IPA";2;1,063;1,012;63;6,7;7
+"Polaris";3;1,049;1,013;43;4,8;2
+"Vienna.IPA..mk.4";2;1,06;1,012;62;6,3;9
+"Fresh.NZAPA";2;1,06;1,014;44;6;6
+"Brewer.s.Best.Red.Ale";4;1,052;1,012;25;5,1;13
+"Traditional.Hefe";1;1,051;1,013;12;5;3
+"Bridgeport.IPA";2;1,058;1,016;46;5,5;7
+"Judges.Pick.IPA";2;1,059;1,013;57;6;7
+"Bryan.s.Irish.Red";4;1,049;1,012;23;4,9;12
+"SMSH..Opal.";3;1,048;1,012;31;4,8;2
+"Columbus.IPA.1";2;1,063;1,015;48;6,3;6
+"Hefe.1";1;1,048;1,012;13;4,7;3
+"DTs.Debauchery.Irish.Ale";4;1,059;1,013;22;6;14
+"Carlsberg.Clone";3;1,049;1,012;26;4,8;2
+"Melfstar.Red";4;1,051;1,013;22;5;12
+"German.Pils.Wedding.Edition";3;1,048;1,01;28;5;3
+"Zombie.Dust.Variant";2;1,06;1,014;68;6;9
+"HGIPA";2;1,063;1,013;57;6,5;8
+"Pilsy";3;1,047;1,012;26;4,6;3
+"DanK.IPA.20.";2;1,061;1,013;52;6,4;9
+"Boulevard.Irish.Ale.Clone";4;1,053;1,011;22;5,5;16
+"Wedding.Weizen";1;1,048;1,013;10;4,7;2
+"Summer.Solstice.Pils";3;1,049;1,011;36;4,9;2
+"Clear.Day";3;1,05;1,013;36;4,8;2
+"Inbred.Red";4;1,05;1,013;19;4,8;14
+"Zeus.on.the.Summit.with.a.Citra.Amarillo";2;1,07;1,017;67;6,9;8
+"Golden.Citra.Ale";2;1,063;1,016;58;6,2;7
+"Eire.Ay";4;1,054;1,014;21;5,3;13
+"American.IPA.2";2;1,06;1,016;65;5,8;11
+"Resolved.IPA";2;1,065;1,016;62;6,4;8
+"MYIPA";2;1,067;1,016;54;6,7;9
+"Weissbier..Nelson.Sauvin.Hopped.";1;1,05;1,013;13;4,9;3
+"Cascade.IPA.2";2;1,067;1,01;48;7,4;9
+"DelaHefeweizen";1;1,05;1,012;11;5,1;3
+"Damberts.3.0.IPA..2011.07.07.version.";2;1,063;1,015;62;6,4;6
+"pelirrojo";4;1,053;1,013;24;5,2;15
+"Chinook.IPA.2";2;1,068;1,018;69;6,6;6
+"Citra.Ale..OR.Water.";2;1,063;1,016;50;6,2;6
+"Midwest.Supplies..Irish.Red.Ale.Kit";4;1,049;1,01;25;5,1;12
+"Amarillo.Ale.with.Victory.Malt..2012.07.28.version.";2;1,065;1,016;65;6,4;8
+"Amarillo.by.morning";2;1,061;1,016;66;5,9;9
+"Sam.Adam.Noble.Clone";3;1,047;1,011;38;4,7;2
+"The.Pils.that.Ills";3;1,049;1,011;36;5;2
+"Cascade.IPA.3";2;1,061;1,015;64;6;7
+"Magic.Elf";2;1,068;1,015;41;6,9;8
+"Modified.Midwest.Irish.Red";4;1,048;1,013;17;4,6;11
+"SorGood.IPA";2;1,065;1,016;62;6,4;6
+"PALIPA";2;1,062;1,015;58;6,2;12
+"Parents.in.Town";2;1,06;1,018;66;5,5;7
+"Midwest.s.Irish.Red.Ale";4;1,049;1,012;23;4,8;12
+"The.Pink.Elephant";1;1,05;1,013;12;4,9;3
+"Raspberry.Pilsner";3;1,048;1,011;29;4,8;5
+"Penney.Pils";3;1,049;1,01;39;5,2;3
+"El.Hef.e";1;1,052;1,013;15;5,1;3
+"Midwest.Supplies..Irish.Red.Ale.Kit.1";4;1,049;1,013;25;4,7;12
+"Golden.Cent.Amo.Cas.Ale";2;1,063;1,016;58;6,2;7
+"Too.Many.Pils";3;1,047;1,012;40;4,7;2
+"X141...Irish.Red";4;1,049;1,013;27;4,7;18
+"Julie.and.Dan.Pale.Ale";2;1,072;1,017;46;7,2;10
+"X62.Truck.Irish.Red.Ale";4;1,049;1,013;21;4,7;12
+"Modified.Two.Hearted.Clone";2;1,074;1,011;57;8,3;7
+"Standard.IPA";2;1,066;1,016;59;6,6;6
+"X7th.Paramount.Brew";2;1,063;1,016;63;6,2;8
+"Oaken.Fist.2015";2;1,062;1,016;48;6,1;11
+"R√.yslimoen.IPA...batch..01";2;1,06;1,014;56;6;8
+"Green.Eyes";4;1,049;1,011;20;5;17
+"Joe.s.Irish.Red.Ale";4;1,058;1,012;27;6,1;15
+"Ripley.s.Irish.Red";4;1,052;1,012;23;5,3;15
+"Amber.IPA";2;1,061;1,015;59;6;10
+"Bullcity.Hefe";1;1,046;1,012;14;4,5;3
+"Fresh.Squeezed.IPA";2;1,062;1,015;63;6;10
+"Noble.Pils";3;1,044;1,011;42;4,3;2
+"December.Cent.Amo.Ale";2;1,064;1,016;58;6,3;6
+"Haller.Heffy";1;1,047;1,012;15;4,6;5
+"Kornuit";3;1,05;1,011;39;5,1;2
+"Whitey";1;1,051;1,013;12;5;2
+"PrimaDonna.Pils";3;1,048;1,012;42;4,7;2
+"Poppy.s.Irish.Red";4;1,045;1,012;23;4,3;12
+"The.Shoe";4;1,048;1,013;23;4,6;13
+"SHMIPA";2;1,066;1,016;42;6,6;8
+"Binary.Pils";3;1,05;1,012;29;5;2
+"Ugly.Stick";2;1,072;1,017;52;7,2;8
+"Szabad.S√≥lyom";2;1,064;1,014;52;6,5;6
+"Itrus.Pale.Ale";2;1,065;1,016;62;6,3;8
+"Experimental.Irish";4;1,049;1,013;19;4,7;12
+"Dual.Crystal.Citra.Ale";2;1,064;1,016;50;6,3;6
+"Perfect.day.IPA";2;1,07;1,018;61;6,8;8
+"IPAlone";2;1,06;1,017;45;5,7;7
+"South.Coast.IPA";2;1,059;1,011;62;6,3;6
+"Finger.Roll.IPA";2;1,068;1,015;52;7;9
+"Hoppy.Seconds..Citra.IPA.";2;1,069;1,016;67;7;8
+"Juicy.Juice";2;1,069;1,017;57;6,7;6
+"IPA.experiment.11.7.2015";2;1,067;1,014;66;7;8
+"Eight.Ounce.IPA";2;1,067;1,015;55;6,8;7
+"Pine.Barrens.IPA";2;1,065;1,015;55;6,5;8
+"Citrus.IPA.2016";2;1,068;1,016;67;6,8;6
+"Late.Addition.IPA";2;1,057;1,014;69;5,6;8
+"Ten4";2;1,063;1,015;55;6,3;6
+"Fat.Woody.s.Irish.Red";4;1,047;1,012;21;4,6;9
+"Naughty.Leprechaun";4;1,049;1,013;20;4,7;14
+"Rari.s.Amarillo.IPA..5g.";2;1,062;1,015;53;6,2;7
+"O.leary.s.No.touch.F.en.Red";4;1,05;1,014;23;4,7;12
+"Amarillo.Post.Road.IPA";2;1,065;1,016;69;6,4;14
+"Simcoe.IPA.1";2;1,067;1,017;66;6,6;12
+"Citra.Amarillo.Centennial.IPA";2;1,058;1,016;54;5,6;7
+"Beerculese";2;1,061;1,016;46;5,9;6
+"Magnum.Amarillo.IPA";2;1,063;1,015;64;6,3;10
+"Brewer.s.Best.Red.Ale.1";4;1,051;1,013;23;5;13
+"Irish.Red..12";4;1,049;1,013;25;4,7;12
+"ipa";2;1,059;1,014;43;5,9;10
+"Draugr.IAPA";2;1,065;1,016;59;6,4;7
+"Irish.Red.4";4;1,05;1,014;22;4,7;12
+"Two.Hearts.Together.Ale";2;1,056;1,014;58;5,5;7
+"May.IPA";2;1,059;1,015;62;5,8;11
+"Cascade.IPA.4";2;1,068;1,017;70;6,7;6
+"Small.Round.Oranges";2;1,058;1,014;57;5,8;6
+"R.F..Hefe.II";1;1,05;1,013;12;4,9;3
+"Misfit.Red";4;1,05;1,014;22;4,8;15
+"Firewater.IPA.5g";2;1,074;1,017;68;7,4;7
+"Killick.s.Almost.Single.Malt.India.Pale.Ale.v2";2;1,072;1,017;54;7,2;6
+"Golden.Citra.Ale..2012.08.11.version.";2;1,063;1,016;57;6,2;7
+"SHG.Columbus";2;1,066;1,017;56;6,5;9
+"X5.Alive.Wheat";1;1,05;1,013;13;4,8;3
+"London.Cent.Amo.Ale";2;1,063;1,016;49;6,2;7
+"Citra.Simcorillo.IPA";2;1,071;1,018;63;7;8
+"Middle.Road.IPA";2;1,068;1,016;57;6,8;8
+"Less.Bitter";2;1,064;1,016;59;6,3;8
+"TNT.s.Cascadian.Ale";2;1,065;1,016;43;6,4;7
+"BRP007.red.ale.all.grain.starter.trial";4;1,051;1,012;23;5,1;13
+"Ginger.Kid";4;1,048;1,013;23;4,6;13
+"CritraAm.Ale";2;1,064;1,016;48;6,3;6
+"DK.s.Original.IPA..Hog.s.Neck.Brewing.";2;1,069;1,013;54;7,4;9
+"Apollo.Ale";2;1,057;1,015;67;5,5;7
+"Red.Clover";4;1,058;1,012;27;6,1;13
+"X.030..Golden.Bull";2;1,069;1,011;60;7,5;7
+"Citra.IPA";2;1,059;1,018;40;5,4;8
+"weizen";1;1,05;1,012;13;5;3
+"IPA.Nima.2";2;1,066;1,015;68;6,6;10
+"Pilsener";3;1,05;1,013;35;4,8;2
+"Pilsner.1";3;1,05;1,013;36;4,8;2
+"Jag.off.Jaggery.IPA";2;1,06;1,014;67;6;11
+"X.017.Seat.of.my.Pants.IPA";2;1,071;1,01;67;8;9
+"Diamond.Not.IPA.9.28.14";2;1,067;1,014;47;6,9;11
+"IPA.4";2;1,071;1,016;43;7,2;9
+"Ahtanum.Golden.Ale";2;1,063;1,016;62;6,2;7
+"Santiam.German.Pilsner";3;1,047;1,012;35;4,6;2
+"American.IPA.3";2;1,067;1,017;41;6,5;8
+"X16x.10.35.Pilsner";3;1,05;1,01;30;5,2;2
+"Blazing.World.from.Modern.Times.beersmith.link";2;1,067;1,017;63;6,6;8
+"Nugget.IPA.1";2;1,059;1,015;68;5,8;8
+"X.PA";2;1,072;1,018;60;7,1;11
+"Smokin.Red";4;1,059;1,012;26;6,1;15
+"Hasty.IPA..Oktoberfest.2012.";2;1,061;1,015;59;6;10
+"TNT.s.Cascadian.Ale..2011.07.02.version.";2;1,065;1,016;43;6,4;7
+"Turtle.Rye.IPA";2;1,063;1,014;58;6,5;8
+"Dead.Ringer.IPA.3";2;1,067;1,017;55;6,6;7
+"Chewalla.IPA";2;1,067;1,018;40;6,4;8
+"Big.Smile.IPA";2;1,061;1,013;55;6,3;10
+"Dampfbier";1;1,051;1,01;14;5,3;5
+"La.Vie.Boheme";3;1,05;1,011;34;5;2
+"Rye.RA";2;1,064;1,015;58;6,5;13
+"Big.Smile.IPA.1";2;1,061;1,013;55;6,3;10
+"Ginger.Tart";4;1,049;1,013;18;4,7;11
+"Golden.Citra.Ale..Dedicated.to.Jim.and.Trish.";2;1,063;1,015;57;6,3;7
+"Hopbiscus";2;1,068;1,018;47;6,6;9
+"Dublin.Red";4;1,053;1,014;23;5,1;12
+"Columbus.IPA.2";2;1,068;1,018;68;6,6;6
+"Forrest.IPA";2;1,059;1,012;68;6,2;7
+"Rosy.Cheeks";2;1,072;1,01;62;8,1;11
+"Hefeweizen.1";1;1,049;1,012;12;4,8;2
+"That.Horse...Lager..";3;1,05;1,012;32;4,9;2
+"Feral.Hop.Hog.Clone";2;1,058;1,013;45;5,8;6
+"Black.IPA.1";2;1,063;1,016;69;6,2;11
+"Pilsner";3;1,044;1,011;25;4,3;2
+"Amarillo.Ale.with.Victory.Malt";2;1,065;1,016;65;6,4;8
+"Business.Time";2;1,068;1,017;59;6,7;12
+"Red.Doug";4;1,05;1,013;20;4,8;13
+"Captain‚..s.HofbrauÃ..Clone.II";3;1,049;1,012;36;4,8;3
+"Rapid.Fire.Wheat.Beer";1;1,044;1,011;11;4,3;3
+"Spring.2011.IPA";2;1,068;1,017;52;6,7;7
+"El.Hefe";1;1,052;1,013;14;5,1;2
+"Double.Cocked.Hefe";1;1,05;1,013;14;4,8;2
+"X.2.FuggleNugget.IPA";2;1,059;1,016;65;5,7;8
+"Big.Mistake.APA";2;1,064;1,014;60;6,5;12
+"En.liten.weissbier";1;1,047;1,011;12;4,8;2
+"Cascade.IPA.5";2;1,073;1,013;66;7,9;8
+"Explosive.IPA.Part.Deux";2;1,063;1,017;45;6;6
+"PentaBr√.l";2;1,063;1,013;60;6,6;11
+"Continuous.IPA";2;1,07;1,01;53;7,8;9
+"Danish.Lager";3;1,05;1,012;29;4,9;3
+"hoppy.hour.hero";2;1,058;1,015;55;5,6;11
+"junior.brown.IPA";2;1,07;1,017;49;6,9;12
+"Allen...Dave.s.Excellent.IPA";2;1,064;1,015;67;6,3;9
+"Infidel..2012.01.07.version.";2;1,067;1,016;57;6,7;9
+"smash";2;1,068;1,016;67;6,8;6
+"B2.IPA";2;1,068;1,017;49;6,7;7
+"Fast.red";4;1,044;1,012;27;4,2;13
+"Angelito¬.s.IPA.Cascade";2;1,071;1,01;52;7,9;10
+"Hop.to.conclusions";2;1,057;1,014;65;5,8;10
+"Batch.1...NIPA";2;1,057;1,013;53;5,7;7
+"IPA.w..Marris.Otter";2;1,074;1,018;51;7,3;14
+"Bear.With.Me.IPA";2;1,069;1,015;57;7;7
+"Weissbeier";1;1,05;1,013;13;4,9;3
+"Red.Mearle.Ale";4;1,055;1,014;25;5,4;14
+"One.Hot.Redhead";4;1,049;1,013;24;4,7;13
+"Dark.Side..Irish.Red.";4;1,044;1,012;21;4,2;17
+"Rakau.Single.Hop.IPA..Group.Project.";2;1,063;1,016;45;6,1;6
+"Heinekan.clone..adapted.from.Dave.Line.1978.";3;1,046;1,012;29;4,5;2
+"King.Brian.s.Poteen";4;1,05;1,012;28;5,1;11
+"BS5.IPA";2;1,061;1,014;47;6,1;8
+"X5.G.Citra";2;1,063;1,016;43;6,2;9
+"Pierian.Spring";1;1,052;1,013;10;5,1;3
+"Try.Try.Again";4;1,051;1,014;18;4,8;16
+"Juelstrup...Commonwealth.IPA.s";2;1,066;1,018;63;6,3;8
+"meh..zombies";2;1,066;1,016;58;6,6;7
+"X.Those.nutty.Pennocks..Ale";4;1,05;1,014;25;4,8;11
+"Pale.Mk..3";2;1,057;1,011;45;6;12
+"‡..‡...‡..‡..‡.≤.‡..‡..‡.≤‡..‡..";2;1,075;1,018;51;7,5;6
+"Alsea.IPA";2;1,06;1,014;62;6;7
+"X.B1..M..IPA";2;1,069;1,016;48;6,9;7
+"Weissbier..Spring.2011";1;1,051;1,012;12;5,1;6
+"Alpha.Ale.1.0";2;1,068;1,017;58;6,7;7
+"Firecracker.Spicy.IPA";2;1,064;1,017;47;6,2;8
+"German.Pilsner..2";3;1,046;1,013;31;4,3;3
+"TARDIS.IPA..Schlafly.TIPA.clone.";2;1,07;1,018;84;6,8;5
+"Deschutes.Fresh.Squeezed.IPA.Clone";2;1,066;1,01;52;7,4;10
+"Happy.Trails.Ale";2;1,066;1,017;61;6,5;20
+"X52..IPAIPAIPA";2;1,066;1,009;52;7,3;7
+"Citramazing.";2;1,074;1,018;68;7,3;7
+"Russian.River.s.Blind.Pig.Clone";2;1,075;1,018;81;7,5;8
+"Singularity.Brett.IPA";2;1,062;1,008;65;7,1;7
+"Wuyang.v2.0";2;1,062;1,016;53;6,1;4
+"Prima.Pils";3;1,055;1,013;52;5,6;2
+"simcyl.nelsyl..galaxy";2;1,067;1,016;72;6,7;6
+"X42.Gal.School.House.Pilsner";3;1,059;1,017;38;5,6;4
+"Half.Boards.IPA";2;1,066;1,01;77;7,4;6
+"Chief.Financial.Dog";2;1,061;1,016;28;5,9;3
+"Tipsy.Student...Nelson.IPA";2;1,05;1,007;120;5,7;8
+"august.hyppo";2;1,047;1,007;60;5,3;4
+"WCB.Apricot.IPA";2;1,058;1,015;77;5,6;7
+"LDA.Fly.West.IPA";2;1,055;1,008;81;6,1;6
+"Hop.in.the.Dark.IPA";2;1,076;1,023;78;7;29
+"Hubschrauber.Hefeweizen";1;1,081;1,021;14;7,9;4
+"Balduin.No.5";2;1,062;1,009;54;6,9;9
+"Red.Chair.NWPA.1";2;1,06;1,018;79;5,5;15
+"Simcoe.IPA.3";2;1,065;1,009;36;7,3;9
+"Smithwicks";4;1,067;1,017;25;6,5;13
+"Curupira";4;1,057;1,017;25;5,2;16
+"Junebug";2;1,076;1,023;75;6,9;8
+"Berndog.s.Juniper.IPA";2;1,084;1,025;75;7,7;8
+"Spring.Fling.Hefeweizen...5.gal";1;1,052;1,013;13;5,1;3
+"RJ3.Heifenweisen";1;1,055;1,014;12;5,4;4
+"Citra.Smash";2;1,058;1,008;51;6,5;2
+"Small.Black.Dog.IPA";2;1,049;1,007;51;5,5;44
+"Tropipolis";2;1,063;1,009;43;7,1;3
+"TIPA";2;1,061;1,015;51;6;4
+"County.cork.red.ale";4;1,047;1,014;25;4,3;17
+"northewest.indian.red.ale";2;1,071;1,022;55;6,4;12
+"Black.Citra.IPA";2;1,055;1,015;59;5,3;33
+"Perpetual.Clone";2;1,071;1,01;95;7,9;7
+"Me.So.Hoppy...24";2;1,062;1,018;103;5,6;5
+"Kitchen.Sink.IPA";2;1,064;1,014;91;6,6;10
+"Portland.Brew.001";2;1,062;1,019;47;5,7;10
+"Kallatorpet.IPA.2016.02.27";2;1,057;1,008;46;6,4;7
+"Hopnivore...27";2;1,074;1,019;116;7,3;5
+"Windy.City.Wheat..Anniversary.Edition.";1;1,054;1,014;14;5,3;3
+"Irish.Red.5";4;1,057;1,016;37;5,5;12
+"Pliny.The.Elder";2;1,07;1,016;200;7;8
+"Jeg.er.Egentlig.for.Tung.til.√..kunne.Fly.IPA";2;1,065;1,016;55;6,4;16
+"Hopsecutioner";2;1,066;1,01;67;7,4;8
+"Aleu.Brew.IPA";2;1,07;1,017;86;6,9;7
+"Sean.s.Secret.Summer.IPA";2;1,084;1,02;61;8,4;10
+"Mankato.Strawberry.II";2;1,071;1,018;120;7;7
+"CMF.IPA";2;1,063;1,016;109;6,2;15
+"Munic.SMASH..homebrewco.";2;1,065;1,016;54;6,5;47
+"The.Necropolis..Extract.Version.";2;1,064;1,02;69;5,8;8
+"Belgian.IPA.1";2;1,07;1,018;61;6,8;3
+"IPA.1.1";2;1,053;1,012;53;5,3;5
+"Probably.Mosaic.IPA";2;1,074;1,017;76;7,4;7
+"Northern.Brewer.Irish.Red.Ale.w..Specialty.Grains";4;1,044;1,01;30;4,5;12
+"Rhyzomatic.IPA";2;1,077;1,019;67;7,5;6
+"Cascadian.Dark.Ale";2;1,063;1,009;60;7,1;29
+"QH.Pils";3;1,052;1,013;23;5;2
+"Bear.Down.IPA";2;1,068;1,014;135;7,2;12
+"Bluejay.IPA..2012.08.01.version.";2;1,065;1,016;45;6,4;4
+"Christmas.IPA.1";2;1,056;1,008;49;6,3;6
+"X2015.Wet.IPA";2;1,068;1,016;69;6,8;3
+"Black.Citra.IPA.1";2;1,066;1,017;77;6,4;38
+"Jester.King.Wytchmaker.Clone..Ditto.";2;1,062;1,016;78;6,1;7
+"Figurehead.IPA";2;1,075;1,018;63;7,5;2
+"Flying.Tortoise..from.ratebeer.com.";2;1,068;1,016;80;6,8;7
+"T√.kete.Hvit.IPA";2;1,065;1,009;64;7,3;4
+"Simcoe.IPA.2";2;1,067;1,02;37;6,2;4
+"Lucy.in.the.Sky.with.Dankness..Modus.Hoperandi.Clone.";2;1,069;1,017;75;6,8;13
+"X.30.DIPA";2;1,083;1,025;201;7,6;8
+"Blackjack";2;1,068;1,016;67;6,7;31
+"Three.Fathoms";2;1,085;1,01;73;9,8;16
+"Black.Eye.Rye";2;1,077;1,015;46;8,1;32
+"Knights.of.Columbus.IPA";2;1,067;1,017;102;6,6;7
+"Inglewood.IPA..Culver.City.Homebrewing.";2;1,072;1,017;78;7,1;8
+"Citra.IPA.1";2;1,061;1,009;53;6,9;3
+"Fields.of.Black.N..Rye";2;1,063;1,013;66;6,6;25
+"Resolution.Rye.IPA";2;1,065;1,015;51;6,5;18
+"MLK.IPA";2;1,071;1,017;66;7,2;35
+"HITNOL";2;1,075;1,02;64;7,3;6
+"Victor.IPA.Collaberation";2;1,072;1,019;55;7;10
+"IPA..26A";2;1,072;1,015;69;7,5;6
+"Svartediket.Black.IPA.Clone..7.fjell.";2;1,066;1,015;71;6,6;19
+"Grandma.s.Grapefruit.IPA";2;1,069;1,017;49;6,8;5
+"Summer.Wheat";1;1,055;1,013;12;5,5;3
+"Brewers.Best.India.Pale.Ale";2;1,063;1,016;100;6,2;10
+"IPA.5";2;1,08;1,027;115;7;5
+"Redheaded.Irishman.in.Space.w..Jalapenos";4;1,07;1,02;98;6,5;16
+"Chinook.IPA.3";2;1,061;1,015;39;6;6
+"Impatient.IPA";2;1,077;1,023;63;7;11
+"DLK.OOH..Organic.IPA";2;1,067;1,01;65;7,5;8
+"Guy.petite.blonde";2;1,085;1,013;46;9,5;5
+"Luck.of.the.Fryrish";4;1,059;1,016;20;5,6;16
+"NOMS";1;1,056;1,015;18;5,4;5
+"Poppy.Remembrance";2;1,059;1,018;101;5,4;8
+"Punk.Afro.IPA";2;1,054;1,008;45;6,1;32
+"Deep.Depths.IPA";2;1,069;1,014;143;7,2;5
+"Simorial.IPA";2;1,05;1,011;60;5,1;7
+"ChaiPA";2;1,073;1,018;48;7,1;7
+"Dark.wheat";1;1,057;1,015;12;5,6;7
+"IPA.6";2;1,055;1,016;53;5;7
+"X039...Fast.Tug..on.a.card.from.LHBS.";2;1,077;1,02;91;7,4;10
+"IPA.7";2;1,076;1,018;51;7,6;10
+"Citra.Amarillo.ipa";2;1,066;1,018;65;6,3;10
+"Hefe.2";1;1,053;1,013;17;5,2;3
+"Juicy.IPA.1";2;1,066;1,018;53;6,3;3
+"Stone.IPA.Clone.1";2;1,075;1,019;73;7,3;4
+"Wuyang.IPA.1.1";2;1,062;1,015;58;6,1;4
+"Bull.Z.Bot.IPA.2";2;1,068;1,016;67;6,7;3
+"Big.Fish";2;1,079;1,019;74;7,9;10
+"Experiment.314.Grapefruit.Red.Ale";4;1,064;1,018;51;6;12
+"HIPAweizen";2;1,064;1,017;18;6,2;3
+"Clockwork";1;1,055;1,014;14;5,4;4
+"Bells.Almost.2.Hearted.Ale";2;1,064;1,016;60;6,3;5
+"Fine.Mountain.Black.IPA";2;1,066;1,016;48;6,6;31
+"Black.IPA.2";2;1,062;1,017;44;5,9;33
+"The.Centinal";2;1,073;1,015;117;7,6;5
+"Old.School.House.Pilsner";3;1,05;1,014;53;4,8;4
+"Wide.Eye.PA.by.David.West";2;1,066;1,016;77;6,5;5
+"SLO.Session.Ale";2;1,038;1,012;54;3,4;8
+"Marmalade.Skies";2;1,064;1,009;42;7,2;3
+"Can.t.Sett.er.Down";4;1,055;1,016;19;5,2;12
+"Galaxi.Citra.IPA";2;1,066;1,012;61;7,1;36
+"Sweetwater.IPA.clone..8.";2;1,062;1,009;61;7;6
+"Wholly.Citra";2;1,07;1,016;89;7;6
+"American.Apple.IPA";2;1,066;1,01;68;7,3;7
+"Hoppy.Red";4;1,078;1,022;25;7,3;13
+"Conway.s.Irish.Ale.Clone";4;1,062;1,017;22;5,8;12
+"All.Day.IPA.Clone";2;1,049;1,012;45;4,9;5
+"Amarillo.Single.Hop.IPA";2;1,08;1,02;58;7,9;4
+"Pliny.the.toddler.No.sparge";2;1,038;1,011;52;3,5;1
+"M.80.IPA.MoreBeer.Kit";2;1,072;1,019;73;6,9;5
+"HopBomb";2;1,061;1,013;48;6,4;5
+"Filter.Buster...Tropical.edition";2;1,076;1,016;42;7,8;3
+"IPA.8";2;1,059;1,016;81;5,6;7
+"Srobiles.Amarillus";2;1,075;1,018;67;7,6;5
+"Zombie.Dust.Partial.Mash.Clone";2;1,06;1,019;45;5,4;9
+"Black.IPA.v2.1";2;1,059;1,018;51;5,4;20
+"Midnight.Ryed.Clone";2;1,072;1,017;75;7,2;34
+"MONK.PARAKEET.REFUGE.IPA";2;1,056;1,014;73;5,5;6
+"X1st.Go..Nectar.Ale";2;1,052;1,012;146;5,2;10
+"West.Coast.Pale.Ale";2;1,058;1,014;63;5,8;9
+"Black.IPA..Northern.Brewer.";2;1,081;1,021;83;7,8;29
+"Ziggy.Spacedust.II";2;1,064;1,019;58;5,9;4
+"Vic.Secret.IPA";2;1,061;1,015;57;6,1;5
+"Summer.Shandy.1";1;1,051;1,012;13;5,1;3
+"All.Day.IPA.Clone.1";2;1,048;1,012;53;4,7;5
+"Mosaic.IPA";2;1,063;1,014;64;6,4;7
+"Fresh.Squeezed.1";2;1,06;1,012;67;6,2;9
+"Twin.Peaks.Kilt.Lifter";4;1,06;1,014;27;6;15
+"Valencia.Orange.Hefeweissen";1;1,044;1,011;12;4,3;4
+"Golden.Hop.Dam";2;1,068;1,018;59;6,6;14
+"The.Simsner";3;1,047;1,01;27;4,9;4
+"SN.Ruthless.Rye";2;1,067;1,012;50;7,2;13
+"Far.Darrig.Irish.Red.Ale";4;1,052;1,013;22;5,1;14
+"Amarillo.IPA";2;1,059;1,018;60;5,4;11
+"X.5.Brehm.House.IPA";2;1,064;1,017;57;6,2;11
+"Nirvana..2012_10_02.";2;1,064;1,017;69;6,2;9
+"Denny.Conn.s.RIPA";2;1,069;1,017;56;6,9;9
+"drink.your.wheaties...part.2";1;1,051;1,013;12;4,9;4
+"Winter.IPA.Dec.15";2;1,058;1,012;61;6;11
+"X.6.Single.Hop.Nelson.Sauvin";2;1,069;1,017;53;6,8;6
+"Dead.Ringer.IPA.4";2;1,064;1,013;55;6,8;6
+"Ranger.ish.Clone";2;1,058;1,013;69;6;10
+"NB.Permafrost.White.IPA";2;1,064;1,015;57;6,4;6
+"Indochina.Pale.Ale..Session.version.";2;1,062;1,017;60;5,9;12
+"Winton.Razi";1;1,048;1,011;13;4,8;3
+"X3cp2..1c";2;1,066;1,012;46;7,1;8
+"NORTHENDER.IPA.III";2;1,068;1,018;62;6,6;10
+"Racer.5.Clone";2;1,059;1,015;53;5,7;6
+"Krampus..Christmas.IPA.";2;1,067;1,013;69;7,2;8
+"Bridgeport.IPA.1";2;1,056;1,014;62;5,5;8
+"Hearts.Squared.v2";2;1,058;1,018;61;5,2;7
+"Aloysius.Amber.Rye..2012.08.05.version.";2;1,064;1,016;50;6,3;10
+"ST..PAUL.S.EASTER.REIZEN.WEIZEN";1;1,051;1,013;14;5;5
+"Pamplemousse.IPA.take.1";2;1,063;1,015;42;6,3;7
+"HIP.Ilaniwai.IPA";2;1,056;1,015;56;5,4;9
+"dead.ringer.ipa";2;1,072;1,018;61;7,1;10
+"Dogfish.Head.60.Minute.Clone";2;1,064;1,015;56;6,4;9
+"summer.hop";2;1,067;1,017;63;6,6;6
+"German.Pilsner.4";3;1,046;1,012;31;4,5;4
+"Red.Menace..MLK.day.edition";2;1,064;1,016;60;6,3;11
+"American.IPA.4";2;1,069;1,017;53;6,7;9
+"Delirium.s.Lost.IPA";2;1,062;1,016;60;6;15
+"Bucketgame.Weiss";1;1,051;1,012;12;5,1;3
+"Birthday.IPA";2;1,062;1,012;45;6,6;7
+"EPA";2;1,06;1,016;61;5,8;14
+"Richard.s.Hefeweizen";1;1,052;1,013;14;5,1;3
+"Ranger.IPA.Extract.Clone";2;1,065;1,017;60;6,3;12
+"Triple.G.IPA";2;1,057;1,015;68;5,5;9
+"Inaugural.IPA";2;1,061;1,016;63;5,8;9
+"Averagely.Perfect";2;1,062;1,014;59;6,4;7
+"Grape.a.weizen";1;1,049;1,012;11;4,9;3
+"Judas.IPA..Draft.";2;1,061;1,014;57;6,1;7
+"Birthday.Brewday";2;1,058;1,015;60;5,6;11
+"Munich.I.Two.Hearted";2;1,067;1,018;61;6,5;7
+"Brewmeister.Lars..Hefeweizen";1;1,05;1,013;12;4,8;2
+"Gibson.IPA";2;1,07;1,017;67;6,9;8
+"Har√.y";4;1,056;1,011;26;5,9;16
+"Molly.Beer";4;1,046;1,013;20;4,3;15
+"Big.Orange.IPA";2;1,073;1,017;51;7,3;8
+"Palilalia.IPA";2;1,059;1,015;44;5,8;14
+"Heater.IPA";2;1,067;1,016;56;6,6;12
+"Denny.s.Rye.IPA.1";2;1,065;1,018;59;6,3;10
+"Pap.s.Pils.SMaSH";3;1,049;1,013;30;4,7;2
+"Belgian.IPA.2";2;1,062;1,017;43;5,9;8
+"MooBrew.Nugget.IPA.12.18.11";2;1,059;1,014;64;5,9;8
+"R√.yslimoen.Rug.IPA.BB30";2;1,061;1,014;66;6,1;8
+"X2016.Irish.Red.Ale";4;1,051;1,014;27;4,9;17
+"Freya.Red";4;1,052;1,014;24;5;17
+"SMaSH...Cascade...Vienna";2;1,069;1,016;57;6,9;7
+"Training.wheels.IPA";2;1,06;1,014;54;6;11
+"India.Street.Pale.Ale";2;1,066;1,015;68;6,8;9
+"The.Force";2;1,056;1,017;62;5,2;10
+"Hopster..Yooper.s.DFH.60.min.clone.";2;1,071;1,014;68;7,5;9
+"Gemini.III";2;1,06;1,012;57;6,3;14
+"X.5.Single.Hop.Chinook";2;1,069;1,017;67;6,8;6
+"Summer.IPA";2;1,06;1,016;63;5,8;9
+"Ditch.Pidgeon.IPA";2;1,057;1,014;66;5,6;6
+"Hot.Mellon";2;1,064;1,014;59;6,5;7
+"Husband.and.Weiss";1;1,051;1,013;11;5;4
+"X.114.Clone..2011.06.22.version.";2;1,068;1,017;64;6,7;9
+"IPA.Hop.Experiment.Simcoe";2;1,059;1,014;48;5,9;7
+"First.IPA";2;1,065;1,017;48;6,2;6
+"Penguin.Tamer.IPA";2;1,058;1,014;48;5,8;8
+"Arbor.Harvest.Ale";2;1,065;1,012;52;6,9;6
+"X60.Minute.II";2;1,068;1,016;55;6,8;9
+"Little.Ring.India.Pale.Ale";2;1,071;1,017;63;7,1;7
+"Citra20";2;1,058;1,013;59;6;9
+"Wild.Granny.IPA";2;1,063;1,016;65;6,2;11
+"IPA.test..Chinook";2;1,064;1,014;54;6,6;9
+"X.19.Kaptein.Kaos";2;1,058;1,012;68;6;8
+"Neptune.s.Wrath";2;1,072;1,017;53;7,2;10
+"Harold.s.Heffeweizen";1;1,05;1,014;8;4,8;3
+"Hansen.Blend.IPA";2;1,064;1,013;67;6,7;6
+"IPA.test..Challenger";2;1,064;1,014;45;6,6;9
+"Dreaming.of.IPA";2;1,062;1,016;55;6;9
+"AIPA";2;1,064;1,014;61;6,6;12
+"Thegarden.Pilsner";3;1,05;1,011;29;5;3
+"India.Wit.Ale..Group.Brew.";2;1,065;1,016;47;6,4;9
+"Annoying.Sears.Salesman..A.S.S...IPA";2;1,066;1,017;63;6,4;8
+"IPA.3";2;1,068;1,017;66;6,6;14
+"Special.Oak.Amber.Ale";2;1,065;1,012;44;7;14
+"Orangutan";2;1,068;1,017;69;6,7;12
+"Hefeweizen.trial.1";1;1,046;1,011;15;4,5;3
+"Mr..Wobly.IPA..2011.08.9.version.";2;1,068;1,018;65;6,6;11
+"The.Hef";1;1,046;1,012;13;4,5;3
+"Hopsicle.White.IPA";2;1,071;1,016;51;7,3;6
+"Citra.IPA.2";2;1,071;1,017;45;7,1;6
+"In.Your.EyePA";2;1,059;1,015;59;5,8;10
+"Dead.Ringer.Full.Boil";2;1,069;1,01;55;7,7;9
+"Oatmeal.IPA.plus.simcoe";2;1,066;1,016;65;6,6;6
+"Goodale.IPA";2;1,069;1,017;58;6,8;12
+"Grain.Clean.Up";4;1,046;1,014;22;4,2;17
+"Rico.s.Switch.Hefe..Miami.Weisse..Gab.s.Bday.Beer";1;1,051;1,013;13;5;4
+"South.Street.IPA";2;1,068;1,018;63;6,6;6
+"Pilsner.1.0";3;1,046;1,012;25;4,5;3
+"Hagges.40.√.rs.krise.IPA";2;1,058;1,015;48;5,7;7
+"Citra.IPA.3";2;1,066;1,016;48;6,7;9
+"Recipe.created.2012.12.01.at.20.29.40.UTC";2;1,057;1,015;50;5,5;7
+"Temnor.Weizen";1;1,051;1,013;9;5;3
+"F.Bomb";3;1,048;1,012;28;4,8;4
+"Another.IPA";2;1,067;1,016;51;6,7;9
+"Mango.Lemongrass.IPA";2;1,072;1,01;52;8;9
+"First.try";2;1,065;1,016;63;6,4;10
+"Summer.PIPA";2;1,069;1,016;42;6,9;7
+"Virgin.IPA";2;1,061;1,015;64;6;8
+"Ska.Modus.Hoperandi";2;1,067;1,017;67;6,6;12
+"Hop.Snob.IPA";2;1,07;1,017;49;6,9;9
+"Deutsches.Pilsener";3;1,049;1,012;36;4,8;3
+"X.Merica.IPA";2;1,065;1,015;69;6,5;10
+"Brrr.clone";2;1,067;1,018;56;6,4;13
+"Oh.my.damn..IPA";2;1,071;1,018;55;7;7
+"X.8.Weizen.II";1;1,052;1,013;11;5,1;4
+"Joppin..Jalapeno";2;1,067;1,017;61;6,5;10
+"Weihenstephan.s.Better.Looking.Brother";1;1,05;1,013;12;4,9;4
+"Greek.Hop.Freak..2011.03.02.version.";2;1,066;1,018;67;6,3;8
+"X.9.SoBoRo.IPA";2;1,071;1,016;62;7,2;7
+"Suds..Bee.So.Honey.IPA";2;1,067;1,017;57;6,5;6
+"Hoppy.Fat.Tire";2;1,059;1,016;54;5,6;8
+"Goodbye.Auckland";2;1,064;1,015;57;6,4;11
+"X.quot.Aussie.quot..Hop.Beer";2;1,064;1,017;66;6,2;8
+"Fruit.Nuke";2;1,066;1,015;57;6,6;8
+"Brewers.Best.PSA.IPA";2;1,062;1,017;53;6;7
+"SMaSH...Galaxy";2;1,066;1,015;61;6,6;8
+"Centennial.IPA.1";2;1,068;1,016;47;6,8;7
+"HiLarryous..1";2;1,063;1,018;48;5,9;9
+"Session.IPA.1";2;1,064;1,015;41;6,4;7
+"space.dust.inspired";2;1,071;1,017;63;7,1;6
+"Celebration..20101230.";2;1,065;1,016;61;6,4;12
+"X2011.Irish.American.Red";4;1,045;1,012;23;4,3;11
+"This.ale.hopped.in.a.bottle...";2;1,056;1,015;69;5,4;11
+"Nugget.Munich.IPA";2;1,06;1,014;57;6;8
+"wei.zo.serious...smoked.";1;1,049;1,012;15;4,8;3
+"Bell.s.Two.Hearted.Clone.1";2;1,063;1,016;47;6,2;6
+"Mrs..Ryan.s.Hefeweizen";1;1,052;1,013;13;5;4
+"Resurrection.Ale";1;1,052;1,013;14;5,1;3
+"Big.Red.IPA";2;1,06;1,016;57;5,8;14
+"Brewday.IPA";2;1,07;1,01;66;7,8;10
+"NBA.SMASH...Briess.Special.Roast";2;1,064;1,017;48;6,2;9
+"Pale.Wolf";2;1,067;1,016;65;6,7;11
+"Newcastle.IPA.Citra";2;1,066;1,016;70;6,6;7
+"Fresh.Squeezed.IPA..inspired.by.Deschutes.";2;1,067;1,016;58;6,7;8
+"Smooth.Groove.APA..a.great.end.for.those.days.with.alot.going.on.";2;1,058;1,016;69;5,5;8
+"Strawberry.Wheat.1";1;1,048;1,012;14;4,8;3
+"First.Try.IPA";2;1,058;1,012;64;6,1;14
+"Mango.Madness..2";2;1,057;1,015;49;5,5;8
+"El.Hefe.2.0";1;1,052;1,013;14;5;3
+"Wei.Not.Weizen";1;1,051;1,014;13;4,8;3
+"Jamil.s.Evil.Twin";2;1,068;1,017;47;6,7;15
+"Cucamonga.Peak.IPA";2;1,063;1,015;55;6,3;6
+"Gose.nummer.1";1;1,046;1,012;10;4,5;3
+"Square.Knot";2;1,068;1,017;41;6,7;10
+"Earl.Bender.Ale..9";2;1,065;1,017;54;6,2;11
+"Beast.of.the.East";2;1,072;1,016;68;7,4;6
+"Jamil.s.Evil.Twin.1";2;1,068;1,017;47;6,7;15
+"Brygg..6.Weizen.3333";1;1,046;1,012;12;4,5;3
+"X20.minute.American.IPA";2;1,06;1,016;56;5,8;14
+"Space.Cowboy.II";2;1,066;1,018;62;6,3;8
+"RB.s.Amarillo.IPA";2;1,068;1,017;50;6,7;11
+"Wild.IPA.SH.NS";2;1,069;1,016;56;7;8
+"Overdrive.Ale";2;1,066;1,018;61;6,3;7
+"SN.Celebration.Ale.Clone";2;1,069;1,01;65;7,7;12
+"X08M.Thrown.Together.IPA";2;1,063;1,016;60;6,2;10
+"Untitled.Weizen.Weissbier.149086";1;1,048;1,012;14;4,6;4
+"Solar.Flare.APA";2;1,057;1,015;62;5,5;6
+"The.Wife.Beer";2;1,059;1,016;68;5,7;11
+"Hefeweizen.2";1;1,05;1,013;12;4,8;2
+"Citrusipa";2;1,058;1,012;52;6;7
+"Commissioner.Gordon";2;1,067;1,017;46;6,6;9
+"Hoppily.Ever.After.Pale.Ale";2;1,056;1,014;57;5,5;6
+"Willy.Nilly";2;1,065;1,018;58;6,2;6
+"Summit.IPA";2;1,06;1,014;57;6;14
+"Special.for.Crawfish.boil";2;1,057;1,015;49;5,5;6
+"Mike.s.5th.Anniversary.IPA";2;1,067;1,016;56;6,7;6
+"IPA.VI";2;1,069;1,017;56;6,8;9
+"Resurrection.Red";4;1,045;1,011;26;4,5;12
+"MC.2.IPA..Magnum..Cascade..Citra.";2;1,061;1,015;56;6,1;12
+"IPA.9";2;1,057;1,013;59;5,8;7
+"Cascade.IPA.6";2;1,071;1,018;61;7;7
+"All.Amarillo.IPA";2;1,063;1,015;66;6,4;11
+"Deadhead.IPA";2;1,072;1,015;56;7,5;14
+"Alpha.Wolf.Rye.IPA";2;1,062;1,015;65;6,2;9
+"Honey.Wheat";1;1,046;1,011;9;4,5;7
+"The.Ipa";2;1,069;1,014;69;7,2;6
+"Le.Magic.Weizen";1;1,05;1,013;14;4,9;3
+"Belgian.Rye.IPA";2;1,07;1,017;65;6,9;12
+"X174th...Interurban.IPA.10.12.14";2;1,057;1,013;58;5,8;7
+"IPA.test..Cascade";2;1,064;1,014;44;6,6;9
+"Deutschamerikaner.Wheat";1;1,052;1,013;14;5,1;4
+"Irish.Migrant...Fresh.Off.the.Boat...Fresh.Hopped.Irish.Red.";4;1,047;1,013;25;4,4;13
+"Maddox.Fish.IPA";2;1,069;1,016;61;7;10
+"Fall.2015.IPA";2;1,07;1,016;52;7;13
+"My.Bell.s.Two.Hearted.Clone..2010.06.21.version...alt.";2;1,063;1,017;66;6;7
+"Dank.Amber";2;1,071;1,018;64;7;14
+"Windbuche.Weissen";1;1,05;1,012;9;5;8
+"Schiller.s.IPA";2;1,057;1,014;50;5,6;9
+"Farmstead.Coffee.Porter";1;1,051;1,014;12;4,9;3
+"Untitled.American.IPA.153428";2;1,06;1,015;55;5,9;11
+"My.Grolsch";3;1,05;1,012;28;4,9;4
+"Sunny.day.IPA";2;1,065;1,015;65;6,5;11
+"Citrus.weizen";1;1,051;1,013;13;5;3
+"CCCP";2;1,067;1,017;63;6,6;15
+"Weissbier.Attempt..1";1;1,052;1,013;13;5,1;3
+"Red.Alert";4;1,047;1,011;26;4,6;12
+"MIPA";2;1,062;1,01;55;6,7;7
+"Centennial.IPA.2";2;1,069;1,016;69;7;9
+"Hoptopolis";2;1,071;1,017;56;7,1;12
+"Munich.Simcoe.SMaSH";2;1,057;1,014;46;5,6;9
+"AHS.Greenbelt.IPA";2;1,07;1,018;56;6,8;10
+"yea";2;1,067;1,017;61;6,5;12
+"Neighbor.IPA";2;1,063;1,017;56;6,1;13
+"IPA.Project...Northern.Brewer";2;1,061;1,016;50;5,9;9
+"mind.over.manners";2;1,073;1,015;48;7,6;8
+"Dead.Ringer";2;1,069;1,017;64;6,8;9
+"PILS..Hallertau.";3;1,048;1,01;37;4,9;3
+"Willie.s.Triple.Six.2012";4;1,053;1,014;20;5,1;18
+"Village.Idiot";2;1,067;1,018;57;6,4;6
+"Galaxy.Lager";2;1,06;1,016;49;5,7;6
+"SimAmo.Ale";2;1,073;1,018;57;7,2;6
+"Copernicus.Red.Ale";2;1,062;1,014;52;6,2;15
+"TNT.s.Centennial.Ale";2;1,064;1,017;61;6,2;7
+"AleTron";2;1,066;1,014;55;6,8;8
+"Ron.s.IPA..all.grain.";2;1,068;1,018;70;6,6;8
+"Match.Red";4;1,056;1,013;22;5,6;17
+"Amarillo.IPA.1";2;1,066;1,017;68;6,4;13
+"DanK.IPA.V";2;1,065;1,016;52;6,4;6
+"Centennial.IPA.II";2;1,057;1,015;49;5,5;9
+"Hoppiness.is.an.IPA";2;1,074;1,017;49;7,4;6
+"Ingrid.s.Brew";1;1,048;1,013;12;4,6;3
+"Grapefruit.IPA.2";2;1,072;1,016;62;7,4;6
+"Camosack.IPA";2;1,068;1,017;64;6,6;6
+"First.Red.Ale.Try";4;1,047;1,011;26;4,8;11
+"X.5.Mosaic.IPA";2;1,069;1,01;57;7,7;9
+"Cascade.IPA.7";2;1,066;1,018;57;6,3;11
+"SMASH.2013";1;1,052;1,013;9;5,1;4
+"potential.ipa";2;1,059;1,014;68;5,9;9
+"McNulty.Hefe";1;1,045;1,012;12;4,4;3
+"CSB.Western.Hemisphere.Ale";2;1,071;1,018;67;7;11
+"Test.IPA";2;1,063;1,012;54;6,6;7
+"Evil.Twin";2;1,071;1,018;48;6,9;15
+"All.Grain.IPA...California.Ale.Yeast";2;1,071;1,017;65;7,1;12
+"Blackberry.Red.Ale";4;1,052;1,013;22;5,1;14
+"Belgian.IPA.3";2;1,066;1,016;53;6,5;7
+"ATK.IPA";2;1,069;1,017;69;6,8;8
+"Steve.s.Pale.Ale";2;1,065;1,012;62;6,9;9
+"San.Gabriel.IPA";2;1,061;1,014;62;6,2;12
+"Untitled.American.IPA";2;1,065;1,016;49;6,4;14
+"Chinook.IPA.4";2;1,064;1,018;54;6;7
+"Mad.Dog.IPA";2;1,069;1,017;69;6,8;8
+"Carapils.liberty.ale";2;1,068;1,018;61;6,6;8
+"Limon.Heffe";1;1,052;1,011;11;5,3;3
+"Pioneer.Ale";2;1,072;1,017;65;7,2;12
+"Lemon.SamuraIPA";2;1,057;1,014;69;5,6;6
+"Kiwi.Express.1";2;1,06;1,013;65;6,1;6
+"Late.Summer.IPA";2;1,071;1,01;63;7,9;12
+"Primhovda.Hefeweizen";1;1,049;1,013;12;4,7;2
+"Mad.Dog.IPA.1";2;1,069;1,017;69;6,8;8
+"Ahtanum.Simcoe.IPA";2;1,064;1,017;62;6,2;8
+"Flying.Dog.Raging.Bitch.Inspired";2;1,058;1,015;49;5,6;10
+"DanK.IPA.the.13th";2;1,063;1,013;62;6,6;7
+"Dr.Ropata.s.Pale.Ale";2;1,059;1,018;60;5,4;7
+"Indy.Pale.Ale";2;1,058;1,016;67;5,5;7
+"Adirondack.Chair.IPA";2;1,059;1,012;57;6,1;9
+"Let.s.Get.Small...Amarillo";2;1,062;1,015;66;6,2;6
+"iPA.One.Point.Oh";2;1,067;1,017;49;6,6;7
+"Rye.American.IPA";2;1,062;1,012;52;6,6;6
+"B√.rs.H√.kan.Real.APA";2;1,075;1,01;61;8,4;9
+"Hop.Hog.Clone";2;1,066;1,012;66;7;7
+"BE.Hop.Venom";2;1,073;1,011;61;8,2;8
+"Canadian.IPA";2;1,063;1,016;67;6,2;8
+"Combat.Hopkido.IPA";2;1,066;1,017;57;6,5;8
+"BMW.Wheat";1;1,051;1,013;14;5;4
+"Wife.weizen..W1.";1;1,052;1,013;13;5,1;3
+"Bearded.Nebula.IPA";2;1,062;1,017;69;5,9;7
+"Weizen";1;1,051;1,013;13;5;2
+"IRA";4;1,05;1,014;24;4,8;16
+"Pat.s.IPA";2;1,067;1,017;64;6,6;8
+"Dat.stressy.AIPA";2;1,062;1,015;69;6,2;7
+"Last.Minute.IPA";2;1,069;1,017;66;6,8;8
+"Why.PA";2;1,067;1,013;58;7;6
+"West.Coast.Blaster";2;1,066;1,016;50;6,4;7
+"Little.Puff.Smoked.IPA";2;1,068;1,017;70;6,7;6
+"Blueberry.Hefe";1;1,044;1,011;12;4,3;3
+"X2..Feayor";3;1,048;1,012;36;4,7;5
+"Hop.Solo..Mosaic.Single.Hop.IPA.";2;1,061;1,014;62;6,2;10
+"CBS.American.IPA";2;1,059;1,014;53;5,9;10
+"Bell.s.Two.Hearted.all.grain";2;1,058;1,014;61;5,8;7
+"Honey.Rye.IPA";2;1,066;1,017;54;6,4;10
+"Belgian.IPA..10g.";2;1,066;1,016;52;6,6;7
+"English.Amber.Ale";4;1,05;1,013;20;4,7;11
+"CH.IPA.4...Mod.6";2;1,066;1,016;48;6,5;11
+"Sierra.Madre";2;1,056;1,013;56;5,6;8
+"Downtown.IPA..2";2;1,059;1,015;67;5,8;10
+"Gnarly.IPA";2;1,068;1,016;52;6,8;8
+"Mrod.IPA";2;1,06;1,016;55;5,7;11
+"OtPA";2;1,069;1,017;49;6,7;12
+"Riki.Tiki.Simcoe.IPA";2;1,06;1,016;62;5,8;8
+"Osama.IPA";2;1,059;1,014;63;5,9;9
+"West.Coast.Style.IPA";2;1,061;1,016;47;5,9;7
+"Chinook.Citra.IPA...Lower.OG";2;1,061;1,012;50;6,5;8
+"Beauty.and.the.Yeast";1;1,051;1,013;12;5;3
+"LagerWanker";3;1,05;1,011;38;5;3
+"Quadruple.J.Red.IPA";2;1,063;1,015;40;6,3;15
+"Cascade.Citra.IPA..2013.04.06.";2;1,062;1,015;64;6,2;11
+"Irish.Red.Ale..2";4;1,055;1,014;20;5,4;17
+"Shadow.IPA";2;1,064;1,017;68;6,1;14
+"Grapefruit.Summer.IPA";2;1,065;1,017;58;6,3;7
+"Dawg.Weiss";1;1,048;1,013;12;4,5;6
+"IPA.10";2;1,071;1,018;56;6,9;9
+"Pinto.IPA";2;1,066;1,017;64;6,4;8
+"Mrs.Velkyal.s.Session.Beer";4;1,048;1,014;20;4,5;15
+"K.s.Mystery.Mix.IPA";2;1,058;1,015;43;5,7;6
+"Hell.of.a.Day.IPA";2;1,065;1,014;63;6,7;9
+"Shiva.Kitty";2;1,059;1,015;51;5,8;8
+"The..C..Word.IPA";2;1,073;1,015;63;7,6;12
+"Hoppy.Hour";2;1,07;1,018;62;6,8;14
+"Snuggles.Hefe.V2..2010.08.06.version.";1;1,048;1,011;11;4,8;5
+"Karnowski";2;1,065;1,016;50;6,4;6
+"Belma.SMaSH";2;1,058;1,014;68;5,8;6
+"Rupert.IPA";2;1,072;1,017;52;7,1;13
+"Hefeweizen.I";1;1,052;1,012;11;5,2;3
+"Mosaic.IPA.1";2;1,06;1,013;58;6,1;10
+"Cloud.9.IPA";2;1,063;1,018;44;5,9;9
+"O..My.Soul";2;1,07;1,016;67;7;8
+"Misfit.Love";4;1,052;1,012;24;5,2;16
+"Double.IPL";2;1,07;1,017;55;6,8;9
+"Rye.Centennial.IPA";2;1,07;1,017;59;6,9;8
+"Untitled.Irish.Red.Ale.153716";4;1,045;1,012;21;4,3;14
+"wastafeson";1;1,052;1,013;10;5,1;2
+"El.Hefe.1";1;1,051;1,012;13;5,1;7
+"Ruby.Mosaic";2;1,063;1,016;50;6,1;6
+"Bee.Cave.Hefeweizen";1;1,051;1,013;12;4,9;3
+"Bells.Two.Hearted";2;1,067;1,013;46;7;6
+"Bells.Two.Hearted.Galaxy.DH";2;1,067;1,013;46;7;6
+"Eidelweiss..BBS.";1;1,051;1,013;13;5;5
+"An.American.IPA.in.London";2;1,068;1,017;65;6,6;9
+"X.114.Clone";2;1,068;1,017;64;6,7;9
+"Watermelon.Weizenbier";1;1,049;1,013;11;4,8;3
+"Deep.Red.Ale";2;1,056;1,013;44;5,6;11
+"Spapoop.IPA";2;1,068;1,018;57;6,6;8
+"Northern.Brewer.Dead.Ringer.IPA.1";2;1,064;1,015;56;6,4;8
+"Citraholic";2;1,061;1,016;61;6;7
+"Em.s.WIPA";2;1,066;1,015;48;6,7;7
+"Hopricot.IPA";2;1,069;1,017;58;6,8;10
+"Mango.Madness.Pale.Ale";2;1,058;1,016;55;5,5;8
+"Mama.K.IPA";2;1,069;1,017;61;6,8;10
+"Mad.Tom.IPA.Clone";2;1,069;1,017;60;6,8;9
+"Munich.IPA";2;1,056;1,014;57;5,5;8
+"RyePuh.";2;1,064;1,016;51;6,3;8
+"Father.s.Day.Ipa.II";2;1,068;1,017;66;6,7;7
+"Christmas.IPA...Lighter";2;1,065;1,015;46;6,5;7
+"Mango.Chipotle.IPA";2;1,071;1,017;41;7,1;6
+"Single.Hop..Pearle.";2;1,066;1,017;52;6,4;7
+"Blue.IPA";2;1,061;1,015;58;6;6
+"Mystery.Manor.Pale.Ale";2;1,058;1,016;46;5,5;7
+"Spring.Weizen";1;1,052;1,014;13;4,9;3
+"Founders.300esq";2;1,066;1,017;68;6,4;6
+"Manini.IPA";2;1,069;1,014;69;7,2;6
+"Dead.Ringer.1";2;1,064;1,017;58;6,2;8
+"Longleaf.Hefe";1;1,047;1,011;9;4,7;6
+"Columbus.IPA.3";2;1,067;1,017;55;6,6;8
+"Immortal.Clone";2;1,066;1,017;48;6,4;8
+"Dog.Day.IPA";2;1,062;1,016;66;6,1;8
+"Standard.Hefe";1;1,052;1,013;9;5;4
+"Conan.the.IPA";2;1,067;1,017;68;6,6;6
+"Simple.IPA";2;1,07;1,018;60;6,9;9
+"Snuggles.Hefe.V2";1;1,048;1,012;11;4,7;5
+"Order.60.Six";2;1,057;1,014;60;5,6;9
+"Greenbelt.IPA";2;1,073;1,017;66;7,2;9
+"HefeWheat";1;1,045;1,011;13;4,4;4
+"Falconer.s.flight.IPA";2;1,068;1,017;58;6,7;7
+"IRA.1";2;1,06;1,018;60;5,5;14
+"Single.Hop.Rakau.IPA.Test.2";2;1,071;1,014;62;7,4;10
+"Vermont.Hill...IPA";2;1,07;1,014;66;7,3;7
+"Deadringer.IPA..NB.Kit.";2;1,064;1,013;59;6,6;9
+"Averagely.Perfect.American.IPA";2;1,064;1,017;61;6,1;7
+"Tubby.s.IPA..2012.02.20.version.";2;1,068;1,015;65;6,9;6
+"First.electric.ryepa";2;1,059;1,015;52;5,8;9
+"Punch.You.in.the.IPA";2;1,065;1,013;48;6,8;7
+"UBrew.APA";2;1,056;1,011;51;5,9;9
+"Raspberry.Wheat";1;1,05;1,012;10;5;3
+"First.Pilsner";3;1,05;1,013;25;4,9;2
+"OEA";2;1,057;1,014;45;5,6;7
+"Equinox.Simcoe";2;1,071;1,014;70;7,4;8
+"Fiesta.Ale";2;1,072;1,017;60;7,2;11
+"Fogu";2;1,066;1,018;48;6,3;10
+"X.029..Red.Beard.McBrewinagin";4;1,052;1,014;21;4,9;15
+"Hammerface.IPA";2;1,068;1,016;61;6,8;7
+"TOTAL.BS.IPA";2;1,063;1,016;54;6,2;6
+"RyRyePA";2;1,069;1,017;51;6,8;11
+"TNT.IPA";2;1,065;1,017;65;6,3;8
+"Apthorp.Ale";2;1,063;1,016;44;6,2;9
+"Heavy.Rye";2;1,065;1,012;46;7;11
+"Older.Not.Weisser";1;1,05;1,013;14;4,9;2
+"Appa.s.IPA";2;1,073;1,011;69;8,2;8
+"Forty.Five.Minutes";2;1,058;1,017;69;5,3;9
+"Ska.Loose.Interpretation";2;1,074;1,017;66;7,4;8
+"My.First.beer";3;1,045;1,011;27;4,5;4
+"Formiga.American.IPA...metric";2;1,071;1,018;55;7;7
+"Study.In.Victory..1";2;1,066;1,016;53;6,5;9
+"Victory.Brew";2;1,067;1,018;56;6,4;9
+"SMash..Honey.malt";2;1,065;1,018;48;6,3;7
+"Nugget.light";2;1,062;1,015;45;6,1;6
+"Sierra.Nevada.Celebration";2;1,061;1,015;64;6;10
+"Kitchen.Sink.Hop.and.Rye";2;1,07;1,014;51;7,3;12
+"Lord.Kelvin.IPA";2;1,059;1,015;47;5,8;14
+"Irish.Immigrant.Red.Ale";4;1,052;1,014;25;5;10
+"Elgin.IPA";2;1,066;1,016;59;6,5;8
+"chinook.ipa";2;1,065;1,016;66;6,4;9
+"Fresh.Squeezed.V2";2;1,06;1,014;56;6,1;6
+"Bell.s.Two.Hearted.Clone..2.Gallon.BIAB.";2;1,064;1,015;56;6,4;8
+"Sierra.Nevada.Style.IPA";2;1,065;1,016;68;6,4;7
+"B.E.E.R";2;1,065;1,013;57;6,8;6
+"Lagunitas.IPA.Style";2;1,059;1,018;59;5,4;7
+"IPA.1.0";2;1,067;1,017;56;6,5;11
+"BRP010.standard.red.ale";4;1,056;1,013;25;5,6;12
+"X68CitraIPA";2;1,072;1,01;64;8,1;13
+"whamber";2;1,063;1,015;51;6,3;11
+"CIPA";2;1,068;1,016;62;6,8;14
+"Fruit.Bomb.IPA";2;1,067;1,016;58;6,7;9
+"ABC.Brewing...Hop.Sanatorium";2;1,061;1,014;55;6,1;7
+"Nelson.IPA";2;1,065;1,016;48;6,4;7
+"J.B.IPA..Extract.";2;1,063;1,016;67;6,1;12
+"Nye.P.Eh";2;1,067;1,018;46;6,4;9
+"Ipana";2;1,058;1,013;51;5,9;6
+"Ranting.Ricky.s.Rye";2;1,063;1,016;58;6,1;7
+"Rain.Delay.v2";2;1,065;1,013;45;6,8;7
+"Hefe.3";3;1,046;1,011;26;4,5;4
+"Warrior.Single.Hop";2;1,061;1,016;59;5,9;10
+"PEAK.IPA.CLONE..2011.11.23.version.";2;1,064;1,017;58;6,2;9
+"Dead.Ringer.by.Frostbrewer";2;1,068;1,017;66;6,7;10
+"All.Grain.Hefe";1;1,048;1,012;13;4,7;4
+"Revolutionary.Rebel.IPA";2;1,066;1,018;47;6,3;6
+"Franklin.IPA.2.0";2;1,061;1,016;53;5,8;7
+"Summer.Hefe";1;1,05;1,012;14;4,9;4
+"Ruthless.Aye";2;1,064;1,013;53;6,7;11
+"O.Leary.s.Cow";4;1,05;1,014;27;4,7;13
+"Hefe.pils";1;1,046;1,012;13;4,6;5
+"Better.than.Oscar.IPA";2;1,072;1,018;70;7,1;9
+"GOLDEN.WEIZEN";1;1,048;1,013;11;4,7;4
+"Mighty.Orange.IPA.2012.10.11";2;1,056;1,015;69;5,4;9
+"Weiss.Weiss.Baby";1;1,047;1,012;12;4,7;3
+"X3.11.IPA";2;1,065;1,018;66;6,2;7
+"Odds.and.Ends.IPA";2;1,071;1,01;56;7,9;11
+"Oktoberfest.IPA";2;1,069;1,017;62;6,8;11
+"Sierra.Nevada.Celebration.Clone";2;1,063;1,017;66;6;9
+"Amarillo.Simco.Lagunitas.Yeast.IPA";2;1,061;1,015;57;6;6
+"wei.zo.serious.";1;1,051;1,013;15;5;3
+"Midwest.Irish.Red.Kit";4;1,048;1,012;19;4,7;9
+"Belma.WIPA";2;1,056;1,014;54;5,5;7
+"Gallon.IPA";2;1,058;1,014;41;5,8;10
+"Half.Mash.IPA";2;1,07;1,018;56;6,8;8
+"PGB.IPA.2G";2;1,059;1,015;49;5,8;6
+"Ghost.Fish.IPA";2;1,06;1,014;58;6;6
+"Untitled.American.IPA.156300";2;1,073;1,017;60;7,2;10
+"AHS.Winter.IPA";2;1,067;1,013;66;7;10
+"Grandpops.Broken.Coaster.IPA";2;1,068;1,018;67;6,6;6
+"Initial.IPA";2;1,057;1,011;59;6;8
+"Lavender.IPA";2;1,064;1,017;57;6;6
+"IIPA";2;1,063;1,017;68;6;8
+"Red.IPA.1";2;1,068;1,017;67;6,7;15
+"IL.2.CO";2;1,063;1,016;53;6,2;10
+"Fantasy.IPA";2;1,067;1,014;51;6,9;8
+"Green.Tea.IPA.Redux";2;1,068;1,017;41;6,7;7
+"Whirlpool.Munich";2;1,06;1,013;62;6,1;10
+"Red.Two.Hop.IPA";2;1,07;1,01;56;7,9;13
+"Nemesis.IPA..2012.03.10.version.";2;1,066;1,018;43;6,3;9
+"Peak.Banana";1;1,05;1,012;14;4,9;4
+"Red.Ale.2";4;1,046;1,01;24;4,7;12
+"Custom.IPA";2;1,066;1,017;64;6,4;9
+"Bachelor.Party.IPA";2;1,057;1,014;57;5,6;9
+"AHS.Anniversary.IPA";2;1,068;1,016;59;6,8;10
+"Daruis.with.Saaz.and.Perle";2;1,06;1,014;53;5,9;7
+"X2015.Red.IPA";2;1,065;1,017;53;6,3;15
+"Irish.Red.I";4;1,046;1,012;22;4,4;16
+"Summer.Rain.IPA";2;1,057;1,017;59;5,2;6
+"Equilibrium.Ale.v1.1";2;1,06;1,012;42;6,3;9
+"Sam.Adams.Latitude.48.IPA.Clone";2;1,071;1,018;48;7;9
+"Dedicationman.IPA";2;1,072;1,017;61;7,1;8
+"New.Edition.IPA.v2";2;1,056;1,013;57;5,6;6
+"Darwin.s.Weizen";1;1,05;1,013;10;4,8;3
+"X.089..Half.Santa.Left.This.For.Me";2;1,061;1,012;68;6,4;6
+"Hops.Upside.Your.Head.BPA";2;1,058;1,015;61;5,6;13
+"Falconer.s.IPA";2;1,07;1,015;64;7,2;9
+"AHS.karankawa.pale.ale";2;1,057;1,014;56;5,6;8
+"White.Wizard";1;1,047;1,012;10;4,6;3
+"Rico.s.METHod.IPA";2;1,065;1,016;63;6,3;7
+"Jamil.s.Evil.Twin.2";2;1,062;1,016;42;6;14
+"AMERICAN.DORIPA";2;1,073;1,017;57;7,3;9
+"Blood.Orange.Hefeweizen";1;1,046;1,012;13;4,5;3
+"Unpaved.Road...Citra.IPA";2;1,064;1,015;60;6,4;6
+"Leenhonitas.IPA..2010.04.25.version.";2;1,064;1,017;55;6,2;12
+"Sharpe.Shooter.IPA";2;1,071;1,018;48;6,9;12
+"Somewhat.Sahti";2;1,059;1,015;55;5,7;9
+"Dampfbier.1";1;1,048;1,013;15;4,6;5
+"X15.minute.American.IPA";2;1,057;1,015;55;5,5;14
+"Fakedra...Phaedra.Belgian.Rye.IPA.Clone";2;1,07;1,017;67;7;6
+"P.T.Red.Ale";4;1,056;1,014;21;5,5;16
+"Holy.Cow..IPA";2;1,067;1,016;61;6,7;9
+"Quick.Hefe..2011.07.24.version.";1;1,047;1,011;14;4,7;3
+"Ram.s.Offspring";2;1,058;1,014;61;5,7;10
+"Weiss.Guy";1;1,051;1,013;10;5;4
+"Razzfeilds";1;1,046;1,012;12;4,5;3
+"Dan.s.Kiwi.Xmas.IPA";2;1,062;1,016;67;6;9
+"Mouthparty.IPA";2;1,067;1,017;66;6,6;8
+"Simcoe.Smash..sorta.";2;1,057;1,013;70;5,7;6
+"Hopworks.IPA.Clone";2;1,056;1,015;63;5,4;6
+"Belgian.Ryiot";2;1,071;1,016;62;7,2;10
+"ekstrakt";2;1,063;1,017;68;6;8
+"Ranjer.IPA.12.24.13";2;1,06;1,015;65;5,9;10
+"Downtown.IPA";2;1,06;1,015;55;5,9;11
+"Quench";1;1,052;1,012;11;5,2;4
+"Hoppy.New.Beer";2;1,058;1,014;62;5,7;9
+"Freckled.Ginger.Ale";4;1,057;1,013;23;5,7;14
+"Pod.City.IPA";2;1,058;1,015;61;5,7;15
+"South.Side.Pale.Ale.v2.0";2;1,056;1,012;52;5,9;6
+"First.American.IPA";2;1,068;1,018;51;6,6;8
+"Galactic.Explorer";2;1,062;1,016;63;6;11
+"Magnum.IPA";2;1,061;1,016;59;5,9;6
+"Sorachi.Ace.Session";2;1,06;1,012;64;6,3;9
+"Irish.Red.Nose..In.Leftovers..Ale";4;1,052;1,014;21;5;12
+"Delirium.s.IPA";2;1,066;1,017;40;6,4;10
+"HBT.Irish.Red";4;1,052;1,013;22;5,1;17
+"Simcoe.IPA.4";2;1,064;1,016;53;6,3;8
+"Random.IPA";2;1,066;1,016;62;6,5;8
+"Fresh.Hop.IPA.1";2;1,068;1,017;47;6,7;7
+"Doctor.s.wit";1;1,051;1,012;14;5,1;3
+"Babo.s.IPA.2";2;1,061;1,011;58;6,6;6
+"Hefe.4";1;1,051;1,012;12;5,1;2
+"Ranger.Richard";2;1,058;1,014;68;5,7;6
+"IPA.11";2;1,063;1,016;50;6,2;11
+"Mattingly.Wedding.Beer";2;1,073;1,017;55;7,2;6
+"Brooklyn.Inaugural.IPA";2;1,07;1,017;60;6,9;12
+"Celebration";2;1,067;1,017;66;6,6;12
+"Memorial.Day.IPA";2;1,063;1,016;49;6,2;6
+"Everyday.IPA";2;1,064;1,017;50;6,2;11
+"RoboCitra.IPA";2;1,067;1,013;65;7,1;6
+"citra";2;1,066;1,015;46;6,7;8
+"GSB..NZ.Pale.Ale";2;1,066;1,016;56;6,7;12
+"Patrick.s.Red.Arse";4;1,054;1,013;18;5,3;16
+"TPBC.Summit.SH.IPA";2;1,067;1,017;61;6,6;11
+"Hophound.Hoptomic.IPA";2;1,071;1,018;64;6,9;15
+"Krakens.Revenge.III";2;1,068;1,011;68;7,5;6
+"American.Rye.PA..11gal.";2;1,066;1,017;53;6,4;13
+"Irish.Red.Ale...American.Brewmaster";4;1,054;1,013;25;5,4;11
+"Common.House.Spider.IPA";2;1,069;1,018;64;6,7;10
+"√.sen";2;1,073;1,017;64;7,3;7
+"HefeWeizen.v2";1;1,048;1,012;12;4,8;2
+"American.IPA.Experiment.2";2;1,07;1,01;62;7,8;7
+"MooBrew.Nugget.IPA";2;1,059;1,014;64;5,9;8
+"Rainy.Night.IPA";2;1,057;1,014;65;5,6;9
+"huff.eweizen";1;1,05;1,013;13;4,9;4
+"Man.Juice";2;1,056;1,015;64;5,4;9
+"MPG.IPA";2;1,057;1,014;67;5,6;10
+"Dritzz";2;1,061;1,015;64;6;8
+"ZDC";2;1,064;1,016;60;6,3;6
+"Chinooked.on.Phonics";2;1,064;1,017;59;6,1;12
+"not.sure.yet.IPA";2;1,069;1,017;64;6,8;6
+"Natal.Plum.IPA";2;1,072;1,017;61;7,2;7
+"Shaun.s.So.Good.Hefe";1;1,05;1,013;14;4,8;3
+"Irish.Draught.2016";4;1,048;1,013;24;4,6;13
+"Irish.Red.Ale.2";4;1,055;1,014;25;5,3;16
+"True.Brew.IPA.and.then.some";2;1,068;1,017;47;6,7;12
+"Grapefruit.Blast.IPA";2;1,063;1,017;54;6;7
+"Small.Batch..3";2;1,069;1,017;60;6,9;13
+"Zythos.IPA.1";2;1,06;1,016;64;5,7;10
+"German.Hef";1;1,05;1,012;10;4,9;3
+"All.American.Rye.Pale.Ale...Batch.2";2;1,069;1,012;55;7,5;10
+"Skulls.N.Pin.s.IPA";2;1,07;1,01;65;7,8;7
+"irish.red";4;1,05;1,012;28;5,1;14
+"Two.Hearted.Clone";2;1,071;1,018;45;7;7
+"IPA.12";2;1,062;1,015;68;6,2;9
+"Honey.Hefeweizen";1;1,049;1,011;13;4,9;3
+"hop.hefener";2;1,062;1,016;62;6;11
+"Oxente..2";2;1,069;1,017;45;6,8;11
+"Chicken.Wing.IPA";2;1,068;1,015;60;6,9;9
+"Hefe.2016";1;1,046;1,012;10;4,6;7
+"Wloscianskie";1;1,048;1,01;10;5;3
+"Irish.Red.January.2014";4;1,048;1,014;19;4,5;14
+"IPA.Project...Mt..Hood";2;1,061;1,016;53;5,9;9
+"BRB.Hefe";1;1,046;1,012;9;4,5;3
+"X28.AIPA";2;1,063;1,016;59;6,2;6
+"Hoppyum.IPA.Clone...All.Grain";2;1,067;1,016;67;6,7;8
+"Pinto.Pale.Ale.v.4";2;1,062;1,016;65;6;9
+"Snuggles.Hefe";1;1,048;1,011;11;4,8;5
+"Bavarian.Hefeweizen";1;1,051;1,013;11;4,9;3
+"Cathrouse";4;1,055;1,014;26;5,4;16
+"Bowersox.Wheat";1;1,051;1,013;10;5;4
+"One.Legged.Man";2;1,064;1,017;53;6,2;11
+"Belgian.Pale.Ale";2;1,057;1,015;64;5,5;9
+"Celebration.IPA..SN.Clone.";2;1,074;1,017;65;7,4;13
+"Rabbit.Run..Rusty.Pipes.3.";2;1,064;1,016;66;6,3;10
+"Purdy.s.IPA";2;1,059;1,016;64;5,6;10
+"Dad.s.Irish.Red";4;1,053;1,013;27;5,2;10
+"G.off.IPA";2;1,058;1,013;57;5,9;8
+"Can.You.Call.Me.Irish.";4;1,056;1,013;27;5,7;12
+"Bunking.off";2;1,059;1,017;51;5,5;7
+"American.IPA.5";2;1,065;1,016;52;6,3;8
+"ipa.experiment.11.28.2014";2;1,066;1,016;63;6,6;7
+"IPA.Project...Bravo";2;1,061;1,016;69;5,9;9
+"Rambler.IPA.Clone";2;1,067;1,013;64;7;15
+"CIPA.dry.hop.II";2;1,064;1,015;60;6,4;14
+"Red.RyePA";2;1,058;1,014;64;5,7;12
+"Hoppily.Ever.After.2";2;1,069;1,017;69;6,8;8
+"Centennial.IPA..Bells.Two.Hearted.Approximation.";2;1,064;1,015;64;6,4;7
+"Three.Hearted.Ale";2;1,072;1,018;58;7,1;9
+"Vienna.Hop.Capital";2;1,058;1,014;62;5,7;8
+"Sweet.Honey.Wheat";1;1,044;1,012;13;4,2;5
+"Two.hearted.Ale.Clone.1";2;1,062;1,015;63;6,2;10
+"Amarillo.Session.IPA";2;1,058;1,014;42;5,7;6
+"TNTs.Teach.a.Friend.to.Brew.Brew";2;1,067;1,017;53;6,6;6
+"Mosaic.IPA.2";2;1,069;1,017;63;6,8;6
+"Tapazilla";2;1,061;1,015;51;5,9;12
+"High.Time.Hefe";1;1,048;1,012;13;4,7;3
+"Lovebite.Weizenbier";1;1,048;1,012;14;4,7;4
+"Paw.Paw.s.Pils";3;1,049;1,013;39;4,7;2
+"Citrus.Stream.IPA";2;1,061;1,012;54;6,4;6
+"Grapefruit.honey.ale";2;1,057;1,013;69;5,8;12
+"Goat.Humper";2;1,068;1,017;69;6,7;7
+"Tavern.Wench.Belgian.RyePA";2;1,066;1,012;56;7,1;9
+"RY.P.A.";2;1,07;1,017;59;7;10
+"Pilsner.2";3;1,049;1,013;43;4,8;2
+"Untitled.German.Pilsner..Pils..157065";3;1,047;1,011;41;4,8;4
+"Summer.Fruit.Barrel.Pale.Ale";2;1,065;1,015;55;6,5;8
+"Adlholz.Amber.Ale";2;1,067;1,017;45;6,6;14
+"TPBC.Red.Ale";2;1,064;1,017;47;6,1;13
+"X.076..Das.Frische.Bier.Select";3;1,05;1,01;35;5,2;3
+"how.to.clean.out.the.hop.fridge";2;1,062;1,015;66;6,2;11
+"J.s.IPA";2;1,059;1,016;64;5,6;12
+"Sinistral.Warrior.IPA";2;1,073;1,016;67;7,5;11
+"Dark.Horse.IPA";2;1,059;1,016;60;5,7;12
+"Quotidian.IPA..3";2;1,065;1,016;49;6,4;14
+"Pride.of.Ringwood.IPA";2;1,069;1,017;48;6,7;10
+"In.Like.a.Lion.IPA";2;1,072;1,015;61;7,5;7
+"South.Pacific.Pale";2;1,062;1,016;45;6;8
+"X100.Stacks.IPA";2;1,067;1,017;50;6,6;7
+"Blackberry.Wheat.Beer";1;1,05;1,013;14;4,8;4
+"X.060..Winter.Weizen";1;1,051;1,013;13;4,9;3
+"Mosaic.IPA.3";2;1,068;1,017;59;6,7;8
+"AprIPA.AG.Take.2";2;1,057;1,015;66;5,5;6
+"IPA.feb2012";2;1,056;1,014;64;5,5;7
+"Divine.Ellie";2;1,073;1,017;43;7,3;7
+"Zombie.Plan";2;1,062;1,014;50;6,3;8
+"Boss.Washington";1;1,05;1,013;10;5;3
+"Cweet...Cimple.IPA";2;1,071;1,016;64;7,2;13
+"CatastroIPA";2;1,066;1,017;57;6,5;12
+"Torpedo.IPA.Clone";2;1,068;1,016;54;6,8;8
+"X55.Red.IPA";2;1,061;1,015;55;6,1;14
+"American.IPA.01";2;1,068;1,016;56;6,8;7
+"Grapefruit.Hefe";1;1,046;1,014;14;4,2;3
+"Bombay.IPA";2;1,062;1,016;53;6,1;7
+"Duke.Henry.Irish.Red";4;1,05;1,014;25;4,7;11
+"Rosemary.IPA..Pilsener.Malt";2;1,071;1,018;46;7;6
+"Walker.Sweat";2;1,071;1,014;44;7,4;7
+"Harvest.Ale";2;1,065;1,016;49;6,4;7
+"IPA.test..Mt.Hood";2;1,064;1,014;42;6,6;9
+"bookmaker";2;1,063;1,013;43;6,6;8
+"RIPA";2;1,063;1,015;68;6,4;9
+"X1335.IPA";2;1,061;1,015;63;6;6
+"AHS.Budget.IPA...Mini.Mash";2;1,059;1,015;61;5,8;8
+"Ich.bin.Amerikan.IPA";2;1,057;1,014;61;5,6;8
+"basic.hef";1;1,045;1,011;11;4,5;3
+"Dizzy.Desert";2;1,075;1,018;64;7,5;10
+"Dan.Dyer.s.Sloppy.Doppelganger";2;1,062;1,015;65;6,2;7
+"Flying.V";2;1,062;1,011;62;6,7;8
+"Bday.Bonfire.Beer";2;1,057;1,015;61;5,5;10
+"Erin.go.braugh";4;1,053;1,012;23;5,4;14
+"Oaked.IPA.II";2;1,058;1,012;69;6;11
+"Mosaic.American.IPA";2;1,066;1,016;62;6,7;12
+"Horizon.IPA.2";2;1,062;1,017;66;5,9;7
