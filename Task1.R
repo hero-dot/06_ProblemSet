@@ -44,38 +44,61 @@ brewData1 <- getDataSet(1,100)
 brewData2 <- getDataSet(101,200)
 brewData3 <- getDataSet(201,300)
 brewData <- rbind(brewData1,brewData2,brewData3)
-write.csv2(brewData, file = "brewData.csv")
-
-brewData <- read.csv2("brewData.csv")
 
 rownames(brewData)<- make.names(brewData$Name,unique = T)
 brewData%>%
-  select(-Name,-X)-> brewData
+  select(-Name)-> brewData
+
+write.csv2(brewData, file = "brewData.csv", row.names = T)
+
+brewData <- read.csv2("brewData.csv",row.names = 1)
+
+# Alternative with preserved style and no rownames
+getDataSetStyle <- function(firstPg,lastPg)
+{
+  dataComplete <- NULL
+  for (page in firstPg:lastPg) 
+  {
+    tempTable <- getTable(page)
+    dataComplete <- rbind(dataComplete,tempTable)
+  }
+  dataComplete%>%
+    filter(Style=="Weizen/Weissbier"|Style=="American IPA"|Style=="German Pilsner (Pils)"|Style=="Irish Red Ale")-> dataComplete
+  
+  return(dataComplete)
+}
+brewDataSt1 <- getDataSetStyle(1,100)
+brewDataSt2 <- getDataSetStyle(101,200)
+brewDataSt3 <- getDataSetStyle(201,300)
+brewDataSt <- rbind(brewDataSt1,brewDataSt2,brewDataSt3)
+write.csv2(brewData, file = "brewDataSt.csv")
+brewData <- read.csv2("brewDataSt.csv")
 
 # 1.a 
-PCAbrew = prcomp(brewData,scale = T)
+PCAbrew = prcomp(select(brewDataSt,-Name,-Style),scale = T,center = T)
 #data gets scaled
 summary(PCAbrew) #summary stats
 PCAbrew$rotation #loadings
 biplot(PCAbrew)
 screeplot(PCAbrew,type="lines")
 
-#
+# einfärben der Punkte nach Variablen 
 # DISKUSSION!!!
-#
+# Die erste Komponente erklärt 56% der Varianz und kann den ersten vier Variablen zugeordnet werden.
+# Die Farbe hat den geringsten Einfluss auf die erste Komponente.
 # Die ersten drei Komponenten erklären ca.90% der Varianz. 
 #
 #
 
 # 1.b 
 
-kMeansBrewer <- kmeans(select(brewData,-Style),4,nstart = 5)
+kMeansBrewer <- kmeans(select(brewDataSt,-Name,-Style),4,nstart = 5)
 
 plot(newiris[c("Sepal.Length",
                "Sepal.Width")], col=kc$cluster)
 points(kc$centers[,c("Sepal.Length",
                      "Sepal.Width")], col=1:3, pch=8, cex=2)
-table(kMeansBrewer$cluster,brewData$Style)
+table(kMeansBrewer$cluster,brewDataSt$Style)
 
 #
 #
@@ -84,14 +107,14 @@ table(kMeansBrewer$cluster,brewData$Style)
 #
 
 # 1.c
-# Change style back to a factor variable
-newBrewData = brewData
+newBrewData = brewDataSt
 newBrewData$Style= NULL
-distances= dist(brewData)
+newBrewData$Name = NULL
+distances= dist(select(brewDataSt,-Name,-Style))
 hc= hclust(distances)
 plot(hc)
 labels=cutree(hc,4)
-table(labels,brewData$Style)
+table(labels,brewDataSt$Style)
 hc= as.dendrogram(hc)
 dend1 <-color_branches(hc, k = 3)
 plot(dend1)
