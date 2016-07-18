@@ -12,20 +12,15 @@ require(gplots)
 require(dendser)
 
 # a. 
-
 voteData <- votes.repub
-
 
 lapply(colnames(voteData),function(x)as.numeric(gsub("X","",x)))-> date
 data.frame(date)->date
 
 voteData <- rbind(voteData, date)
-
 voteData <- as.data.frame(t(voteData))
-
 voteData%>%
   gather(State,Percentage, Alabama:Wyoming)-> voteDataLong
-
 colnames(voteDataLong)[1] <- "Date"
 
 voteDataLong%>%

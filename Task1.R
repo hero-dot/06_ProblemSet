@@ -82,29 +82,29 @@ PCAbrew$rotation #loadings
 biplot(PCAbrew)
 screeplot(PCAbrew,type="lines")
 
-# einfärben der Punkte nach Variablen 
-# DISKUSSION!!!
-# Die erste Komponente erklärt 56% der Varianz und kann den ersten vier Variablen zugeordnet werden.
+# # Die erste Komponente erklärt 56% der Varianz und kann den ersten vier Variablen zugeordnet werden.
 # Die Farbe hat den geringsten Einfluss auf die erste Komponente.
 # Die ersten drei Komponenten erklären ca.90% der Varianz. 
 #
 #
 
-# 1.b 
+# 1.b
 
-kMeansBrewer <- kmeans(select(brewDataSt,-Name,-Style),4,nstart = 5)
+newBrewData = brewDataSt
+newBrewData$Style= NULL
+newBrewData$Name = NULL
+head(newBrewData)
+kMeansBrewer <- kmeans(newBrewData,4,nstart = 5)
 
-plot(newiris[c("Sepal.Length",
-               "Sepal.Width")], col=kc$cluster)
-points(kc$centers[,c("Sepal.Length",
-                     "Sepal.Width")], col=1:3, pch=8, cex=2)
 table(kMeansBrewer$cluster,brewDataSt$Style)
 
-#
-#
-#
-#
-#
+
+plot(newBrewData[c("OG",
+               "FG")], col=kMeansBrewer$cluster)
+points(kMeansBrewer$centers[,c("OG",
+                     "FG")], col=1:4, pch=8, cex=2)
+# In this manner all pairs of variables could be visualized.
+# There would be 10 visualizations in total. 
 
 # 1.c
 newBrewData = brewDataSt
