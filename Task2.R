@@ -8,7 +8,7 @@ require(magrittr)
 require(dendextend)
 #install.packages("gplots")
 require(gplots)
-install.packages("DendSer")
+#install.packages("DendSer")
 require(dendser)
 
 # a. 
@@ -69,59 +69,42 @@ voteDataAggr%>%
 graph2b2
 
 # c.
-distances= dist(select(voteDataRegion,-State,-Region))
-hc= hclust(distances, method = "complete")
-plot(hc)
-labels=cutree(hc,4)
-table(labels,voteDataRegion$Region)
-hc= as.dendrogram(hc)
-dend1 <-color_branches(hc, k = 4)
+voteMatrix <- as.matrix(votes.repub)
+voteMatrix %>% dist %>% hclust(.,method = "complete") %>% as.dendrogram %>%
+  set("branches_k_color", k = 4) %>% set("branches_lwd", 2) %>% ladderize -> dend1
 plot(dend1)
 
-distances= dist(select(voteDataRegion,-State,-Region))
-hc= hclust(distances, method = "average")
-plot(hc)
-labels=cutree(hc,4)
-table(labels,voteDataRegion$Region)
-hc= as.dendrogram(hc)
-dend1 <-color_branches(hc, k = 4)
-plot(dend1)
+dend2 <- voteMatrix %>% dist %>% hclust(.,method = "average") %>% as.dendrogram %>%
+  set("branches_k_color", k = 4) %>% set("branches_lwd", 2) %>% ladderize
+plot(dend2)
 
-voteDataRegion%>%
-  filter(!is.na(Percentage))%>%
-  select(-State,-Region)%>%
-  dist(.)%>%
-  hclust(.,method = "complete")-> clust
-clust = as.dendrogram(clust)
-dend <- color_branches(clust, k = 4)
-plot(dend)
+# Distance between Alaska and California with NA values 
+testSet1 <- rbind(voteMatrix["Alaska",],voteMatrix["California",])
+dist(testSet1)
 
-voteDataRegion%>%
-  filter(State=="Alabama")%>%
-  select(-State, -Region)%>%
-  dist(.)->matrix1
+# Distance between Alaska and California with 0 instead of NA
+testSet2temp <- mapply(function(x) ifelse(is.na(x),0,x),votes.repub)
+row.names(testSet2temp) <- row.names(votes.repub)
+testSet2 <- rbind(testSet2["Alaska",],testSet2["California",])
+dist(testSet2)
 
-summary(matrix1)
+# As seen the distance increases, if the NA values are replaced  by a zero. Which in turn changes the 
+# clutering. 
 
-voteDataRegion%>%
-  filter(State=="Alabama")%>%
-  filter(!is.na(Percentage))%>%
-  select(-State, -Region)%>%
-  dist(.)->matrix2
-summary(matrix2)
+# Just for the curious mind, how the dendogram looks without NA's
+dend3 <- testSet2temp %>% dist %>% hclust(.,method = "complete") %>% as.dendrogram %>%
+  set("branches_k_color", k = 4) %>% set("branches_lwd", 2) %>% ladderize
+plot(dend3)
+
+dend4 <- testSet2temp %>% dist %>% hclust(.,method = "average") %>% as.dendrogram %>%
+  set("branches_k_color", k = 4) %>% set("branches_lwd", 2) %>% ladderize
+plot(dend4)
 
 # d.
-voteMatrix <- as.matrix(votes.repub)
 heatmap.2(voteMatrix)
-# now let's spice up the dendrograms a bit:
-Rowv  <- voteMatrix %>% dist %>% hclust %>% as.dendrogram %>%
-  set("branches_k_color", k = 4) %>% set("branches_lwd", 4) %>%
-  ladderize
-#    rotate_DendSer(ser_weight = dist(x))
-Colv  <- voteMatrix %>% t %>% dist %>% hclust %>% as.dendrogram %>%
-  set("branches_k_color", k = 4) %>% set("branches_lwd", 4) %>%
-  ladderize
-#    rotate_DendSer(ser_weight = dist(t(x)))
+heatmap.2(voteMatrix, Rowv = dend1, dendrogram = "row")
 
-heatmap.2(voteMatrix, Rowv = Rowv)
-          #, Colv = Colv)
+# e. 
+# The first three clusters are more or less aligned with the census regions. However, they don't contain all
+# the states of the corresponding region. The fourth cluster contains the missing states and is therefore not
+# aligned with the census region. 
