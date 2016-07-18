@@ -85,11 +85,8 @@ screeplot(PCAbrew,type="lines")
 # # Die erste Komponente erklärt 56% der Varianz und kann den ersten vier Variablen zugeordnet werden.
 # Die Farbe hat den geringsten Einfluss auf die erste Komponente.
 # Die ersten drei Komponenten erklären ca.90% der Varianz. 
-#
-#
 
 # 1.b
-
 newBrewData = brewDataSt
 newBrewData$Style= NULL
 newBrewData$Name = NULL
